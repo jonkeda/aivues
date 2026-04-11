@@ -72,6 +72,78 @@ Ja. Een Meta-account is vereist om de bril in te stellen en te gebruiken. Je kun
 </div>
 </details>
 
+<details class="faq-item">
+<summary><strong>Hoe ver kan de camera zien?</strong></summary>
+<div>
+
+Tekst lezen werkt het best binnen 1 meter. Scènebeschrijving werkt voor het hele gezichtsveld, vergelijkbaar met wat je normaal zou zien.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Kan ik ze over mijn eigen bril dragen?</strong></summary>
+<div>
+
+Niet direct. Ray-Ban Meta is een compleet montuur. Glazen op sterkte zijn beschikbaar via compatibele opticiens.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Nemen ze video op van andere mensen?</strong></summary>
+<div>
+
+Alleen als je bewust op de opnameknop drukt. Een witte privacy-LED brandt tijdens opname. Ze zijn niet ontworpen voor continu opnemen.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Werkt Meta AI offline?</strong></summary>
+<div>
+
+Nee. Meta AI vereist een internetverbinding via je telefoon. Zonder internet werken spraakcommando's, muziek en bellen nog wel.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Kan iemand anders zien wat ik zie?</strong></summary>
+<div>
+
+Alleen via Be My Eyes (jij start het gesprek) of als je handmatig een foto of video deelt. Niemand kan op afstand je camera benaderen.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Hoe maak ik ze schoon?</strong></summary>
+<div>
+
+Gebruik het meegeleverde poetsdoekje. Gebruik geen water op de speakers. Maak de cameralens regelmatig schoon voor heldere AI-beelden.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Kan ik ze gebruiken tijdens het fietsen?</strong></summary>
+<div>
+
+Technisch wel, maar AI-zicht gebruiken tijdens het fietsen is gevaarlijk. Gebruik ze alleen voor muziek en navigatie-audio.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Kan ik ze gebruiken met een cochleair implantaat?</strong></summary>
+<div>
+
+Ja, maar de brillenpoten en de processor zitten op dezelfde plek achter het oor. Test de fysieke pasvorm voor aankoop. Pas de neuspads en pootbuiging aan om druk te verminderen.
+
+</div>
+</details>
+
 ### Problemen oplossen
 
 <details class="faq-item">
@@ -94,6 +166,63 @@ Ja. Een Meta-account is vereist om de bril in te stellen en te gebruiken. Je kun
 2. Leg de bril in de case, sluit hem, wacht 10 seconden, haal hem eruit
 3. Tik in de Meta View app op "Nieuwe bril instellen"
 4. Lukt het nog steeds niet? Reset de bril: houd de knop 15 seconden ingedrukt tot de LED knippert
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>AI-beschrijvingen zijn slecht</strong></summary>
+<div>
+
+- Verbeter de verlichting — AI werkt veel beter in goed verlichte omgevingen
+- Richt je hoofd direct op het onderwerp
+- Schakel over naar Engels voor betere AI-herkenning
+- Ga dichter bij het voorwerp staan (binnen 1 meter voor tekst)
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Batterij gaat te snel leeg</strong></summary>
+<div>
+
+- Schakel "Hey Meta" wake word uit als je geen AI-functies gebruikt
+- Bewaar de bril in de case als je hem niet draagt
+- Controleer op een firmware-update in de Meta View app
+- Volledig opladen duurt circa 1 uur
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>"Hey Siri" of "Hey Google" hoort me niet</strong></summary>
+<div>
+
+- Je telefoon is te ver weg — houd hem in een borstzak
+- Controleer of Siri/Google Assistent is ingeschakeld op het vergrendelscherm
+- Zorg dat de telefoon niet op Niet storen / Focus-modus staat
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Meldingen worden niet voorgelezen</strong></summary>
+<div>
+
+- iPhone: controleer Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen is AAN
+- Android: controleer TalkBack → Instellingen → Meldingen hardop voorlezen
+- Zorg dat de betreffende app is ingeschakeld voor meldingen voorlezen
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Bril zit oncomfortabel</strong></summary>
+<div>
+
+- Stel de neuspads bij voor een lossere of strakkere pasvorm
+- Bij een cochleair implantaat processor: positioneer de brillenpoot vóór de processor
+- Probeer een andere montuusvorm — Ray-Ban Meta is er ook in andere modellen dan Wayfarer
 
 </div>
 </details>

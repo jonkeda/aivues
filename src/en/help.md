@@ -72,6 +72,78 @@ Yes. A Meta account is required to set up and use the glasses. You can create on
 </div>
 </details>
 
+<details class="faq-item">
+<summary><strong>How far can the camera see?</strong></summary>
+<div>
+
+Text reading works best within 1 meter. Scene description works for the entire field of view, similar to what you'd see naturally.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Can I wear them over my own glasses?</strong></summary>
+<div>
+
+Not directly. Ray-Ban Meta are full frames. Prescription lens inserts are available through compatible opticians.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Do they record video of other people?</strong></summary>
+<div>
+
+Only when you deliberately press the capture button. A white privacy LED turns on during recording. They are not designed for continuous recording.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Does Meta AI work offline?</strong></summary>
+<div>
+
+No. Meta AI requires an internet connection through your phone. Without internet, voice commands, music, and calls still work.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Can someone else see what I see?</strong></summary>
+<div>
+
+Only through Be My Eyes (you initiate the call) or if you manually share a photo or video. Nobody can remotely access your camera.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>How do I clean them?</strong></summary>
+<div>
+
+Use the included lens cloth. Don't use water on the speakers. Wipe the camera lens regularly for clear AI vision.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Can I use them while cycling?</strong></summary>
+<div>
+
+Technically yes, but using AI vision while cycling is dangerous. Use for music and navigation audio only.
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Can I use them with a cochlear implant?</strong></summary>
+<div>
+
+Yes, but the glasses temples and the processor sit in the same space behind the ear. Test the physical fit before purchasing. Adjust nose pads and temple bend to reduce pressure.
+
+</div>
+</details>
+
 ### Troubleshooting
 
 <details class="faq-item">
@@ -94,6 +166,63 @@ Yes. A Meta account is required to set up and use the glasses. You can create on
 2. Put glasses in the case, close it, wait 10 seconds, take them out
 3. In the Meta View app, tap "Set up new glasses"
 4. If still stuck, reset the glasses: hold button for 15 seconds until LED flashes
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>AI descriptions are poor quality</strong></summary>
+<div>
+
+- Improve lighting — AI works much better in well-lit environments
+- Turn your head directly toward the subject
+- Switch to English for better AI recognition
+- Move closer to the object (within 1 meter for text)
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Battery drains too fast</strong></summary>
+<div>
+
+- Turn off "Hey Meta" wake word when not using AI features
+- Keep glasses in the case when not wearing them
+- Check for a firmware update in the Meta View app
+- A full charge takes about 1 hour
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>"Hey Siri" or "Hey Google" doesn't hear me</strong></summary>
+<div>
+
+- Your phone is too far away — keep it in a breast pocket
+- Check that Siri/Google Assistant is enabled on the lock screen
+- Make sure the phone isn't in Do Not Disturb / Focus mode
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Notifications aren't read aloud</strong></summary>
+<div>
+
+- iPhone: check Settings → Accessibility → Siri → Announce Notifications is ON
+- Android: check TalkBack → Settings → Read notifications aloud
+- Make sure the specific app is enabled for notification reading
+
+</div>
+</details>
+
+<details class="faq-item">
+<summary><strong>Glasses feel uncomfortable</strong></summary>
+<div>
+
+- Adjust the nose pads for a looser or tighter fit
+- If wearing a cochlear implant processor, position the temple arm in front of the processor
+- Try different frame styles — Ray-Ban Meta comes in Wayfarer and other shapes
 
 </div>
 </details>
