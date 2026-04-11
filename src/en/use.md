@@ -108,4 +108,11 @@ All other apps use the phone camera.
 
 ## YouTube: Tips & Tricks {#videos}
 
-*Video links coming soon — The Blind Life, Unsightly Opinions, Be My Eyes, Meta official.*
+These channels feature visually impaired users with Ray-Ban Meta glasses:
+
+- 🎥 [The Blind Life — Ray-Ban Meta Smart Glasses](https://www.youtube.com/@TheBlindLife) — daily life with smart glasses, tips for blind users
+- 🎥 [Unsightly Opinions — Smart Glasses Reviews](https://www.youtube.com/@UnsightlyOpinions) — in-depth reviews and comparisons from a blind perspective
+- 🎥 [Be My Eyes — Tutorials & Updates](https://www.youtube.com/@BeMyEyes) — Be My AI demos, product updates
+- 🎥 [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — setup guides, feature demos, new releases
+
+**Search tip:** On YouTube, search for "Ray-Ban Meta blind" or "smart glasses visually impaired" to find more.
