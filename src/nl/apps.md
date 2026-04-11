@@ -8,13 +8,13 @@ permalink: /nl/apps/
 
 # Essentiële apps
 
-Deze acht apps vullen aan wat de bril alleen niet kan — van vrijwilligershulp tot bankbiljetherkenning.
+Deze zeven apps vullen aan wat de bril alleen niet kan — van vrijwilligershulp tot AI-scènebeschrijving.
 
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 
 ---
 
-## De 8 apps die iedereen nodig heeft
+## De 7 apps die iedereen nodig heeft
 
 Installeer deze voordat je begint met training. Elke app dient een ander doel.
 

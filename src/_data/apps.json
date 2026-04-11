@@ -18,14 +18,6 @@
       "url_android": "https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes"
     },
     {
-      "name": "Google Maps",
-      "description": { "en": "Walking navigation with voice guidance", "nl": "Wandelnavigatie met stemgeleiding" },
-      "platform": "both",
-      "price": "free",
-      "url_ios": "https://apps.apple.com/app/google-maps/id585027354",
-      "url_android": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
-    },
-    {
       "name": "WhatsApp",
       "description": { "en": "Messaging with native Meta AI integration", "nl": "Berichten met native Meta AI-integratie" },
       "platform": "both",
@@ -34,34 +26,28 @@
       "url_android": "https://play.google.com/store/apps/details?id=com.whatsapp"
     },
     {
-      "name": "Seeing AI",
-      "description": { "en": "OCR + scene description (iPhone only)", "nl": "OCR + scènebeschrijving (alleen iPhone)" },
-      "platform": "ios",
-      "price": "free",
-      "url_ios": "https://apps.apple.com/app/seeing-ai/id999062298"
-    },
-    {
-      "name": "Google Lookout",
-      "description": { "en": "OCR + scene description (Android only)", "nl": "OCR + scènebeschrijving (alleen Android)" },
-      "platform": "android",
-      "price": "free",
-      "url_android": "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal"
-    },
-    {
-      "name": "Lazarillo",
-      "description": { "en": "Continuous surroundings info and POI announcements", "nl": "Continue omgevingsinformatie en POI-meldingen" },
+      "name": "Envision AI",
+      "description": { "en": "OCR, scene description and object finding", "nl": "OCR, scènebeschrijving en objecten vinden" },
       "platform": "both",
       "price": "free",
-      "url_ios": "https://apps.apple.com/app/lazarillo/id1013123781",
-      "url_android": "https://play.google.com/store/apps/details?id=com.lazarillo"
+      "url_ios": "https://apps.apple.com/app/envision-ai/id1268632314",
+      "url_android": "https://play.google.com/store/apps/details?id=com.letsenvision.envisionai"
     },
     {
-      "name": "Cash Reader",
-      "description": { "en": "Euro banknote identification", "nl": "Eurobankbiljetherkenning" },
+      "name": "Ally",
+      "description": { "en": "Accessible AI assistant by Envision — voice chat, image description, web search", "nl": "Toegankelijke AI-assistent van Envision — spraakchat, beeldbeschrijving, zoeken op web" },
       "platform": "both",
       "price": "free",
-      "url_ios": "https://apps.apple.com/app/cash-reader/id1141344619",
-      "url_android": "https://play.google.com/store/apps/details?id=com.martindkluza.cashreader"
+      "url_ios": "https://apps.apple.com/app/ally-accessible-ai-assistant/id6476980907",
+      "url_android": "https://play.google.com/store/apps/details?id=com.letsenvision.assistant"
+    },
+    {
+      "name": "ScribeMe",
+      "description": { "en": "AI scanner, live visual assistant and document reader", "nl": "AI-scanner, live visuele assistent en documentlezer" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/scribeme/id6739640292",
+      "url_android": "https://play.google.com/store/apps/details?id=com.hany.subcribe"
     },
     {
       "name": "Spotify",

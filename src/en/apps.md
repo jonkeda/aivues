@@ -8,13 +8,13 @@ permalink: /en/apps/
 
 # Essential Apps
 
-These eight apps add features the glasses alone can't provide — from volunteer help to banknote recognition.
+These seven apps add features the glasses alone can't provide — from volunteer help to AI scene description.
 
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
 ---
 
-## The 8 Apps Every User Needs
+## The 7 Apps Every User Needs
 
 Install these before you start training. Each one serves a different purpose.
 
