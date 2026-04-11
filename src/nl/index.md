@@ -8,7 +8,7 @@ permalink: /nl/
 
 # AiVues — AI brillengids voor mensen met een visuele beperking
 
-Ray-Ban Meta AI brillen hebben een ingebouwde AI-camera die kan beschrijven wat er om je heen is, tekst kan voorlezen, objecten kan herkennen en meer — allemaal met je stem. Deze site helpt je om ze in te stellen en te leren gebruiken.
+Slimme brillen met een ingebouwde AI-camera kunnen beschrijven wat er om je heen is, tekst voorlezen, objecten herkennen en meer — allemaal met je stem. Voorlopig richt deze site zich op Meta smart glasses (Ray-Ban en Oakley). De site helpt je om ze in te stellen en te leren gebruiken.
 
 Niet zeker of een AI bril iets voor jou is? Lees [Is dit iets voor mij?](/nl/bril/)
 

@@ -8,7 +8,7 @@ permalink: /en/
 
 # AiVues — Smart Glasses Guide for Visually Impaired People
 
-Ray-Ban Meta smart glasses have a built-in AI camera that can describe what's around you, read text aloud, identify objects, and more — all by voice. This site helps you set them up and learn to use them.
+Smart glasses with a built-in AI camera can describe what's around you, read text aloud, identify objects, and more — all by voice. For now this site focuses on Meta smart glasses (Ray-Ban and Oakley). It helps you set them up and learn to use them.
 
 Not sure if smart glasses are for you? Read [Is This For Me?](/en/glasses/)
 
