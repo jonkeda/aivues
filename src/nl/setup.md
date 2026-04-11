@@ -23,7 +23,7 @@ sidebar:
 
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 
-Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te gaan. Een helper moet dit samen met de gebruiker doen.
+Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te gaan. Een helper kan dit samen met de gebruiker doen.
 
 Niet zeker of een AI bril iets voor jou is? Lees [Is dit iets voor mij?](/nl/bril/) eerst.
 
