@@ -17,7 +17,7 @@ sidebar:
 
 # 4 Weeks to Independence
 
-A step-by-step program to learn your smart glasses. One small task per day, 7 days per week, 4 weeks total. Check off each day as you go.
+A step-by-step program to learn your smart glasses. 28 short lessons across 4 weeks. Go at your own pace — one lesson at a time. Check off each lesson as you go.
 
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 

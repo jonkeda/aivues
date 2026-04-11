@@ -329,4 +329,4 @@ AiVues is gemaakt om visueel beperkte mensen een duidelijke, gerichte gids te ge
 - Code: [MIT](https://opensource.org/licenses/MIT)
 - Inhoud: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-**Broncode:** [GitHub](https://github.com/) *(repo-link volgt)*
+**Broncode:** [GitHub](https://github.com/jonkeda/aivues)

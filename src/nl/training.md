@@ -17,7 +17,7 @@ sidebar:
 
 # 4 Weken naar zelfstandigheid
 
-Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per dag, 7 dagen per week, 4 weken totaal. Vink elke dag af als je klaar bent.
+Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verdeeld over 4 weken. Ga in je eigen tempo — één les per keer. Vink elke les af als je klaar bent.
 
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 

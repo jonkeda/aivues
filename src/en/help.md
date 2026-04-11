@@ -329,4 +329,4 @@ AiVues was made to give visually impaired people a clear, focused guide for usin
 - Code: [MIT](https://opensource.org/licenses/MIT)
 - Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-**Source:** [GitHub](https://github.com/) *(repo link TBD)*
+**Source:** [GitHub](https://github.com/jonkeda/aivues)
