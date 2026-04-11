@@ -72,7 +72,6 @@ Vragen om bij VIP-cliënten de geschiktheid te beoordelen:
 
 AI brillen worden **nog niet erkend** als hulpmiddel door de meeste Nederlandse zorgverzekeraars. Echter:
 
-- **Prijsvergelijking:** Ray-Ban Meta kost aanzienlijk minder dan specifieke hulpmiddelbrillen zoals Envision Glasses (€3.500) of OrCam (€4.500).
 - **WMO:** Sommige gemeenten vergoeden mogelijk hulpmiddeltechnologie — cliënten moeten navragen bij hun gemeente.
 - **Advies:** Bewaar bonnen, dien een schriftelijk verzoek in bij de zorgverzekeraar en verwijs naar het groeiende bewijs voor AI-gestuurde visuele hulp.
 - Dit landschap verandert snel. Raadpleeg [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) voor updates.

@@ -72,7 +72,6 @@ Questions to ask VIP clients to assess fit:
 
 Smart glasses are **not yet recognized** as a hulpmiddel by most Dutch health insurers. However:
 
-- **Price comparison:** Ray-Ban Meta costs significantly less than dedicated assistive glasses like Envision Glasses (€3,500) or OrCam (€4,500).
 - **WMO:** Some municipalities may cover assistive technology — clients should check with their gemeente.
 - **Advice:** Keep receipts, submit a written request to the zorgverzekeraar, and reference the growing evidence base for AI-powered visual assistance.
 - This landscape is changing quickly. Check with [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) for updates.
