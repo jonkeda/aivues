@@ -95,13 +95,20 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ## Koppelen met telefoon {#koppelen}
 
-*Inhoud volgt binnenkort — Meta View app installeren, Bluetooth koppelen, firmware-update.*
+1. Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android)
+2. Open de app en log in met een Meta-account
+3. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
+4. Accepteer de firmware-update wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. **Houd de bril in de case** tijdens de update.
+5. Na de update verbindt de bril automatisch opnieuw
 
 <div class="iphone-only">
 
 ### iPhone koppelen
 
-*iPhone-specifiek: Bluetooth-instellingen, audio naar bril routeren.*
+- Controleer Bluetooth-verbinding: Instellingen → Bluetooth → "Ray-Ban Meta" moet **Verbonden** tonen
+- Audio-routing: muziek, VoiceOver en Siri spelen automatisch af via de brillenspeakers
+- Test: speel een nummer af — je zou het door de bril moeten horen, niet via de telefoon
+- Als audio via de telefoon komt: verbreek en herverbind Bluetooth, of controleer de Meta View app
 
 </div>
 
@@ -109,7 +116,10 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ### Android koppelen
 
-*Android-specifiek: Bluetooth-instellingen, audio naar bril routeren.*
+- Controleer Bluetooth-verbinding: Instellingen → Verbonden apparaten → "Ray-Ban Meta" moet **Actief** tonen
+- Audio-routing: media-audio en telefoongesprekken spelen af via de brillenspeakers
+- Test: speel een nummer af — je zou het door de bril moeten horen, niet via de telefoon
+- Geef meldingstoegang aan de Meta View app wanneer daarom gevraagd wordt
 
 </div>
 

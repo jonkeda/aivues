@@ -95,13 +95,20 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ## Pair with Phone {#pair}
 
-*Content coming soon — Meta View app installation, Bluetooth pairing, firmware update.*
+1. Install the **Meta View** app from the App Store (iPhone) or Google Play (Android)
+2. Open the app and sign in with a Meta account
+3. Follow the in-app pairing wizard — it will find the glasses automatically
+4. When prompted, allow the firmware update — this takes 5–10 minutes. **Keep the glasses in the case** during the update.
+5. After the update, the glasses will reconnect automatically
 
 <div class="iphone-only">
 
 ### iPhone Pairing
 
-*iPhone-specific: Bluetooth settings, audio routing to glasses.*
+- Confirm Bluetooth is connected: Settings → Bluetooth → "Ray-Ban Meta" should say **Connected**
+- Audio routing: music, VoiceOver, and Siri all play through the glasses speakers automatically
+- Test: play a song — you should hear it through the glasses, not the phone speaker
+- If audio comes from the phone: disconnect and reconnect Bluetooth, or check the Meta View app
 
 </div>
 
@@ -109,7 +116,10 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ### Android Pairing
 
-*Android-specific: Bluetooth settings, audio routing to glasses.*
+- Confirm Bluetooth is connected: Settings → Connected Devices → "Ray-Ban Meta" should say **Active**
+- Audio routing: media audio and phone calls play through the glasses speakers
+- Test: play a song — you should hear it through the glasses, not the phone speaker
+- Grant notification access to the Meta View app when prompted
 
 </div>
 
