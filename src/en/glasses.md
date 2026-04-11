@@ -8,13 +8,29 @@ permalink: /en/glasses/
 
 # Is This For Me?
 
-This guide is for anyone involved with smart glasses for the visually impaired.
+Ray-Ban Meta glasses have a built-in camera and AI that you control with your voice. Think of them as an extra pair of eyes on your nose — not a replacement for your cane or guide dog, but a helpful addition.
 
-**You'll find what you need here if you are:**
+**Ask them and they'll tell you:**
 
-- A person with a visual impairment using (or considering) smart glasses
-- A family member, caregiver, or helper setting up glasses for someone
-- An optician advising clients about smart glasses
+- What's in front of you — scenes, objects, colors
+- What a sign, menu, label, or letter says
+- Which direction to walk
+- The answer to almost any question
+
+**They also handle everyday tasks hands-free:**
+
+- Phone calls and messages
+- Music and podcasts
+- Photos and video
+
+**Good to know before you start:**
+
+- They need your phone nearby to work
+- Battery lasts about four to six hours
+- They don't work well in complete darkness
+- Face recognition isn't reliable yet
+
+To get started you need the glasses, an iPhone or Android phone, a free Meta account, Wi-Fi, and someone to help with the first-time setup.
 
 ## Where do you want to go?
 
