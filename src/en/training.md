@@ -135,7 +135,7 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 *After this lesson: you've made your first call through the glasses and installed the essential apps.*
 
 - Say: **"Hey Meta, call [name]"** — call a friend or family member. Have a short conversation
-- After the call, install the 8 essential apps listed on the [Apps page](/en/apps/)
+- After the call, install the 7 essential apps listed on the [Apps page](/en/apps/)
 - Open **Be My Eyes**, create an account, and make a test call to a volunteer
 - The volunteer will see through your glasses camera and can help describe anything
 
@@ -459,15 +459,16 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 </details>
 
 <details>
-<summary>Lesson 2 — Navigation App</summary>
+<summary>Lesson 2 — Envision AI</summary>
 <div>
 
-*After this lesson: your phone announces nearby places as you walk.*
+*After this lesson: you can use Envision AI to read text, describe scenes, and find objects.*
 
-- Install **Lazarillo** (App Store / Google Play) — it announces surroundings continuously
-- Walk a familiar route with Lazarillo turned on and listen: "Pharmacy on your left," "Bus stop ahead"
-- Compare with Google Maps: Lazarillo = passive awareness, Google Maps = turn-by-turn directions
-- You can run both at the same time for maximum information
+- Open **Envision AI** — it does OCR, scene description, and object finding
+- Point the phone camera at a document or letter and let it read the full text aloud
+- Try scene description: point the camera at a room and tap "Describe"
+- Compare with **"Hey Meta, read this"**: Envision is better for long documents; Meta AI is faster for quick reads
+- Envision uses the phone camera, not the glasses
 
 <label class="progress-check"><input type="checkbox" id="w4d2"> Done</label>
 
@@ -475,16 +476,16 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 </details>
 
 <details>
-<summary>Lesson 3 — Cash Reader</summary>
+<summary>Lesson 3 — Ally</summary>
 <div>
 
-*After this lesson: you can identify banknotes independently.*
+*After this lesson: you can use Ally as your accessible AI assistant.*
 
-- Open **Cash Reader** and point the phone camera at a banknote
-- It announces the denomination: "20 euros" / "50 euros"
-- Practice with multiple bills at different distances
-- Works with Euro, USD, GBP, and many other currencies
-- Tip: lay the phone flat on a table and place the bill on top for reliable reads
+- Open **Ally** (by Envision) — an accessible AI assistant with voice chat
+- Try asking it a question by voice — it responds conversationally
+- Take a photo and ask Ally to describe it in detail
+- Try a web search: ask Ally to look something up for you
+- Ally is designed for accessibility from the ground up — explore its features
 
 <label class="progress-check"><input type="checkbox" id="w4d3"> Done</label>
 
@@ -492,27 +493,16 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 </details>
 
 <details>
-<summary>Lesson 4 — Reading App</summary>
+<summary>Lesson 4 — ScribeMe</summary>
 <div>
 
-*After this lesson: you can scan and read long documents with your phone.*
+*After this lesson: you can scan and read documents with ScribeMe.*
 
-<div class="iphone-only">
-
-- Open **Seeing AI** and select "Short Text" or "Document" mode
-- Scan a document, letter, or book page
-- Compare with **"Hey Meta, read this"**: Seeing AI is better for long text; Meta AI is faster for quick reads
-- Seeing AI uses the phone camera, not the glasses
-
-</div>
-<div class="android-only">
-
-- Open **Google Lookout** and select "Text" or "Explore" mode
-- Scan a document, letter, or book page
-- Compare with **"Hey Meta, read this"**: Lookout is better for long text; Meta AI is faster for quick reads
-- Google Lookout uses the phone camera, not the glasses
-
-</div>
+- Open **ScribeMe** — an AI scanner, live visual assistant, and document reader
+- Point the phone camera at a document, letter, or book page
+- Let it scan and read the text aloud
+- Try the live visual assistant: point the camera at an object and ask what it is
+- Compare with Meta AI and Envision: each app has different strengths — try all three to find your favorite
 
 <label class="progress-check"><input type="checkbox" id="w4d4"> Done</label>
 
@@ -528,9 +518,9 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 Put it all together in a real day:
 
 - **Morning:** "Hey Siri/Google, what's my day look like?" (weather + calendar)
-- **Go out:** "Navigate to [shop]" with Google Maps. Lazarillo announces surroundings
+- **Go out:** "Navigate to [shop]" with your map app. Use Envision AI to read signs along the way
 - **In the shop:** "Hey Meta, what is this?" for products. "Hey Meta, read this" for labels
-- **Pay:** use Cash Reader to verify change, or use phone contactless payment
+- **Pay:** use phone contactless payment, or ask "Hey Meta, read this" for price tags
 - **Home:** "Hey Meta, what do you see?" to check if lights are on
 
 <label class="progress-check"><input type="checkbox" id="w4d5"> Done</label>

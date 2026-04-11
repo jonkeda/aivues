@@ -135,7 +135,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 *Na deze les: je hebt je eerste gesprek via de bril gevoerd en de belangrijkste apps geïnstalleerd.*
 
 - Zeg: **"Hey Meta, call [naam]"** — bel een vriend of familielid. Voer een kort gesprek via de bril
-- Installeer na het gesprek de 8 essentiële apps van de [Apps-pagina](/nl/apps/)
+- Installeer na het gesprek de 7 essentiële apps van de [Apps-pagina](/nl/apps/)
 - Open **Be My Eyes**, maak een account aan en maak een testgesprek met een vrijwilliger
 - De vrijwilliger kijkt mee door je brillencamera en kan helpen met het beschrijven van je omgeving
 
@@ -459,15 +459,16 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 </details>
 
 <details>
-<summary>Les 2 — Navigatie-app</summary>
+<summary>Les 2 — Envision AI</summary>
 <div>
 
-*Na deze les: je telefoon kondigt plaatsen in de buurt aan terwijl je loopt.*
+*Na deze les: je kunt Envision AI gebruiken om tekst te lezen, scènes te beschrijven en objecten te vinden.*
 
-- Installeer **Lazarillo** (App Store / Google Play) — het kondigt continu je omgeving aan
-- Loop een bekende route met Lazarillo aan en luister: "Apotheek links van je," "Bushalte verderop"
-- Vergelijk met Google Maps: Lazarillo = passief bewustzijn, Google Maps = stap-voor-stap route
-- Je kunt beide tegelijk gebruiken voor maximale informatie
+- Open **Envision AI** — het doet OCR, scènebeschrijving en objecten vinden
+- Richt de telefooncamera op een document of brief en laat het de volledige tekst voorlezen
+- Probeer scènebeschrijving: richt de camera op een kamer en tik op "Beschrijf"
+- Vergelijk met **"Hey Meta, read this"**: Envision is beter voor lange documenten; Meta AI is sneller voor korte stukken
+- Envision gebruikt de telefooncamera, niet de bril
 
 <label class="progress-check"><input type="checkbox" id="w4d2"> Klaar</label>
 
@@ -475,16 +476,16 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 </details>
 
 <details>
-<summary>Les 3 — Cash Reader</summary>
+<summary>Les 3 — Ally</summary>
 <div>
 
-*Na deze les: je kunt zelfstandig bankbiljetten herkennen.*
+*Na deze les: je kunt Ally gebruiken als je toegankelijke AI-assistent.*
 
-- Open **Cash Reader** en richt de telefooncamera op een bankbiljet
-- Het zegt de waarde: "20 euro" / "50 euro"
-- Oefen met meerdere biljetten op verschillende afstanden
-- Werkt met euro, dollar, pond en vele andere valuta
-- Tip: leg de telefoon plat op tafel en leg het biljet erop voor betrouwbare herkenning
+- Open **Ally** (van Envision) — een toegankelijke AI-assistent met spraakchat
+- Probeer een vraag te stellen via spraak — Ally antwoordt in gespreksvorm
+- Maak een foto en vraag Ally om het in detail te beschrijven
+- Probeer een webzoekopdracht: vraag Ally om iets voor je op te zoeken
+- Ally is vanaf de basis ontworpen voor toegankelijkheid — ontdek de functies
 
 <label class="progress-check"><input type="checkbox" id="w4d3"> Klaar</label>
 
@@ -492,27 +493,16 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 </details>
 
 <details>
-<summary>Les 4 — Lees-app</summary>
+<summary>Les 4 — ScribeMe</summary>
 <div>
 
-*Na deze les: je kunt lange documenten scannen en laten voorlezen met je telefoon.*
+*Na deze les: je kunt documenten scannen en laten voorlezen met ScribeMe.*
 
-<div class="iphone-only">
-
-- Open **Seeing AI** en kies "Korte tekst" of "Document" modus
-- Scan een document, brief of boekpagina
-- Vergelijk met **"Hey Meta, read this"**: Seeing AI is beter voor lange tekst; Meta AI is sneller voor korte stukken
-- Seeing AI gebruikt de telefooncamera, niet de bril
-
-</div>
-<div class="android-only">
-
-- Open **Google Lookout** en kies "Tekst" of "Ontdekken" modus
-- Scan een document, brief of boekpagina
-- Vergelijk met **"Hey Meta, read this"**: Lookout is beter voor lange tekst; Meta AI is sneller voor korte stukken
-- Google Lookout gebruikt de telefooncamera, niet de bril
-
-</div>
+- Open **ScribeMe** — een AI-scanner, live visuele assistent en documentlezer
+- Richt de telefooncamera op een document, brief of boekpagina
+- Laat het de tekst scannen en voorlezen
+- Probeer de live visuele assistent: richt de camera op een object en vraag wat het is
+- Vergelijk met Meta AI en Envision: elke app heeft andere sterke punten — probeer alle drie om je favoriet te vinden
 
 <label class="progress-check"><input type="checkbox" id="w4d4"> Klaar</label>
 
@@ -528,9 +518,9 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 Combineer alles in een echte dag:
 
 - **Ochtend:** "Hey Siri/Google, what's my day look like?" (weer + agenda)
-- **Naar buiten:** "Navigate to [winkel]" met Google Maps. Lazarillo kondigt de omgeving aan
+- **Naar buiten:** "Navigate to [winkel]" met je kaart-app. Gebruik Envision AI om borden te lezen onderweg
 - **In de winkel:** "Hey Meta, what is this?" voor producten. "Hey Meta, read this" voor labels
-- **Betalen:** Cash Reader om wisselgeld te controleren, of contactloos betalen met je telefoon
+- **Betalen:** contactloos betalen met je telefoon, of vraag "Hey Meta, read this" voor prijskaartjes
 - **Thuis:** "Hey Meta, what do you see?" om te controleren of de lichten aan zijn
 
 <label class="progress-check"><input type="checkbox" id="w4d5"> Klaar</label>

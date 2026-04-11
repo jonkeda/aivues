@@ -42,7 +42,7 @@ Installeer deze voordat je begint met training. Elke app dient een ander doel.
 
 ## Nederland-specifieke apps
 
-Naast de acht basisapps zijn er Nederlandse apps die goed werken met VoiceOver en TalkBack.
+Naast de zeven basisapps zijn er Nederlandse apps die goed werken met VoiceOver en TalkBack.
 
 ### Openbaar vervoer
 
