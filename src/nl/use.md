@@ -21,13 +21,15 @@ sidebar:
 
 # Dagelijks gebruik
 
-De referentiepagina. Bookmark deze.
+Je snelgids voor dagelijkse commando's en tips. Bookmark deze pagina.
 
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 
 ---
 
 ## Spraakcommando's — Snelgids
+
+De bril reageert op twee wake words. Gebruik **"Hey Meta"** voor alles wat de bril kan zien en doen, en **"Hey Siri"** of **"Hey Google"** voor telefoonfuncties.
 
 ### Meta AI ("Hey Meta") {#meta-ai}
 
@@ -72,10 +74,20 @@ De referentiepagina. Bookmark deze.
 
 ### Samen gebruiken {#samen}
 
-Je hebt **twee wake words**. Gebruik ze voor verschillende dingen:
+Je hebt twee wake words. Elk bestuurt andere dingen.
 
-- **"Hey Meta"** → zien, lezen, herkennen, WhatsApp, muziek, foto's
-- **"Hey Siri" / "Hey Google"** → navigatie, bellen, berichten, agenda, smart home, instellingen
+**"Hey Meta" is voor de bril:**
+
+- Zien, lezen, herkennen
+- WhatsApp-berichten
+- Muziek en foto's
+
+**"Hey Siri" / "Hey Google" is voor de telefoon:**
+
+- Navigatie en routebeschrijving
+- Bellen en sms
+- Agenda, timers en herinneringen
+- Smart home bediening
 
 Oefen met wisselen. Het wordt binnen een week vanzelfsprekend.
 
@@ -83,19 +95,31 @@ Oefen met wisselen. Het wordt binnen een week vanzelfsprekend.
 
 ## Tips die ertoe doen {#tips}
 
-- **Draai je hoofd** naar wat je wilt zien — de camera zit in de bril
-- **Goed licht** = betere herkenning en lezen
-- **Borstzak** voor je telefoon — betere microfoonopname
+Kleine dingen die een groot verschil maken in hoe goed de bril voor je werkt.
+
+**Voor betere AI-resultaten:**
+
+- Draai je hoofd naar wat je wilt zien — de camera zit in de bril
+- Goed licht betekent betere herkenning en lezen
+- Engelse taalinstelling geeft betere AI-kwaliteit, ook in Nederland
+
+**Voor comfort en batterij:**
+
+- Batterij gaat 4–6 uur mee — laad op tijdens lunch
+- De case biedt 8 extra ladingen — houd hem in je tas
 - USB-C oplader werkt voor zowel bril als iPhone 15+
-- **Engelse taalinstelling** geeft betere AI-kwaliteit (ook in NL)
-- Batterij gaat 4-6 uur mee — oplaad tijdens lunch
-- De hoes geeft 8 extra ladingen — houd hem in je tas
+
+**Voor stemcommando's:**
+
+- Houd je telefoon in een borstzak voor betere microfoonopname
 
 ---
 
 ## Apps die de brillencamera gebruiken {#camera-apps}
 
-Slechts 4 apps kunnen door de bril kijken:
+De meeste apps gebruiken de telefooncamera, maar vier apps kunnen direct door de bril kijken.
+
+**Deze apps werken via de bril:**
 
 1. **Meta AI** (ingebouwd) — "Hey Meta, what do you see?"
 2. **Be My Eyes** — live vrijwilligershulp + Be My AI
@@ -108,11 +132,11 @@ Alle andere apps gebruiken de telefooncamera.
 
 ## YouTube: Tips & trucs {#videos}
 
-Deze kanalen laten visueel beperkte gebruikers zien met Ray-Ban Meta brillen:
+Deze kanalen laten visueel beperkte gebruikers hun ervaring met Ray-Ban Meta brillen delen.
 
-- 🎥 [The Blind Life — Ray-Ban Meta Smart Glasses](https://www.youtube.com/@TheBlindLife) — dagelijks leven met AI brillen, tips voor blinde gebruikers
-- 🎥 [Unsightly Opinions — Smart Glasses Reviews](https://www.youtube.com/@UnsightlyOpinions) — uitgebreide reviews en vergelijkingen vanuit blind perspectief
-- 🎥 [Be My Eyes — Tutorials & Updates](https://www.youtube.com/@BeMyEyes) — Be My AI demo's, productupdates
-- 🎥 [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — installatiegidsen, functiedemo's, nieuwe releases
+- [The Blind Life](https://www.youtube.com/@TheBlindLife) — dagelijks leven met AI brillen, tips voor blinde gebruikers
+- [Unsightly Opinions](https://www.youtube.com/@UnsightlyOpinions) — uitgebreide reviews en vergelijkingen vanuit blind perspectief
+- [Be My Eyes](https://www.youtube.com/@BeMyEyes) — Be My AI demo's, productupdates
+- [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — installatiegidsen, functiedemo's, nieuwe releases
 
 **Zoektip:** Zoek op YouTube naar "Ray-Ban Meta blind" of "smart glasses visually impaired" voor meer video's.

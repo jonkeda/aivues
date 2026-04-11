@@ -2,7 +2,7 @@
 layout: layouts/page-with-sidebar.njk
 title: Help & Resources
 lang: en
-order: 5
+order: 7
 permalink: /en/help/
 sidebar:
   - id: faq
@@ -18,6 +18,8 @@ sidebar:
 ---
 
 # Help & Resources
+
+Answers to common questions, troubleshooting, and links to organizations that can help.
 
 ---
 
@@ -38,7 +40,7 @@ Yes. Ray-Ban Meta are IPX4 rated — they handle splashes and light rain. Don't 
 <summary><strong>How long does the battery last?</strong></summary>
 <div>
 
-4-6 hours of active use. The charging case gives about 8 additional full charges. Charge the glasses during lunch.
+4–6 hours of active use. The charging case gives about 8 additional full charges. Charge the glasses during lunch.
 
 </div>
 </details>
@@ -144,6 +146,8 @@ Yes, but the glasses temples and the processor sit in the same space behind the 
 
 ### Troubleshooting
 
+If something isn't working, try these fixes before contacting support.
+
 <details class="faq-item">
 <summary><strong>Meta AI doesn't respond</strong></summary>
 <div>
@@ -239,14 +243,16 @@ Yes, but the glasses temples and the processor sit in the same space behind the 
 
 ## Organizations & Communities {#organizations}
 
-### Netherlands
+These organizations offer rehabilitation, support, and advocacy for visually impaired people.
+
+**Netherlands:**
 
 - [Koninklijke Visio](https://www.visio.org/) — rehabilitation and support
 - [Bartiméus](https://www.bartimeus.nl/) — rehabilitation and support
 - [Oogvereniging](https://www.oogvereniging.nl/) — patient advocacy
 - [Oogfonds](https://www.oogfonds.nl/) — research funding
 
-### International
+**International:**
 
 - [Be My Eyes](https://www.bemyeyes.com/) — volunteer vision help + AI
 - [AppleVis](https://www.applevis.com/) — Apple accessibility community
@@ -255,6 +261,8 @@ Yes, but the glasses temples and the processor sit in the same space behind the 
 ---
 
 ## YouTube Channels {#youtube}
+
+These channels cover smart glasses from a visually impaired perspective.
 
 - [The Blind Life](https://www.youtube.com/@TheBlindLife) — popular VI tech reviews
 - [Unsightly Opinions](https://www.youtube.com/@UnsightlyOpinions) — smart glasses reviews for blind users

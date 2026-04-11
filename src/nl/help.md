@@ -2,7 +2,7 @@
 layout: layouts/page-with-sidebar.njk
 title: Hulp & bronnen
 lang: nl
-order: 5
+order: 7
 permalink: /nl/hulp/
 sidebar:
   - id: faq
@@ -18,6 +18,8 @@ sidebar:
 ---
 
 # Hulp & bronnen
+
+Antwoorden op veelgestelde vragen, probleemoplossing en links naar organisaties die kunnen helpen.
 
 ---
 
@@ -38,7 +40,7 @@ Ja. Ray-Ban Meta is IPX4-gecertificeerd — ze kunnen spatwater en lichte regen 
 <summary><strong>Hoe lang gaat de batterij mee?</strong></summary>
 <div>
 
-4-6 uur bij actief gebruik. De oplaadcase geeft ongeveer 8 extra volledige ladingen. Laad op tijdens de lunch.
+4–6 uur bij actief gebruik. De oplaadcase geeft ongeveer 8 extra volledige ladingen. Laad op tijdens de lunch.
 
 </div>
 </details>
@@ -144,6 +146,8 @@ Ja, maar de brillenpoten en de processor zitten op dezelfde plek achter het oor.
 
 ### Problemen oplossen
 
+Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met support.
+
 <details class="faq-item">
 <summary><strong>Meta AI reageert niet</strong></summary>
 <div>
@@ -239,14 +243,16 @@ Ja, maar de brillenpoten en de processor zitten op dezelfde plek achter het oor.
 
 ## Organisaties & gemeenschappen {#organisaties}
 
-### Nederland
+Deze organisaties bieden revalidatie, ondersteuning en belangenbehartiging voor visueel beperkte mensen.
+
+**Nederland:**
 
 - [Koninklijke Visio](https://www.visio.org/) — revalidatie en begeleiding
 - [Bartiméus](https://www.bartimeus.nl/) — revalidatie en begeleiding
 - [Oogvereniging](https://www.oogvereniging.nl/) — patiëntenbelangen
 - [Oogfonds](https://www.oogfonds.nl/) — onderzoeksfinanciering
 
-### Internationaal
+**Internationaal:**
 
 - [Be My Eyes](https://www.bemyeyes.com/) — vrijwillige visuele hulp + AI
 - [AppleVis](https://www.applevis.com/) — Apple-toegankelijkheidsgemeenschap
@@ -255,6 +261,8 @@ Ja, maar de brillenpoten en de processor zitten op dezelfde plek achter het oor.
 ---
 
 ## YouTube-kanalen {#youtube}
+
+Deze kanalen behandelen AI brillen vanuit het perspectief van visueel beperkten.
 
 - [The Blind Life](https://www.youtube.com/@TheBlindLife) — populaire VI tech reviews
 - [Unsightly Opinions](https://www.youtube.com/@UnsightlyOpinions) — AI brillen reviews voor blinden

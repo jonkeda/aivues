@@ -8,13 +8,15 @@ permalink: /en/apps/
 
 # Essential Apps
 
-The 8 apps every smart glasses user should install. No AI finder yet — that's coming later.
+These eight apps add features the glasses alone can't provide — from volunteer help to banknote recognition.
 
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
 ---
 
 ## The 8 Apps Every User Needs
+
+Install these before you start training. Each one serves a different purpose.
 
 {% for app in apps.apps %}
 <div class="app-card">
@@ -39,6 +41,8 @@ The 8 apps every smart glasses user should install. No AI finder yet — that's 
 ---
 
 ## Want More?
+
+These directories review apps specifically for accessibility.
 
 - [AppleVis App Directory](https://www.applevis.com/apps) — extensive accessibility-rated app catalog
 - [Google Accessibility Apps](https://play.google.com/store/apps/collection/promotion_topic_accessibility) — Android accessibility tools

@@ -21,32 +21,44 @@ sidebar:
 
 # For Opticians
 
-Smart glasses are a new tool for your visually impaired clients. Here's what you need to know.
+Smart glasses with AI are a new tool for your visually impaired clients. This page gives you what you need for a client conversation, a quick in-store demo, and referrals.
 
 ---
 
 ## What Smart Glasses Can Do for VIP Clients {#what}
 
-- AI-powered scene description ("What's in front of me?")
-- Text reading (menus, labels, letters)
-- Object and color identification
-- Hands-free calling and messaging
-- Walking navigation with voice
+The glasses let visually impaired people get information about their surroundings using only their voice.
+
+**What the AI can do:**
+
+- Describe scenes — "What's in front of me?"
+- Read text aloud — menus, labels, letters, signs
+- Identify objects and colors
+- Make hands-free calls and send messages
+- Give walking directions by voice
 
 ---
 
 ## Fitting Guide {#fitting}
 
-- **Frame:** Ray-Ban Wayfarer shape. Fits most adults.
-- **Prescription lenses:** Available via compatible lens insert programs. Check with your lab for frame compatibility.
-- **Sizing:** Standard Ray-Ban sizing applies.
-- **Cochlear implant users:** Temple arms are thicker than standard glasses due to built-in speakers. Test fit alongside the processor.
+The fit is similar to standard Ray-Ban frames, with a few things to keep in mind.
+
+**Frame and sizing:**
+
+- Ray-Ban Wayfarer shape — fits most adults
+- Standard Ray-Ban sizing applies
+- Prescription lens inserts available — check with your lab for frame compatibility
+
+**Special considerations:**
+
+- Temple arms are thicker than standard glasses due to built-in speakers
+- Cochlear implant users: test fit alongside the processor — both sit behind the ear
 
 ---
 
 ## Conversation Starters {#conversation}
 
-Questions to ask VIP clients to assess fit:
+These questions help you assess whether smart glasses are a good fit for a client.
 
 1. What is your level of vision? (light perception, tunnel vision, blurry, etc.)
 2. Do you use a smartphone? iPhone or Android?
@@ -59,6 +71,8 @@ Questions to ask VIP clients to assess fit:
 
 ## 5-Minute In-Store Demo Script {#demo}
 
+A quick demo that lets the client experience the glasses firsthand. Works best with a charged pair on hand.
+
 1. **Introduction** (30 sec) — "These are Ray-Ban Meta. They look like normal sunglasses but have a camera and AI built in."
 2. **Put on** (30 sec) — Help the client put them on. Adjust nose pads. Check comfort.
 3. **Scene description** (1 min) — Say: **"Hey Meta, what do you see?"** Have them try it in the store. React to the response together.
@@ -70,15 +84,21 @@ Questions to ask VIP clients to assess fit:
 
 ## Insurance / Hulpmiddel (NL) {#insurance}
 
-Smart glasses are **not yet recognized** as a hulpmiddel by most Dutch health insurers. However:
+Smart glasses are **not yet recognized** as a hulpmiddel by most Dutch health insurers. The landscape is changing, though.
 
-- **WMO:** Some municipalities may cover assistive technology — clients should check with their gemeente.
-- **Advice:** Keep receipts, submit a written request to the zorgverzekeraar, and reference the growing evidence base for AI-powered visual assistance.
-- This landscape is changing quickly. Check with [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) for updates.
+**What clients can do:**
+
+- Check with their gemeente about WMO coverage for assistive technology
+- Keep receipts and submit a written request to their zorgverzekeraar
+- Reference the growing evidence base for AI-powered visual assistance
+
+Check [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) for the latest developments.
 
 ---
 
 ## Referrals {#referrals}
+
+Point clients to these organizations for rehabilitation and ongoing support.
 
 - [Koninklijke Visio](https://www.visio.org/) — rehabilitation and support
 - [Bartiméus](https://www.bartimeus.nl/) — rehabilitation and support

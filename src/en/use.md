@@ -21,13 +21,15 @@ sidebar:
 
 # Daily Use
 
-The reference page. Bookmark this.
+Your quick reference for everyday commands and tips. Bookmark this page.
 
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
 ---
 
 ## Voice Commands — Quick Reference
+
+The glasses respond to two wake words. Use **"Hey Meta"** for anything the glasses can see and do, and **"Hey Siri"** or **"Hey Google"** for phone features.
 
 ### Meta AI ("Hey Meta") {#meta-ai}
 
@@ -72,47 +74,69 @@ The reference page. Bookmark this.
 
 ### Both Together {#both}
 
-You have **two wake words**. Use them for different things:
+You have two wake words. Each one controls different things.
 
-- **"Hey Meta"** → seeing, reading, identifying, WhatsApp, music, photos
-- **"Hey Siri" / "Hey Google"** → navigation, calls, messages, calendar, smart home, settings
+**"Hey Meta" is for the glasses:**
 
-Practice switching between them naturally. It becomes second nature within a week.
+- Seeing, reading, identifying
+- WhatsApp messages
+- Music and photos
+
+**"Hey Siri" / "Hey Google" is for the phone:**
+
+- Navigation and directions
+- Phone calls and SMS
+- Calendar, timers, and reminders
+- Smart home controls
+
+Practice switching between them. It becomes second nature within a week.
 
 ---
 
 ## Tips That Matter {#tips}
 
-- **Turn your head** toward what you want to see — the camera is in the glasses
-- **Good lighting** = better reading and identification
-- **Breast pocket** for your phone — better mic pickup for voice commands
+Small things that make a big difference in how well the glasses work for you.
+
+**For better AI results:**
+
+- Turn your head toward what you want to see — the camera is in the glasses
+- Good lighting means better reading and identification
+- English language setting gives better AI quality, even in the Netherlands
+
+**For comfort and battery:**
+
+- Battery lasts 4–6 hours — charge during lunch
+- The case holds 8 extra charges — keep it in your bag
 - USB-C charger works for both glasses and iPhone 15+
-- **English language setting** gives better AI quality (even in NL)
-- Battery lasts 4-6 hours — charge during lunch
-- The case gives 8 extra charges — keep it in your bag
+
+**For voice commands:**
+
+- Keep your phone in a breast pocket for better mic pickup
 
 ---
 
 ## Apps That Use the Glasses Camera {#camera-apps}
 
-Only 4 apps can see through the glasses:
+Most apps use the phone camera, but four apps can see through the glasses directly.
+
+**These apps work through the glasses:**
 
 1. **Meta AI** (built-in) — "Hey Meta, what do you see?"
 2. **Be My Eyes** — live volunteer help + Be My AI
 3. **Envision AI** — text reading, scene description
 4. **ScribeMe** (beta) — real-time captions
 
-All other apps use the phone camera.
+All other apps use the phone camera instead.
 
 ---
 
 ## YouTube: Tips & Tricks {#videos}
 
-These channels feature visually impaired users with Ray-Ban Meta glasses:
+These channels feature visually impaired users sharing their experience with Ray-Ban Meta glasses.
 
-- 🎥 [The Blind Life — Ray-Ban Meta Smart Glasses](https://www.youtube.com/@TheBlindLife) — daily life with smart glasses, tips for blind users
-- 🎥 [Unsightly Opinions — Smart Glasses Reviews](https://www.youtube.com/@UnsightlyOpinions) — in-depth reviews and comparisons from a blind perspective
-- 🎥 [Be My Eyes — Tutorials & Updates](https://www.youtube.com/@BeMyEyes) — Be My AI demos, product updates
-- 🎥 [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — setup guides, feature demos, new releases
+- [The Blind Life](https://www.youtube.com/@TheBlindLife) — daily life with smart glasses, tips for blind users
+- [Unsightly Opinions](https://www.youtube.com/@UnsightlyOpinions) — in-depth reviews and comparisons from a blind perspective
+- [Be My Eyes](https://www.youtube.com/@BeMyEyes) — Be My AI demos, product updates
+- [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — setup guides, feature demos, new releases
 
 **Search tip:** On YouTube, search for "Ray-Ban Meta blind" or "smart glasses visually impaired" to find more.

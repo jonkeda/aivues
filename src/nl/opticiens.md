@@ -21,32 +21,44 @@ sidebar:
 
 # Voor opticiens
 
-AI brillen zijn een nieuw hulpmiddel voor je visueel beperkte cliënten. Dit moet je weten.
+AI brillen zijn een nieuw hulpmiddel voor je visueel beperkte cliënten. Op deze pagina vind je wat je nodig hebt voor een cliëntgesprek, een snelle demo in de winkel en doorverwijzingen.
 
 ---
 
 ## Wat AI brillen kunnen voor VIP-cliënten {#wat}
 
-- AI-gestuurde scènebeschrijving ("Wat is er voor me?")
-- Tekst voorlezen (menu's, labels, brieven)
-- Object- en kleurherkenning
-- Handsfree bellen en berichten
-- Wandelnavigatie met stem
+De bril laat visueel beperkte mensen informatie over hun omgeving opvragen met alleen hun stem.
+
+**Wat de AI kan:**
+
+- Scènes beschrijven — "Wat is er voor me?"
+- Tekst voorlezen — menu's, labels, brieven, borden
+- Objecten en kleuren herkennen
+- Handsfree bellen en berichten sturen
+- Wandelroute aangeven met stem
 
 ---
 
 ## Pasgids {#pasgids}
 
-- **Montuur:** Ray-Ban Wayfarer-vorm. Past de meeste volwassenen.
-- **Glazen op sterkte:** Beschikbaar via compatibele glazeninsert-programma's. Vraag je slijperij.
-- **Maat:** Standaard Ray-Ban-maatvoering geldt.
-- **Cochleair implantaat gebruikers:** Brillenpoten zijn dikker dan standaard brillen door ingebouwde speakers. Test de pasvorm samen met de processor.
+De pasvorm is vergelijkbaar met standaard Ray-Ban monturen, met een paar aandachtspunten.
+
+**Montuur en maat:**
+
+- Ray-Ban Wayfarer-vorm — past de meeste volwassenen
+- Standaard Ray-Ban-maatvoering geldt
+- Glazen op sterkte beschikbaar — vraag je slijperij naar montuurcompatibiliteit
+
+**Bijzondere aandacht:**
+
+- Brillenpoten zijn dikker dan standaard door ingebouwde speakers
+- Cochleair implantaat gebruikers: test de pasvorm samen met de processor — beide zitten achter het oor
 
 ---
 
 ## Gespreksstarters {#gesprek}
 
-Vragen om bij VIP-cliënten de geschiktheid te beoordelen:
+Deze vragen helpen je beoordelen of AI brillen geschikt zijn voor een cliënt.
 
 1. Wat is uw mate van zicht? (lichtperceptie, tunnelvisie, wazig, etc.)
 2. Gebruikt u een smartphone? iPhone of Android?
@@ -59,6 +71,8 @@ Vragen om bij VIP-cliënten de geschiktheid te beoordelen:
 
 ## 5-minuten demo in de winkel {#demo}
 
+Een snelle demo waarmee de cliënt de bril zelf kan ervaren. Werkt het best met een opgeladen paar bij de hand.
+
 1. **Introductie** (30 sec) — "Dit zijn Ray-Ban Meta. Ze zien eruit als normale zonnebrillen maar hebben een camera en AI ingebouwd."
 2. **Opzetten** (30 sec) — Help de cliënt de bril op te zetten. Pas de neuspads aan. Controleer comfort.
 3. **Scènebeschrijving** (1 min) — Zeg: **"Hey Meta, what do you see?"** Laat ze het zelf proberen in de winkel. Reageer samen op het antwoord.
@@ -70,15 +84,21 @@ Vragen om bij VIP-cliënten de geschiktheid te beoordelen:
 
 ## Verzekering / hulpmiddel {#verzekering}
 
-AI brillen worden **nog niet erkend** als hulpmiddel door de meeste Nederlandse zorgverzekeraars. Echter:
+AI brillen worden **nog niet erkend** als hulpmiddel door de meeste Nederlandse zorgverzekeraars. Het landschap verandert wel.
 
-- **WMO:** Sommige gemeenten vergoeden mogelijk hulpmiddeltechnologie — cliënten moeten navragen bij hun gemeente.
-- **Advies:** Bewaar bonnen, dien een schriftelijk verzoek in bij de zorgverzekeraar en verwijs naar het groeiende bewijs voor AI-gestuurde visuele hulp.
-- Dit landschap verandert snel. Raadpleeg [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) voor updates.
+**Wat cliënten kunnen doen:**
+
+- Bij hun gemeente navragen of de WMO hulpmiddeltechnologie vergoedt
+- Bonnen bewaren en een schriftelijk verzoek indienen bij de zorgverzekeraar
+- Verwijzen naar het groeiende bewijs voor AI-gestuurde visuele hulp
+
+Raadpleeg [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) voor de laatste ontwikkelingen.
 
 ---
 
 ## Doorverwijzingen {#doorverwijzingen}
+
+Verwijs cliënten naar deze organisaties voor revalidatie en verdere ondersteuning.
 
 - [Koninklijke Visio](https://www.visio.org/) — revalidatie en begeleiding
 - [Bartiméus](https://www.bartimeus.nl/) — revalidatie en begeleiding

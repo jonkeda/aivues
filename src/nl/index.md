@@ -12,9 +12,13 @@ Ray-Ban Meta AI brillen hebben een ingebouwde AI-camera die kan beschrijven wat 
 
 ## Voor wie is dit?
 
-- Mensen met een visuele beperking die AI brillen gebruiken (of overwegen)
-- Familie, mantelzorgers of hulpverleners die de bril instellen voor iemand
-- Opticiens die cliënten adviseren over AI brillen
+Deze gids is voor iedereen die te maken heeft met AI brillen voor visueel beperkten.
+
+**Je vindt hier wat je nodig hebt als je:**
+
+- Een persoon bent met een visuele beperking die AI brillen gebruikt (of overweegt)
+- Een familielid, mantelzorger of hulpverlener bent die de bril instelt voor iemand
+- Een opticien bent die cliënten adviseert over AI brillen
 
 ## Waar wil je naartoe?
 
@@ -23,5 +27,5 @@ Ray-Ban Meta AI brillen hebben een ingebouwde AI-camera die kan beschrijven wat 
   <li><a href="/nl/training/">Leren gebruiken</a></li>
   <li><a href="/nl/gebruik/">Ik gebruik ze al</a></li>
   <li><a href="/nl/apps/">De juiste apps vinden</a></li>
-  <li><a href="/nl/hulp/#opticiens">Ik ben opticien</a></li>
+  <li><a href="/nl/opticiens/">Ik ben opticien</a></li>
 </ul>
