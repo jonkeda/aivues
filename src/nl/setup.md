@@ -9,6 +9,8 @@ sidebar:
     label: Hardware instellen
   - id: koppelen
     label: Koppelen met telefoon
+  - id: cochleair
+    label: Cochleair & Hoorapparaten
   - id: toegankelijkheid
     label: Toegankelijkheid telefoon
   - id: apps
@@ -87,6 +89,71 @@ Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-updat
 - Media-audio en telefoongesprekken spelen af via de brillenspeakers
 - Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
 - Geef meldingstoegang aan de Meta View app wanneer gevraagd
+
+</div>
+
+---
+
+## Cochleair & Hoorapparaten {#cochleair}
+
+Als de gebruiker een cochleair implantaat of soortgelijk hoorapparaat draagt, kan audio van zowel de telefoon als de bril ernaartoe worden gerouteerd. De instellingen hangen af van je apparaat en telefoonttype.
+
+<div class="iphone-only">
+
+**iPhone + Cochleair (of compatibel hoorapparaat):**
+
+1. **Koppel het hoorapparaat met iPhone:**
+   - Instellingen → Bluetooth → zet Bluetooth aan
+   - Zet het hoorapparaat in koppeelmodus (zie je apparaathandleiding)
+   - Selecteer het in de Bluetooth-lijst
+   - Het verschijnt nu onder "Mijn apparaten" in Bluetooth-instellingen
+
+2. **Stel het in als audio-uitvoer:**
+   - iPhone stuurt audio automatisch naar het hoorapparaat voor telefoongesprekken en meldingen
+   - Muziek en audio gaan meestal naar het meest recent verbonden apparaat (bril of hoorapparaat — je kan kiezen)
+   - Controleer welk apparaat audio afspeelt: Bedieningscentrum → Audio-uitvoer → selecteer hoorapparaat of bril
+
+3. **Zorg dat Meta AI en bril-audio juist worden gerouteerd:**
+   - Zowel de bril als het hoorapparaat kunnen met dezelfde telefoon gekoppeld zijn
+   - Bril-audio gaat standaard naar de brillenspeakers — wil je het door het hoorapparaat sturen, gebruik dan het bedieningscentrum voordat je Meta AI aanspreekt
+   - Sommige hoorapparaten hebben een iOS-app waarmee je een standaarduitvoer kan instellen — controleer je Cochleair-app
+
+4. **Test het:**
+   - Zeg "Hey Meta, what time is it?" — je zou het antwoord in je hoorapparaat moeten horen
+   - Speel een nummer af via Spotify — zou via het geselecteerde apparaat moeten spelen
+   - Bel een vriend — zou via het hoorapparaat moeten bellen
+
+**Tip:** Je hebt nu twee audio-uitgangen. Gebruik het bedieningscentrum om snel te schakelen tussen brillenspeakers (voor een snelle reactie) en hoorapparaat (voor belangrijke gesprekken).
+
+</div>
+
+<div class="android-only">
+
+**Android + Cochleair (of compatibel hoorapparaat):**
+
+1. **Koppel het hoorapparaat met Android:**
+   - Instellingen → Verbonden apparaten → Bluetooth → zet Bluetooth aan
+   - Zet het hoorapparaat in koppeelmodus (zie je apparaathandleiding)
+   - Selecteer het in de lijst met beschikbare apparaten
+   - Bevestig de koppeling
+
+2. **Stel het in als audio-uitvoer:**
+   - Ga naar Instellingen → Toegankelijkheid → Hoorapparaten
+   - Schakel "Audio-routering voor hoorapparaten" in als beschikbaar (nieuwere Android-versies)
+   - Android geeft prioriteit aan hoorapparaat-audio voor telefoongesprekken en meldingen
+   - Voor andere audio (muziek, Meta AI), controleer of je hoorapparaat een Android-app heeft voor audio-routeringsvoorkeuren
+
+3. **Zorg dat Meta AI en bril-audio juist worden gerouteerd:**
+   - De bril en het hoorapparaat kunnen beide met dezelfde telefoon gekoppeld zijn
+   - Bril-audio gaat standaard naar de bril — wil je het naar het hoorapparaat schakelen, ga dan naar Instellingen → Geluid → Geavanceerd → Standaardapparaat en selecteer het hoorapparaat, of gebruik de snelinstelling
+   - Sommige Cochleair Android-apps hebben een "Meta AI-audio routeren" optie — controleer je Cochleair-app-instellingen
+
+4. **Test het:**
+   - Zeg "Hey Google, what time is it?" — je zou het antwoord in je hoorapparaat moeten horen
+   - Speel een nummer af via Spotify — zou via het geselecteerde apparaat moeten spelen
+   - Bel een vriend — zou via het hoorapparaat moeten bellen
+
+**Tip:** Je kan zowel de bril als het hoorapparaat tegelijk actief hebben. Swipe twee keer naar beneden voor Snelinstelling en bekijk "Audio-uitvoer" of "Hoorapparaat" instellingen om eenvoudig te schakelen.
 
 </div>
 

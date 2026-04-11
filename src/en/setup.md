@@ -9,6 +9,8 @@ sidebar:
     label: Hardware Setup
   - id: pair
     label: Pair with Phone
+  - id: cochlear
+    label: Cochlear & Hearing Devices
   - id: accessibility
     label: Phone Accessibility
   - id: apps
@@ -87,6 +89,71 @@ Pairing takes about 15 minutes, most of which is a firmware update.
 - Media audio and phone calls play through the glasses speakers
 - Test by playing a song — you should hear it through the glasses, not the phone
 - Grant notification access to the Meta View app when prompted
+
+</div>
+
+---
+
+## Cochlear Implant & Hearing Devices {#cochlear}
+
+If the user wears a Cochlear implant or similar hearing device, audio from both the phone and the glasses can be routed through it. Setup depends on your device and phone type.
+
+<div class="iphone-only">
+
+**iPhone + Cochlear (or compatible hearing device):**
+
+1. **Pair the hearing device to iPhone:**
+   - Settings → Bluetooth → enable Bluetooth
+   - Put the hearing device in pairing mode (see your device manual)
+   - Select it from the Bluetooth list
+   - It will now appear under "My Devices" in Bluetooth settings
+
+2. **Set it as the audio output:**
+   - Once paired, iPhone automatically routes audio through the hearing device for phone calls and notifications
+   - Music and audio typically route to the most recently connected device (glasses or hearing device — you may need to choose)
+   - To control which device plays audio: Control Center → Audio Output → select the hearing device or glasses
+
+3. **Ensure Meta AI and glasses audio route correctly:**
+   - Both the glasses and hearing device can be paired to the same phone
+   - Glasses audio may route to the glasses speakers by default — to send it through the hearing device instead, use the Control Center audio output switcher before speaking to Meta AI
+   - Some hearing devices have an iOS app that lets you set a default output — check your Cochlear app for this option
+
+4. **Test it:**
+   - Say "Hey Meta, what time is it?" — listen for the response in your hearing device
+   - Play a song through Spotify — should play through the selected audio device
+   - Call a friend — should ring through the hearing device
+
+**Tip:** You now have two audio outputs. Use the Control Center audio switcher to toggle between glasses speakers (for a quick reply) and hearing device (for important conversations).
+
+</div>
+
+<div class="android-only">
+
+**Android + Cochlear (or compatible hearing device):**
+
+1. **Pair the hearing device to Android:**
+   - Settings → Connected Devices → Bluetooth → Turn on Bluetooth
+   - Put the hearing device in pairing mode (see your device manual)
+   - Select it from the list of available devices
+   - Confirm pairing
+
+2. **Set it as the audio output:**
+   - Go to Settings → Accessibility → Hearing aids
+   - Enable "Hearing aid audio routing" if available (newer Android versions)
+   - Android will prioritize hearing device audio for phone calls and notifications
+   - For other audio (music, Meta AI), check if your hearing device has an Android app for audio routing preferences
+
+3. **Ensure Meta AI and glasses audio route correctly:**
+   - The glasses and hearing device can both be paired to the same phone
+   - Glasses audio goes to the glasses by default — to switch it to the hearing device, go to Settings → Sound → Advanced → Default audio device and select the hearing device, or use the quick settings audio switcher
+   - Some Cochlear Android apps have a "Route Meta AI audio" option — check your Cochlear app settings
+
+4. **Test it:**
+   - Say "Hey Google, what time is it?" — listen for the response in your hearing device
+   - Play a song through Spotify — should play through the selected audio device
+   - Call a friend — should ring through the hearing device
+
+**Tip:** You can have both the glasses and hearing device active. Use Quick Settings (swipe down twice) to see "Audio output" or "Hearing device" settings and toggle between them.
 
 </div>
 
