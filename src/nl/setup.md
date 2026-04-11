@@ -52,7 +52,44 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ## Hardware instellen {#hardware}
 
-*Inhoud volgt binnenkort — uitpakken, opladen, pasvorm, bediening, privacy-LED.*
+### Wat zit er in de doos
+
+- Ray-Ban Meta bril
+- Oplaadcase met USB-C kabel
+- Snelstartkaart
+- Brilpoetsdoekje
+
+### Opladen
+
+- Leg de bril in de case, sluit USB-C aan
+- LED wordt groen als de bril vol is — eerste keer opladen duurt circa 1 uur
+- Batterij gaat 4–6 uur mee bij actief gebruik
+- De case biedt circa 8 extra volledige ladingen — houd hem in je tas
+- Batterij controleren: zeg **"Hey Meta, battery"**
+
+### Pasvorm & comfort
+
+- Verstelbare neuspads — pas aan voor comfort
+- Past op de meeste volwassen gezichtsvormen (standaard Ray-Ban Wayfarer)
+- IPX4 waterbestendig — veilig in de regen
+- Glazen opties: helder, zonnebril, transition, of op sterkte
+
+### Bediening
+
+- **Touchpad** (rechterpoot):
+  - Enkele tik = afspelen / pauzeren
+  - Dubbele tik = volgend nummer
+  - Veeg naar voren = volume omhoog
+  - Veeg naar achteren = volume omlaag
+- **Opnameknop** (bovenzijde rechterpoot):
+  - Kort indrukken = foto maken
+  - Lang indrukken = video opnemen
+
+### Privacy-LED
+
+- Een klein wit lampje aan de binnenkant van het montuur gaat branden wanneer de camera actief is
+- De LED kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen om je heen weten dat de camera aan staat
+- Vertel de gebruiker dat het lampje er is, zodat zij het aan anderen kunnen uitleggen
 
 ---
 

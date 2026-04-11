@@ -52,7 +52,44 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ## Hardware Setup {#hardware}
 
-*Content coming soon — unboxing, charging, fit, controls, privacy LED.*
+### What's in the box
+
+- Ray-Ban Meta glasses
+- Charging case with USB-C cable
+- Quick start card
+- Lens cloth
+
+### Charging
+
+- Place the glasses in the case, connect USB-C
+- LED turns solid green when fully charged — first charge takes about 1 hour
+- Battery lasts 4–6 hours of active use
+- The case holds about 8 extra full charges — keep it in your bag
+- Check battery: say **"Hey Meta, battery"**
+
+### Fit & comfort
+
+- Adjustable nose pads — tweak for comfort
+- Fits most adult face shapes (standard Ray-Ban Wayfarer)
+- IPX4 water-resistant — safe in rain
+- Lens options: clear, sun, transition, or prescription inserts
+
+### Controls
+
+- **Touchpad** (right temple):
+  - Single tap = play / pause
+  - Double tap = skip track
+  - Swipe forward = volume up
+  - Swipe back = volume down
+- **Capture button** (top of right temple):
+  - Short press = take a photo
+  - Long press = record video
+
+### Privacy LED
+
+- A small white LED on the inside of the frame turns on whenever the camera is active
+- It cannot be disabled — this is intentional so people around you know the camera is on
+- Tell the user it's there so they can explain it to others
 
 ---
 

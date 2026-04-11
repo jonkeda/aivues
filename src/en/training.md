@@ -26,7 +26,7 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 ## Week 1 — Setup & First Words {#week-1}
 
 <details>
-<summary>Day 1 — Unbox & Charge</summary>
+<summary>Lesson 1 — Unbox & Charge</summary>
 <div>
 
 Open the box, charge glasses and case, try them on for fit. Learn where the controls are.
@@ -37,7 +37,7 @@ Open the box, charge glasses and case, try them on for fit. Learn where the cont
 </details>
 
 <details>
-<summary>Day 2 — Pair with Phone</summary>
+<summary>Lesson 2 — Pair with Phone</summary>
 <div>
 
 Install Meta View app, pair your glasses, run firmware update.
@@ -48,7 +48,7 @@ Install Meta View app, pair your glasses, run firmware update.
 </details>
 
 <details>
-<summary>Day 3 — "Hey Meta, what do you see?"</summary>
+<summary>Lesson 3 — "Hey Meta, what do you see?"</summary>
 <div>
 
 Your first AI interaction. Say it 5 times in different rooms. See what Meta describes.
@@ -59,7 +59,7 @@ Your first AI interaction. Say it 5 times in different rooms. See what Meta desc
 </details>
 
 <details>
-<summary>Day 4 — Phone Accessibility</summary>
+<summary>Lesson 4 — Phone Accessibility</summary>
 <div>
 
 <div class="iphone-only">
@@ -79,7 +79,7 @@ Set up TalkBack, notification reading, and Google Assistant on your Android phon
 </details>
 
 <details>
-<summary>Day 5 — Touchpad & Gestures</summary>
+<summary>Lesson 5 — Touchpad & Gestures</summary>
 <div>
 
 Practice: tap, double-tap, swipe forward, swipe back, tap-and-hold.
@@ -90,7 +90,7 @@ Practice: tap, double-tap, swipe forward, swipe back, tap-and-hold.
 </details>
 
 <details>
-<summary>Day 6 — Make a Call + Install Core Apps</summary>
+<summary>Lesson 6 — Make a Call + Install Core Apps</summary>
 <div>
 
 Call a friend: "Hey Meta, call [name]." Then install the 8 essential apps from the [Apps page](/en/apps/).
@@ -101,7 +101,7 @@ Call a friend: "Hey Meta, call [name]." Then install the 8 essential apps from t
 </details>
 
 <details>
-<summary>Day 7 — Rest & Review</summary>
+<summary>Lesson 7 — Rest & Review</summary>
 <div>
 
 What worked? What was confusing? Write it down. Rest before Week 2.
@@ -116,7 +116,7 @@ What worked? What was confusing? Write it down. Rest before Week 2.
 ## Week 2 — Seeing with AI {#week-2}
 
 <details>
-<summary>Day 1 — Scene Description</summary>
+<summary>Lesson 1 — Scene Description</summary>
 <div>
 
 "Hey Meta, what's in front of me?" — practice indoors.
@@ -127,7 +127,7 @@ What worked? What was confusing? Write it down. Rest before Week 2.
 </details>
 
 <details>
-<summary>Day 2 — Reading Text</summary>
+<summary>Lesson 2 — Reading Text</summary>
 <div>
 
 Read a menu, a letter, a medicine label.
@@ -138,7 +138,7 @@ Read a menu, a letter, a medicine label.
 </details>
 
 <details>
-<summary>Day 3 — Object Identification</summary>
+<summary>Lesson 3 — Object Identification</summary>
 <div>
 
 "What is this?" — products, food, household items.
@@ -149,7 +149,7 @@ Read a menu, a letter, a medicine label.
 </details>
 
 <details>
-<summary>Day 4 — Color Identification</summary>
+<summary>Lesson 4 — Color Identification</summary>
 <div>
 
 "What color is this shirt?" — practice with clothing, food, objects.
@@ -160,7 +160,7 @@ Read a menu, a letter, a medicine label.
 </details>
 
 <details>
-<summary>Day 5 — Follow-up Questions</summary>
+<summary>Lesson 5 — Follow-up Questions</summary>
 <div>
 
 Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
@@ -171,7 +171,7 @@ Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
 </details>
 
 <details>
-<summary>Day 6 — Outdoors</summary>
+<summary>Lesson 6 — Outdoors</summary>
 <div>
 
 Walk outside. Describe buildings, signs, surroundings. Practice at crossings.
@@ -182,7 +182,7 @@ Walk outside. Describe buildings, signs, surroundings. Practice at crossings.
 </details>
 
 <details>
-<summary>Day 7 — Rest & Review</summary>
+<summary>Lesson 7 — Rest & Review</summary>
 <div>
 
 Favorite commands? What doesn't work well?
@@ -197,7 +197,7 @@ Favorite commands? What doesn't work well?
 ## Week 3 — Your Phone Assistant {#week-3}
 
 <details>
-<summary>Day 1 — Siri / Google Basics</summary>
+<summary>Lesson 1 — Siri / Google Basics</summary>
 <div>
 
 <div class="iphone-only">"Hey Siri" — weather, time, reminders, timers.</div>
@@ -209,7 +209,7 @@ Favorite commands? What doesn't work well?
 </details>
 
 <details>
-<summary>Day 2 — Navigation</summary>
+<summary>Lesson 2 — Navigation</summary>
 <div>
 
 "Navigate to [address]" with Google Maps. Walk a familiar route first.
@@ -220,7 +220,7 @@ Favorite commands? What doesn't work well?
 </details>
 
 <details>
-<summary>Day 3 — Messages</summary>
+<summary>Lesson 3 — Messages</summary>
 <div>
 
 Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
@@ -231,7 +231,7 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 </details>
 
 <details>
-<summary>Day 4 — Shortcuts & Routines</summary>
+<summary>Lesson 4 — Shortcuts & Routines</summary>
 <div>
 
 <div class="iphone-only">Set up 3 Siri Shortcuts: morning briefing, navigate home, safety check.</div>
@@ -243,7 +243,7 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 </details>
 
 <details>
-<summary>Day 5 — Music & Media</summary>
+<summary>Lesson 5 — Music & Media</summary>
 <div>
 
 "Hey Meta, play [playlist]" via Spotify Tap.
@@ -254,7 +254,7 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 </details>
 
 <details>
-<summary>Day 6 — Smart Home (optional)</summary>
+<summary>Lesson 6 — Smart Home (optional)</summary>
 <div>
 
 Control lights, thermostat by voice. Skip this if you don't have smart home devices.
@@ -265,7 +265,7 @@ Control lights, thermostat by voice. Skip this if you don't have smart home devi
 </details>
 
 <details>
-<summary>Day 7 — Two Wake Words</summary>
+<summary>Lesson 7 — Two Wake Words</summary>
 <div>
 
 Practice switching between "Hey Meta" and "Hey Siri" / "Hey Google" naturally.
@@ -280,7 +280,7 @@ Practice switching between "Hey Meta" and "Hey Siri" / "Hey Google" naturally.
 ## Week 4 — Apps & Independence {#week-4}
 
 <details>
-<summary>Day 1 — Be My Eyes</summary>
+<summary>Lesson 1 — Be My Eyes</summary>
 <div>
 
 Install Be My Eyes, make a test call to a volunteer.
@@ -291,7 +291,7 @@ Install Be My Eyes, make a test call to a volunteer.
 </details>
 
 <details>
-<summary>Day 2 — Navigation App</summary>
+<summary>Lesson 2 — Navigation App</summary>
 <div>
 
 Install Lazarillo or Soundscape. Walk a familiar route with it.
@@ -302,7 +302,7 @@ Install Lazarillo or Soundscape. Walk a familiar route with it.
 </details>
 
 <details>
-<summary>Day 3 — Cash Reader</summary>
+<summary>Lesson 3 — Cash Reader</summary>
 <div>
 
 Practice identifying Euro banknotes. Try at different distances.
@@ -313,7 +313,7 @@ Practice identifying Euro banknotes. Try at different distances.
 </details>
 
 <details>
-<summary>Day 4 — Reading App</summary>
+<summary>Lesson 4 — Reading App</summary>
 <div>
 
 <div class="iphone-only">Try Seeing AI — read a document, scan a product barcode.</div>
@@ -325,7 +325,7 @@ Practice identifying Euro banknotes. Try at different distances.
 </details>
 
 <details>
-<summary>Day 5 — Full Daily Routine</summary>
+<summary>Lesson 5 — Full Daily Routine</summary>
 <div>
 
 Morning routine using glasses: wake up → weather → navigate → shop → pay.
@@ -336,7 +336,7 @@ Morning routine using glasses: wake up → weather → navigate → shop → pay
 </details>
 
 <details>
-<summary>Day 6 — Troubleshooting</summary>
+<summary>Lesson 6 — Troubleshooting</summary>
 <div>
 
 Something doesn't work? Check the [Help page](/en/help/) for common fixes.
@@ -347,7 +347,7 @@ Something doesn't work? Check the [Help page](/en/help/) for common fixes.
 </details>
 
 <details>
-<summary>Day 7 — Graduation! 🎓</summary>
+<summary>Lesson 7 — Graduation! 🎓</summary>
 <div>
 
 You made it. Review all skills, set personal goals, bookmark the [Use](/en/use/) page.
