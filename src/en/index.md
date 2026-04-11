@@ -10,15 +10,7 @@ permalink: /en/
 
 Ray-Ban Meta smart glasses have a built-in AI camera that can describe what's around you, read text aloud, identify objects, and more — all by voice. This site helps you set them up and learn to use them.
 
-## Who is this for?
-
-This guide is for anyone involved with smart glasses for the visually impaired.
-
-**You'll find what you need here if you are:**
-
-- A person with a visual impairment using (or considering) smart glasses
-- A family member, caregiver, or helper setting up glasses for someone
-- An optician advising clients about smart glasses
+Not sure if smart glasses are for you? Read [Is This For Me?](/en/glasses/)
 
 ## Where do you want to go?
 

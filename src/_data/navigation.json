@@ -1,6 +1,7 @@
 {
   "items": [
     { "key": "home", "en": "Home", "nl": "Home", "url_en": "/en/", "url_nl": "/nl/" },
+    { "key": "glasses", "en": "Glasses", "nl": "Bril", "url_en": "/en/glasses/", "url_nl": "/nl/bril/" },
     { "key": "setup", "en": "Setup", "nl": "Instellen", "url_en": "/en/setup/", "url_nl": "/nl/instellen/" },
     { "key": "training", "en": "Training", "nl": "Training", "url_en": "/en/training/", "url_nl": "/nl/training/" },
     { "key": "use", "en": "Use", "nl": "Gebruik", "url_en": "/en/use/", "url_nl": "/nl/gebruik/" },
