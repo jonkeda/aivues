@@ -27,99 +27,93 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ## Is dit voor mij? {#is-dit-voor-mij}
 
-**Wat Ray-Ban Meta kan:**
+Ray-Ban Meta brillen hebben een ingebouwde camera en AI die je met je stem bedient. Zie ze als een extra paar ogen op je neus — geen vervanging voor je witte stok of geleidehond, maar een handig hulpmiddel erbij.
 
-- Beschrijven wat er voor je is ("Hey Meta, what do you see?")
-- Tekst voorlezen (menu's, labels, brieven, borden)
-- Objecten, kleuren en mensen herkennen
-- Navigeren met stembegeleiding
-- Handsfree bellen en berichten sturen
-- Muziek en podcasts afspelen
-- Foto's en video maken
-- Vragen beantwoorden via AI
+**Vraag het en ze vertellen je:**
 
-**Wat ze niet kunnen:**
+- Wat er voor je is — scènes, objecten, kleuren
+- Wat er op een bord, menu, label of brief staat
+- Welke kant je op moet lopen
+- Het antwoord op bijna elke vraag
 
-- Een witte stok of geleidehond vervangen
-- Werken zonder telefoon in de buurt
-- Gezichten betrouwbaar herkennen
-- In het donker zien
-- Langer dan 4-6 uur continu draaien
+**Ze doen ook dagelijkse taken handsfree:**
 
-**Wat je nodig hebt:** Ray-Ban Meta bril, iPhone of Android telefoon, Meta-account, Wi-Fi en een helper voor de installatie.
+- Bellen en berichten
+- Muziek en podcasts
+- Foto's en video
+
+**Goed om te weten voordat je begint:**
+
+- Ze hebben je telefoon in de buurt nodig
+- Batterij gaat ongeveer vier tot zes uur mee
+- Ze werken niet goed in compleet donker
+- Gezichtsherkenning is nog niet betrouwbaar
+
+Om te beginnen heb je de bril nodig, een iPhone of Android telefoon, een gratis Meta-account, Wi-Fi en iemand die helpt bij de eerste installatie.
 
 ---
 
 ## Hardware instellen {#hardware}
 
-### Wat zit er in de doos
+Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartkaart en een brilpoetsdoekje. Dat is alles.
 
-- Ray-Ban Meta bril
-- Oplaadcase met USB-C kabel
-- Snelstartkaart
-- Brilpoetsdoekje
+**Opladen:**
 
-### Opladen
-
-- Leg de bril in de case, sluit USB-C aan
-- LED wordt groen als de bril vol is — eerste keer opladen duurt circa 1 uur
-- Batterij gaat 4–6 uur mee bij actief gebruik
-- De case biedt circa 8 extra volledige ladingen — houd hem in je tas
+- Leg de bril in de case en sluit USB-C aan — eerste keer opladen duurt ongeveer een uur
+- De LED wordt groen als de bril vol is
+- Batterij gaat 4–6 uur mee bij actief gebruik; de case biedt circa 8 extra ladingen
 - Batterij controleren: zeg **"Hey Meta, battery"**
 
-### Pasvorm & comfort
+**Pasvorm en comfort:**
 
-- Verstelbare neuspads — pas aan voor comfort
-- Past op de meeste volwassen gezichtsvormen (standaard Ray-Ban Wayfarer)
-- IPX4 waterbestendig — veilig in de regen
+- Verstelbare neuspads — pas aan tot het comfortabel zit
+- Standaard Ray-Ban Wayfarer-vorm, past de meeste volwassenen
+- IPX4 waterbestendig — veilig in lichte regen
 - Glazen opties: helder, zonnebril, transition, of op sterkte
 
-### Bediening
+**Bediening op de rechter brillenpoot:**
 
-- **Touchpad** (rechterpoot):
-  - Enkele tik = afspelen / pauzeren
-  - Dubbele tik = volgend nummer
-  - Veeg naar voren = volume omhoog
-  - Veeg naar achteren = volume omlaag
-- **Opnameknop** (bovenzijde rechterpoot):
-  - Kort indrukken = foto maken
-  - Lang indrukken = video opnemen
+- Enkele tik op het touchpad = afspelen / pauzeren
+- Dubbele tik = volgend nummer
+- Veeg naar voren / achteren = volume omhoog / omlaag
+- Kort indrukken bovenste knop = foto
+- Lang indrukken = video
 
-### Privacy-LED
+**Over de privacy-LED:**
 
-- Een klein wit lampje aan de binnenkant van het montuur gaat branden wanneer de camera actief is
-- De LED kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen om je heen weten dat de camera aan staat
-- Vertel de gebruiker dat het lampje er is, zodat zij het aan anderen kunnen uitleggen
+Een klein wit lampje aan de binnenkant van het montuur gaat branden zodra de camera actief is. Het kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen in de buurt weten dat de camera aan staat. Zorg dat de gebruiker weet dat het lampje er is, zodat zij het aan anderen kunnen uitleggen.
 
 ---
 
 ## Koppelen met telefoon {#koppelen}
 
+Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-update is.
+
 1. Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android)
 2. Open de app en log in met een Meta-account
 3. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
-4. Accepteer de firmware-update wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. **Houd de bril in de case** tijdens de update.
-5. Na de update verbindt de bril automatisch opnieuw
+4. Accepteer de firmware-update wanneer gevraagd. **Houd de bril in de case** tijdens de update (5–10 minuten)
+5. Na de update verbindt de bril vanzelf opnieuw
 
 <div class="iphone-only">
 
-### iPhone koppelen
+**iPhone — controleer de verbinding:**
 
-- Controleer Bluetooth-verbinding: Instellingen → Bluetooth → "Ray-Ban Meta" moet **Verbonden** tonen
-- Audio-routing: muziek, VoiceOver en Siri spelen automatisch af via de brillenspeakers
-- Test: speel een nummer af — je zou het door de bril moeten horen, niet via de telefoon
-- Als audio via de telefoon komt: verbreek en herverbind Bluetooth, of controleer de Meta View app
+- Instellingen → Bluetooth → "Ray-Ban Meta" moet **Verbonden** tonen
+- Muziek, VoiceOver en Siri spelen automatisch af via de brillenspeakers
+- Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
+- Als audio via de telefoon komt, verbreek en herverbind Bluetooth of controleer de Meta View app
 
 </div>
 
 <div class="android-only">
 
-### Android koppelen
+**Android — controleer de verbinding:**
 
-- Controleer Bluetooth-verbinding: Instellingen → Verbonden apparaten → "Ray-Ban Meta" moet **Actief** tonen
-- Audio-routing: media-audio en telefoongesprekken spelen af via de brillenspeakers
-- Test: speel een nummer af — je zou het door de bril moeten horen, niet via de telefoon
-- Geef meldingstoegang aan de Meta View app wanneer daarom gevraagd wordt
+- Instellingen → Verbonden apparaten → "Ray-Ban Meta" moet **Actief** tonen
+- Media-audio en telefoongesprekken spelen af via de brillenspeakers
+- Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
+- Geef meldingstoegang aan de Meta View app wanneer gevraagd
 
 </div>
 
@@ -127,68 +121,63 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ## Toegankelijkheid telefoon {#toegankelijkheid}
 
+Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Stel ze één keer in en ze blijven aan.
+
 <div class="iphone-only">
 
-### iPhone
-
-**VoiceOver**
+**VoiceOver** maakt van het scherm een steminterface.
 
 - Instellingen → Toegankelijkheid → VoiceOver → **AAN**
-- Stel een snelle schakelaar in: Instellingen → Toegankelijkheid → Snel naar → VoiceOver (drievoudig klikken op zijknop om te schakelen)
+- Snelle schakelaar: Instellingen → Toegankelijkheid → Snel naar → VoiceOver (drievoudig klikken op zijknop)
 - Audio speelt af via de brillenspeakers over Bluetooth
 
-**Meldingen aankondigen**
+**Meldingen aankondigen** leest inkomende berichten voor via de bril.
 
 - Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → **AAN**
 - Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta View
 - Uitschakelen voor: sociale media, marketing-apps, games
-- Meldingen worden automatisch voorgelezen via de bril
 
-**Siri**
+**Siri** laat je de telefoon bedienen met je stem.
 
 - Instellingen → Siri en zoeken → Luister naar "Hey Siri" → **AAN**
 - Sta Siri toe bij vergrendeling → **AAN**
 - Taal: Engels aanbevolen voor de beste AI-kwaliteit
-- Siri antwoordt via de brillenspeakers
 
-**Gesproken inhoud**
+**Gesproken inhoud** leest geselecteerde tekst of het hele scherm voor.
 
 - Instellingen → Toegankelijkheid → Gesproken inhoud → Spreek selectie → **AAN**
-- Spreek scherm: **AAN** — veeg met twee vingers omlaag om het hele scherm voor te laten lezen
+- Spreek scherm → **AAN** (veeg met twee vingers omlaag om het hele scherm voor te laten lezen)
 
-**Snelle test:** Zeg **"Hey Siri, what time is it?"** — je zou het antwoord door de bril moeten horen.
+**Snelle test:** Zeg **"Hey Siri, what time is it?"** — je moet het antwoord door de bril horen.
 
 </div>
 
 <div class="android-only">
 
-### Android
-
-**TalkBack**
+**TalkBack** maakt van het scherm een steminterface.
 
 - Instellingen → Toegankelijkheid → TalkBack → **AAN**
 - Audio speelt af via de brillenspeakers over Bluetooth
-- Oefengebaren: veeg rechts = volgend item, veeg links = vorig, dubbeltikken = activeren
+- Belangrijke gebaren: veeg rechts = volgend item, veeg links = vorig, dubbeltikken = activeren
 
-**Meldingen voorlezen**
+**Meldingen voorlezen** kondigt inkomende berichten aan via de bril.
 
 - Instellingen → Toegankelijkheid → TalkBack → Instellingen → Meldingen hardop voorlezen
 - Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta View
 - Uitschakelen voor: sociale media, marketing-apps
 
-**Google Assistent**
+**Google Assistent** laat je de telefoon bedienen met je stem.
 
 - Instellingen → Google → Google Assistent → "Hey Google" → **AAN**
 - Toestaan op vergrendelscherm → **AAN**
 - Taal: Engels aanbevolen voor de beste AI-kwaliteit
-- Antwoorden spelen af via de brillenspeakers
 
-**Selecteren en voorlezen**
+**Selecteren en voorlezen** leest tekst voor waar je de telefooncamera op richt.
 
 - Instellingen → Toegankelijkheid → Selecteren en voorlezen → **AAN**
-- Richt de telefooncamera op tekst en tik op de afspeelknop om het voor te laten lezen
+- Richt de camera op tekst en tik op de afspeelknop
 
-**Snelle test:** Zeg **"Hey Google, what time is it?"** — je zou het antwoord door de bril moeten horen.
+**Snelle test:** Zeg **"Hey Google, what time is it?"** — je moet het antwoord door de bril horen.
 
 </div>
 
@@ -196,13 +185,13 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ## Apps installeren {#apps}
 
-Installeer deze 8 apps voordat je begint met training. Zie de [apps-pagina](/nl/apps/) voor details.
+Installeer deze acht apps voordat je begint met training. Elke app voegt iets toe wat de bril alleen niet kan. Zie de [apps-pagina](/nl/apps/) voor details.
 
 1. **Meta View** — brillenbeheer (vereist)
 2. **Be My Eyes** — vrijwilliger + AI visuele hulp
 3. **Google Maps** — wandelnavigatie
 4. **WhatsApp** — berichten met Meta AI
-5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR + scènes
+5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR en scènebeschrijving
 6. **Lazarillo** — continue omgevingsinformatie
 7. **Cash Reader** — eurobankbiljetherkenning
 8. **Spotify** — spraakgestuurde muziek
@@ -211,6 +200,6 @@ Installeer deze 8 apps voordat je begint met training. Zie de [apps-pagina](/nl/
 
 ## Testen {#testen}
 
-Zeg: **"Hey Meta, what do you see?"**
+Zet de bril op en zeg: **"Hey Meta, what do you see?"**
 
 Als Meta AI beschrijft wat er voor je is, is de installatie compleet. Ga verder met [Training](/nl/training/).

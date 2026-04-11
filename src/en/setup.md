@@ -23,102 +23,96 @@ sidebar:
 
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
-Everything you need to go from unopened box to working smart glasses. A helper should do this with the user.
+Everything you need to go from unopened box to working smart glasses. A helper should do this together with the user.
 
 ## Is This For Me? {#is-this-for-me}
 
-**What Ray-Ban Meta can do:**
+Ray-Ban Meta glasses have a built-in camera and AI that you control with your voice. Think of them as an extra pair of eyes on your nose — not a replacement for your cane or guide dog, but a helpful addition.
 
-- Describe what's in front of you ("Hey Meta, what do you see?")
-- Read text aloud (menus, labels, letters, signs)
-- Identify objects, colors, and people
-- Navigate with voice directions
-- Make hands-free calls and send messages
-- Play music and podcasts
-- Take photos and video
-- Answer questions via AI
+**Ask them and they'll tell you:**
 
-**What they can't do:**
+- What's in front of you — scenes, objects, colors
+- What a sign, menu, label, or letter says
+- Which direction to walk
+- The answer to almost any question
 
-- Replace a white cane or guide dog
-- Work without a phone nearby
-- Identify faces reliably
-- See in the dark
-- Run continuously for more than 4-6 hours
+**They also handle everyday tasks hands-free:**
 
-**What you need:** Ray-Ban Meta glasses, iPhone or Android phone, Meta account, Wi-Fi, and a helper for setup.
+- Phone calls and messages
+- Music and podcasts
+- Photos and video
+
+**Good to know before you start:**
+
+- They need your phone nearby to work
+- Battery lasts about four to six hours
+- They don't work well in complete darkness
+- Face recognition isn't reliable yet
+
+To get started you need the glasses, an iPhone or Android phone, a free Meta account, Wi-Fi, and someone to help with the first-time setup.
 
 ---
 
 ## Hardware Setup {#hardware}
 
-### What's in the box
+Open the box and you'll find the glasses, a charging case with USB-C cable, a quick start card, and a lens cloth. That's everything.
 
-- Ray-Ban Meta glasses
-- Charging case with USB-C cable
-- Quick start card
-- Lens cloth
+**Charging:**
 
-### Charging
+- Place the glasses in the case and connect USB-C — first charge takes about an hour
+- The LED turns solid green when full
+- Battery lasts 4–6 hours of active use; the case holds about 8 extra charges
+- Check battery anytime: say **"Hey Meta, battery"**
 
-- Place the glasses in the case, connect USB-C
-- LED turns solid green when fully charged — first charge takes about 1 hour
-- Battery lasts 4–6 hours of active use
-- The case holds about 8 extra full charges — keep it in your bag
-- Check battery: say **"Hey Meta, battery"**
+**Fit and comfort:**
 
-### Fit & comfort
-
-- Adjustable nose pads — tweak for comfort
-- Fits most adult face shapes (standard Ray-Ban Wayfarer)
-- IPX4 water-resistant — safe in rain
+- Adjustable nose pads — tweak until comfortable
+- Standard Ray-Ban Wayfarer shape, fits most adults
+- IPX4 water-resistant — safe in light rain
 - Lens options: clear, sun, transition, or prescription inserts
 
-### Controls
+**Controls on the right temple:**
 
-- **Touchpad** (right temple):
-  - Single tap = play / pause
-  - Double tap = skip track
-  - Swipe forward = volume up
-  - Swipe back = volume down
-- **Capture button** (top of right temple):
-  - Short press = take a photo
-  - Long press = record video
+- Single tap the touchpad = play / pause
+- Double tap = skip track
+- Swipe forward / back = volume up / down
+- Short press the top button = photo
+- Long press = video
 
-### Privacy LED
+**About the privacy LED:**
 
-- A small white LED on the inside of the frame turns on whenever the camera is active
-- It cannot be disabled — this is intentional so people around you know the camera is on
-- Tell the user it's there so they can explain it to others
+A small white light on the inside of the frame turns on whenever the camera is active. It can't be disabled — this is intentional so people around the user know the camera is on. Make sure the user knows it's there so they can explain it to others.
 
 ---
 
 ## Pair with Phone {#pair}
 
+Pairing takes about 15 minutes, most of which is a firmware update.
+
 1. Install the **Meta View** app from the App Store (iPhone) or Google Play (Android)
-2. Open the app and sign in with a Meta account
-3. Follow the in-app pairing wizard — it will find the glasses automatically
-4. When prompted, allow the firmware update — this takes 5–10 minutes. **Keep the glasses in the case** during the update.
-5. After the update, the glasses will reconnect automatically
+2. Open it and sign in with a Meta account
+3. Follow the in-app pairing wizard — it finds the glasses automatically
+4. Accept the firmware update when prompted. **Keep the glasses in the case** during the update (5–10 minutes)
+5. After the update the glasses reconnect on their own
 
 <div class="iphone-only">
 
-### iPhone Pairing
+**iPhone — verify the connection:**
 
-- Confirm Bluetooth is connected: Settings → Bluetooth → "Ray-Ban Meta" should say **Connected**
-- Audio routing: music, VoiceOver, and Siri all play through the glasses speakers automatically
-- Test: play a song — you should hear it through the glasses, not the phone speaker
-- If audio comes from the phone: disconnect and reconnect Bluetooth, or check the Meta View app
+- Settings → Bluetooth → "Ray-Ban Meta" should say **Connected**
+- Music, VoiceOver, and Siri all play through the glasses speakers automatically
+- Test by playing a song — you should hear it through the glasses, not the phone
+- If audio comes from the phone, disconnect and reconnect Bluetooth or check the Meta View app
 
 </div>
 
 <div class="android-only">
 
-### Android Pairing
+**Android — verify the connection:**
 
-- Confirm Bluetooth is connected: Settings → Connected Devices → "Ray-Ban Meta" should say **Active**
-- Audio routing: media audio and phone calls play through the glasses speakers
-- Test: play a song — you should hear it through the glasses, not the phone speaker
+- Settings → Connected Devices → "Ray-Ban Meta" should say **Active**
+- Media audio and phone calls play through the glasses speakers
+- Test by playing a song — you should hear it through the glasses, not the phone
 - Grant notification access to the Meta View app when prompted
 
 </div>
@@ -127,68 +121,63 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ## Phone Accessibility Settings {#accessibility}
 
+These settings let the phone talk to the user through the glasses. Configure them once and they stay on.
+
 <div class="iphone-only">
 
-### iPhone
-
-**VoiceOver**
+**VoiceOver** turns the screen into a voice interface.
 
 - Settings → Accessibility → VoiceOver → **ON**
-- Set up a quick toggle: Settings → Accessibility → Accessibility Shortcut → VoiceOver (triple-click side button to toggle)
+- Quick toggle: Settings → Accessibility → Accessibility Shortcut → VoiceOver (triple-click side button)
 - Audio plays through the glasses speakers via Bluetooth
 
-**Announce Notifications**
+**Announce Notifications** reads incoming messages aloud through the glasses.
 
 - Settings → Accessibility → Siri → Announce Notifications → **ON**
 - Enable for: WhatsApp, Phone, Messages, Calendar, Meta View
 - Disable for: social media, marketing apps, games
-- Notifications are read aloud through the glasses automatically
 
-**Siri**
+**Siri** lets you control the phone by voice.
 
 - Settings → Siri & Search → Listen for "Hey Siri" → **ON**
 - Allow Siri When Locked → **ON**
 - Language: English recommended for best AI quality
-- Siri responds through the glasses speakers
 
-**Spoken Content**
+**Spoken Content** reads selected text or the entire screen aloud.
 
 - Settings → Accessibility → Spoken Content → Speak Selection → **ON**
-- Speak Screen: **ON** — two-finger swipe down to read the entire screen
+- Speak Screen → **ON** (two-finger swipe down to read the full screen)
 
-**Quick test:** Say **"Hey Siri, what time is it?"** — you should hear the response through the glasses.
+**Quick test:** Say **"Hey Siri, what time is it?"** — you should hear the answer through the glasses.
 
 </div>
 
 <div class="android-only">
 
-### Android
-
-**TalkBack**
+**TalkBack** turns the screen into a voice interface.
 
 - Settings → Accessibility → TalkBack → **ON**
 - Audio plays through the glasses speakers via Bluetooth
-- Practice gestures: swipe right = next item, swipe left = previous, double-tap = activate
+- Key gestures: swipe right = next item, swipe left = previous, double-tap = activate
 
-**Notification reading**
+**Notification reading** announces incoming messages through the glasses.
 
 - Settings → Accessibility → TalkBack → Settings → Read notifications aloud
 - Enable for: WhatsApp, Phone, Messages, Meta View
 - Disable for: social media, marketing apps
 
-**Google Assistant**
+**Google Assistant** lets you control the phone by voice.
 
 - Settings → Google → Google Assistant → "Hey Google" → **ON**
 - Allow on lock screen → **ON**
 - Language: English recommended for best AI quality
-- Responses play through the glasses speakers
 
-**Select to Speak**
+**Select to Speak** reads text you point the phone camera at.
 
 - Settings → Accessibility → Select to Speak → **ON**
-- Point the phone camera at text and tap the play button to hear it read aloud
+- Point the camera at text and tap the play button
 
-**Quick test:** Say **"Hey Google, what time is it?"** — you should hear the response through the glasses.
+**Quick test:** Say **"Hey Google, what time is it?"** — you should hear the answer through the glasses.
 
 </div>
 
@@ -196,21 +185,21 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ## Install Essential Apps {#apps}
 
-Install these 8 apps before you start training. See the [full apps page](/en/apps/) for details.
+Install these eight apps before you start training. Each one adds something the glasses alone can't do. See the [full apps page](/en/apps/) for details.
 
 1. **Meta View** — glasses management (required)
 2. **Be My Eyes** — volunteer + AI vision help
 3. **Google Maps** — walking navigation
 4. **WhatsApp** — messaging with Meta AI
-5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR + scenes
+5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR and scene description
 6. **Lazarillo** — continuous surroundings info
-7. **Cash Reader** — Euro banknote identification
+7. **Cash Reader** — euro banknote identification
 8. **Spotify** — voice-controlled music
 
 ---
 
 ## Test It {#test}
 
-Say: **"Hey Meta, what do you see?"**
+Put the glasses on and say: **"Hey Meta, what do you see?"**
 
 If Meta AI describes what's in front of you, setup is complete. Move on to [Training](/en/training/).
