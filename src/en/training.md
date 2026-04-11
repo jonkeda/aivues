@@ -401,7 +401,11 @@ Test each one. These are set up once and work by voice anytime.
 <summary>Lesson 1 — Be My Eyes</summary>
 <div>
 
-Install Be My Eyes, make a test call to a volunteer.
+- Open **Be My Eyes** and tap "Call a volunteer."
+- A sighted volunteer will see through your glasses camera and describe what you need.
+- Try asking them to: read your mail, help find something in the fridge, identify a product.
+- Also try **"Be My AI"** — AI-powered help without a human volunteer.
+- When to use Be My Eyes vs. Meta AI: Be My Eyes for complex scenes, Meta AI for quick questions.
 
 <label class="progress-check"><input type="checkbox" id="w4d1"> Done</label>
 
@@ -412,7 +416,10 @@ Install Be My Eyes, make a test call to a volunteer.
 <summary>Lesson 2 — Navigation App</summary>
 <div>
 
-Install Lazarillo or Soundscape. Walk a familiar route with it.
+- Install **Lazarillo** (App Store / Google Play) — it announces surroundings continuously.
+- Walk a familiar route with Lazarillo turned on and listen: "Pharmacy on your left," "Bus stop ahead."
+- Compare with Google Maps: Lazarillo = passive awareness, Google Maps = turn-by-turn directions.
+- You can run both at the same time for maximum information.
 
 <label class="progress-check"><input type="checkbox" id="w4d2"> Done</label>
 
@@ -423,7 +430,11 @@ Install Lazarillo or Soundscape. Walk a familiar route with it.
 <summary>Lesson 3 — Cash Reader</summary>
 <div>
 
-Practice identifying Euro banknotes. Try at different distances.
+- Open **Cash Reader** and point the phone camera at a banknote.
+- It announces the denomination: "20 euros" / "50 euros."
+- Practice with multiple bills at different distances.
+- Works with Euro, USD, GBP, and many other currencies.
+- Tip: lay the phone flat on a table and place the bill on top for reliable reads.
 
 <label class="progress-check"><input type="checkbox" id="w4d3"> Done</label>
 
@@ -434,8 +445,22 @@ Practice identifying Euro banknotes. Try at different distances.
 <summary>Lesson 4 — Reading App</summary>
 <div>
 
-<div class="iphone-only">Try Seeing AI — read a document, scan a product barcode.</div>
-<div class="android-only">Try Google Lookout — read a document, scan a product barcode.</div>
+<div class="iphone-only">
+
+- Open **Seeing AI** and select "Short Text" or "Document" mode.
+- Scan a document, letter, or book page.
+- Compare with **"Hey Meta, read this"**: Seeing AI is better for long text; Meta AI is faster for quick reads.
+- Seeing AI uses the phone camera, not the glasses.
+
+</div>
+<div class="android-only">
+
+- Open **Google Lookout** and select "Text" or "Explore" mode.
+- Scan a document, letter, or book page.
+- Compare with **"Hey Meta, read this"**: Lookout is better for long text; Meta AI is faster for quick reads.
+- Google Lookout uses the phone camera, not the glasses.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w4d4"> Done</label>
 
@@ -446,7 +471,13 @@ Practice identifying Euro banknotes. Try at different distances.
 <summary>Lesson 5 — Full Daily Routine</summary>
 <div>
 
-Morning routine using glasses: wake up → weather → navigate → shop → pay.
+Put it all together in a real day:
+
+- **Morning:** "Hey Siri/Google, what's my day look like?" (weather + calendar).
+- **Go out:** "Navigate to [shop]" with Google Maps. Lazarillo announces surroundings.
+- **In the shop:** "Hey Meta, what is this?" for products. "Hey Meta, read this" for labels.
+- **Pay:** use Cash Reader to verify change, or use phone contactless payment.
+- **Home:** "Hey Meta, what do you see?" to check if lights are on.
 
 <label class="progress-check"><input type="checkbox" id="w4d5"> Done</label>
 
@@ -457,7 +488,15 @@ Morning routine using glasses: wake up → weather → navigate → shop → pay
 <summary>Lesson 6 — Troubleshooting</summary>
 <div>
 
-Something doesn't work? Check the [Help page](/en/help/) for common fixes.
+Common issues and quick fixes:
+
+- **Meta AI doesn't respond** → check internet + Bluetooth, restart glasses (hold power 5 sec).
+- **No sound through glasses** → check Bluetooth pairing, re-pair if needed.
+- **"Hey Siri/Google" doesn't hear me** → phone too far away — keep it in a breast pocket.
+- **Bad AI descriptions** → improve lighting, turn head toward target, try English.
+- **Battery dies fast** → charge during meals, keep case charged.
+
+More help: [Help page](/en/help/).
 
 <label class="progress-check"><input type="checkbox" id="w4d6"> Done</label>
 
@@ -468,7 +507,10 @@ Something doesn't work? Check the [Help page](/en/help/) for common fixes.
 <summary>Lesson 7 — Graduation! 🎓</summary>
 <div>
 
-You made it. Review all skills, set personal goals, bookmark the [Use](/en/use/) page.
+- You made it! Think about what you can do now that you couldn't 4 weeks ago.
+- Set 3 personal goals for the next month.
+- Bookmark the [Daily Use](/en/use/) page for quick command reference.
+- Tell someone about what the glasses can do — you're the expert now.
 
 <label class="progress-check"><input type="checkbox" id="w4d7"> Done</label>
 

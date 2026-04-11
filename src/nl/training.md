@@ -401,7 +401,11 @@ Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
 <summary>Les 1 — Be My Eyes</summary>
 <div>
 
-Installeer Be My Eyes, maak een testgesprek met een vrijwilliger.
+- Open **Be My Eyes** en tik op "Bel een vrijwilliger."
+- Een ziende vrijwilliger kijkt mee door je brillencamera en beschrijft wat je nodig hebt.
+- Probeer: vraag om je post voor te lezen, iets in de koelkast te vinden, een product te herkennen.
+- Probeer ook **"Be My AI"** — AI-hulp zonder menselijke vrijwilliger.
+- Wanneer Be My Eyes vs. Meta AI: Be My Eyes voor complexe scènes, Meta AI voor snelle vragen.
 
 <label class="progress-check"><input type="checkbox" id="w4d1"> Klaar</label>
 
@@ -412,7 +416,10 @@ Installeer Be My Eyes, maak een testgesprek met een vrijwilliger.
 <summary>Les 2 — Navigatie-app</summary>
 <div>
 
-Installeer Lazarillo of Soundscape. Loop een bekende route ermee.
+- Installeer **Lazarillo** (App Store / Google Play) — het kondigt continu je omgeving aan.
+- Loop een bekende route met Lazarillo aan en luister: "Apotheek links van je," "Bushalte verderop."
+- Vergelijk met Google Maps: Lazarillo = passief bewustzijn, Google Maps = stap-voor-stap route.
+- Je kunt beide tegelijk gebruiken voor maximale informatie.
 
 <label class="progress-check"><input type="checkbox" id="w4d2"> Klaar</label>
 
@@ -423,7 +430,11 @@ Installeer Lazarillo of Soundscape. Loop een bekende route ermee.
 <summary>Les 3 — Cash Reader</summary>
 <div>
 
-Oefen met het herkennen van eurobankbiljetten. Probeer op verschillende afstanden.
+- Open **Cash Reader** en richt de telefooncamera op een bankbiljet.
+- Het zegt de waarde: "20 euro" / "50 euro."
+- Oefen met meerdere biljetten op verschillende afstanden.
+- Werkt met euro, dollar, pond en vele andere valuta.
+- Tip: leg de telefoon plat op tafel en leg het biljet erop voor betrouwbare herkenning.
 
 <label class="progress-check"><input type="checkbox" id="w4d3"> Klaar</label>
 
@@ -434,8 +445,22 @@ Oefen met het herkennen van eurobankbiljetten. Probeer op verschillende afstande
 <summary>Les 4 — Lees-app</summary>
 <div>
 
-<div class="iphone-only">Probeer Seeing AI — lees een document, scan een barcode.</div>
-<div class="android-only">Probeer Google Lookout — lees een document, scan een barcode.</div>
+<div class="iphone-only">
+
+- Open **Seeing AI** en kies "Korte tekst" of "Document" modus.
+- Scan een document, brief of boekpagina.
+- Vergelijk met **"Hey Meta, read this"**: Seeing AI is beter voor lange tekst; Meta AI is sneller voor korte stukken.
+- Seeing AI gebruikt de telefooncamera, niet de bril.
+
+</div>
+<div class="android-only">
+
+- Open **Google Lookout** en kies "Tekst" of "Ontdekken" modus.
+- Scan een document, brief of boekpagina.
+- Vergelijk met **"Hey Meta, read this"**: Lookout is beter voor lange tekst; Meta AI is sneller voor korte stukken.
+- Google Lookout gebruikt de telefooncamera, niet de bril.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w4d4"> Klaar</label>
 
@@ -446,7 +471,13 @@ Oefen met het herkennen van eurobankbiljetten. Probeer op verschillende afstande
 <summary>Les 5 — Complete dagroutine</summary>
 <div>
 
-Ochtendroutine met bril: wakker worden → weer → navigeren → winkelen → betalen.
+Combineer alles in een echte dag:
+
+- **Ochtend:** "Hey Siri/Google, what's my day look like?" (weer + agenda).
+- **Naar buiten:** "Navigate to [winkel]" met Google Maps. Lazarillo kondigt de omgeving aan.
+- **In de winkel:** "Hey Meta, what is this?" voor producten. "Hey Meta, read this" voor labels.
+- **Betalen:** Cash Reader om wisselgeld te controleren, of contactloos betalen met je telefoon.
+- **Thuis:** "Hey Meta, what do you see?" om te controleren of de lichten aan zijn.
 
 <label class="progress-check"><input type="checkbox" id="w4d5"> Klaar</label>
 
@@ -457,7 +488,15 @@ Ochtendroutine met bril: wakker worden → weer → navigeren → winkelen → b
 <summary>Les 6 — Problemen oplossen</summary>
 <div>
 
-Iets werkt niet? Kijk op de [Hulp-pagina](/nl/hulp/) voor veelvoorkomende oplossingen.
+Veelvoorkomende problemen en snelle oplossingen:
+
+- **Meta AI reageert niet** → controleer internet + Bluetooth, herstart de bril (houd aan/uit 5 sec ingedrukt).
+- **Geen geluid door de bril** → controleer Bluetooth-koppeling, koppel opnieuw indien nodig.
+- **"Hey Siri/Google" hoort me niet** → telefoon te ver weg — houd hem in een borstzak.
+- **Slechte AI-beschrijvingen** → verbeter de verlichting, richt je hoofd op het doel, probeer Engels.
+- **Batterij gaat snel leeg** → laad op tijdens maaltijden, houd de case opgeladen.
+
+Meer hulp: [Hulp-pagina](/nl/hulp/).
 
 <label class="progress-check"><input type="checkbox" id="w4d6"> Klaar</label>
 
@@ -468,7 +507,10 @@ Iets werkt niet? Kijk op de [Hulp-pagina](/nl/hulp/) voor veelvoorkomende oploss
 <summary>Les 7 — Geslaagd! 🎓</summary>
 <div>
 
-Je hebt het gehaald. Bekijk alle vaardigheden, stel persoonlijke doelen, bookmark de [Gebruik](/nl/gebruik/) pagina.
+- Je hebt het gehaald! Bedenk wat je nu kunt dat je 4 weken geleden niet kon.
+- Stel 3 persoonlijke doelen voor de komende maand.
+- Bookmark de pagina [Dagelijks gebruik](/nl/gebruik/) als snelreferentie.
+- Vertel iemand wat de bril kan — jij bent nu de expert.
 
 <label class="progress-check"><input type="checkbox" id="w4d7"> Klaar</label>
 
