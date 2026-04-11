@@ -29,7 +29,12 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 1 — Unbox & Charge</summary>
 <div>
 
-Open the box, charge glasses and case, try them on for fit. Learn where the controls are.
+- Open the box. Inside you'll find: glasses, charging case, USB-C cable, and a lens cloth.
+- Place the glasses in the case and connect the USB-C cable. Wait for the LED to turn solid green (about 1 hour).
+- Try the glasses on. Adjust the nose pads until they sit comfortably.
+- Find the touchpad on the right temple — don't press it yet.
+- Find the capture button on the top of the right temple — we'll use it later.
+- Notice the small white LED on the inside of the frame near the hinge. It lights up when the camera is active.
 
 <label class="progress-check"><input type="checkbox" id="w1d1"> Done</label>
 
@@ -40,7 +45,11 @@ Open the box, charge glasses and case, try them on for fit. Learn where the cont
 <summary>Lesson 2 — Pair with Phone</summary>
 <div>
 
-Install Meta View app, pair your glasses, run firmware update.
+- Install the **Meta View** app from the App Store (iPhone) or Google Play (Android).
+- Open the app, sign in with a Meta account, and follow the pairing wizard.
+- When prompted, let the firmware update complete — this takes 5–10 minutes. Keep the glasses in the case.
+- Test: play a song on your phone. You should hear it through the glasses, not the phone speaker.
+- If there's no sound from the glasses: check Bluetooth settings and reconnect.
 
 <label class="progress-check"><input type="checkbox" id="w1d2"> Done</label>
 
@@ -51,7 +60,11 @@ Install Meta View app, pair your glasses, run firmware update.
 <summary>Lesson 3 — "Hey Meta, what do you see?"</summary>
 <div>
 
-Your first AI interaction. Say it 5 times in different rooms. See what Meta describes.
+- Put the glasses on and face a room with objects in it.
+- Say: **"Hey Meta, what do you see?"** and listen to the description.
+- Try it 5 times in different locations: kitchen, living room, outside, at a table, in a shop.
+- Also try: **"Hey Meta, read this"** with a book, package, or letter.
+- Tip: turn your head toward what you want described — the camera is in the glasses.
 
 <label class="progress-check"><input type="checkbox" id="w1d3"> Done</label>
 
@@ -64,12 +77,20 @@ Your first AI interaction. Say it 5 times in different rooms. See what Meta desc
 
 <div class="iphone-only">
 
-Set up VoiceOver, Announce Notifications, and Siri on your iPhone.
+- Enable **VoiceOver**: Settings → Accessibility → VoiceOver → ON.
+- Enable **Announce Notifications**: Settings → Accessibility → Siri → Announce Notifications → ON.
+- Enable **"Hey Siri"**: Settings → Siri & Search → Listen for "Hey Siri" → ON.
+- Test: send yourself a WhatsApp message — it should be read aloud through the glasses.
+- Test: **"Hey Siri, what's the weather?"** — you should hear the response through the glasses.
 
 </div>
 <div class="android-only">
 
-Set up TalkBack, notification reading, and Google Assistant on your Android phone.
+- Enable **TalkBack**: Settings → Accessibility → TalkBack → ON.
+- Enable notification reading: TalkBack → Settings → Read notifications aloud.
+- Enable **"Hey Google"**: Settings → Google → Google Assistant → "Hey Google" → ON.
+- Test: send yourself a WhatsApp message — it should be read aloud through the glasses.
+- Test: **"Hey Google, what's the weather?"** — you should hear the response through the glasses.
 
 </div>
 
@@ -82,7 +103,11 @@ Set up TalkBack, notification reading, and Google Assistant on your Android phon
 <summary>Lesson 5 — Touchpad & Gestures</summary>
 <div>
 
-Practice: tap, double-tap, swipe forward, swipe back, tap-and-hold.
+- Play some music first (ask someone to start Spotify, or say "Hey Meta, play some music").
+- **Single tap** = play / pause. Try it 5 times.
+- **Double tap** = skip to the next song. Try it 3 times.
+- **Swipe forward** (front to back) = volume up. **Swipe back** (back to front) = volume down.
+- **Tap and hold** = activates Meta AI (same as saying "Hey Meta"). Try it once.
 
 <label class="progress-check"><input type="checkbox" id="w1d5"> Done</label>
 
@@ -93,7 +118,10 @@ Practice: tap, double-tap, swipe forward, swipe back, tap-and-hold.
 <summary>Lesson 6 — Make a Call + Install Core Apps</summary>
 <div>
 
-Call a friend: "Hey Meta, call [name]." Then install the 8 essential apps from the [Apps page](/en/apps/).
+- Say: **"Hey Meta, call [name]"** — call a friend or family member. Have a short conversation.
+- After the call, install the 8 essential apps listed on the [Apps page](/en/apps/).
+- Open **Be My Eyes**, create an account, and make a test call to a volunteer.
+- The volunteer will see through your glasses camera and can help describe anything.
 
 <label class="progress-check"><input type="checkbox" id="w1d6"> Done</label>
 
@@ -104,7 +132,9 @@ Call a friend: "Hey Meta, call [name]." Then install the 8 essential apps from t
 <summary>Lesson 7 — Rest & Review</summary>
 <div>
 
-What worked? What was confusing? Write it down. Rest before Week 2.
+- No new skills today — take a break.
+- Think about: What was the easiest lesson? What was the hardest? What surprised you?
+- Write down anything confusing — you'll build on these skills in Week 2.
 
 <label class="progress-check"><input type="checkbox" id="w1d7"> Done</label>
 

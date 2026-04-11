@@ -29,7 +29,12 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 1 — Uitpakken & opladen</summary>
 <div>
 
-Open de doos, laad de bril en hoes op, pas de bril. Leer waar de knoppen zitten.
+- Open de doos. Erin vind je: bril, oplaadcase, USB-C kabel en een poetsdoekje.
+- Leg de bril in de case en sluit de USB-C kabel aan. Wacht tot de LED groen brandt (circa 1 uur).
+- Pas de bril. Stel de neuspads bij tot hij comfortabel zit.
+- Zoek het touchpad op de rechterpoot — druk er nog niet op.
+- Zoek de opnameknop bovenop de rechterpoot — die gebruiken we later.
+- Let op het kleine witte lampje aan de binnenkant van het montuur bij het scharnier. Het gaat branden als de camera actief is.
 
 <label class="progress-check"><input type="checkbox" id="w1d1"> Klaar</label>
 
@@ -40,7 +45,11 @@ Open de doos, laad de bril en hoes op, pas de bril. Leer waar de knoppen zitten.
 <summary>Les 2 — Koppelen met telefoon</summary>
 <div>
 
-Installeer de Meta View app, koppel je bril, voer firmware-update uit.
+- Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android).
+- Open de app, log in met een Meta-account en volg de koppelwizard.
+- Laat de firmware-update voltooien wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. Houd de bril in de case.
+- Test: speel een nummer af op je telefoon. Je zou het door de bril moeten horen, niet via de telefoonluidspreker.
+- Geen geluid uit de bril? Controleer de Bluetooth-instellingen en verbind opnieuw.
 
 <label class="progress-check"><input type="checkbox" id="w1d2"> Klaar</label>
 
@@ -51,7 +60,11 @@ Installeer de Meta View app, koppel je bril, voer firmware-update uit.
 <summary>Les 3 — "Hey Meta, what do you see?"</summary>
 <div>
 
-Je eerste AI-interactie. Zeg het 5 keer in verschillende kamers. Kijk wat Meta beschrijft.
+- Zet de bril op en kijk naar een kamer met voorwerpen erin.
+- Zeg: **"Hey Meta, what do you see?"** en luister naar de beschrijving.
+- Probeer het 5 keer op verschillende plekken: keuken, woonkamer, buiten, aan tafel, in een winkel.
+- Probeer ook: **"Hey Meta, read this"** met een boek, pakje of brief.
+- Tip: draai je hoofd naar wat je beschreven wilt hebben — de camera zit in de bril.
 
 <label class="progress-check"><input type="checkbox" id="w1d3"> Klaar</label>
 
@@ -64,12 +77,20 @@ Je eerste AI-interactie. Zeg het 5 keer in verschillende kamers. Kijk wat Meta b
 
 <div class="iphone-only">
 
-Stel VoiceOver, meldingen voorlezen en Siri in op je iPhone.
+- Schakel **VoiceOver** in: Instellingen → Toegankelijkheid → VoiceOver → AAN.
+- Schakel **Meldingen aankondigen** in: Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → AAN.
+- Schakel **"Hey Siri"** in: Instellingen → Siri en zoeken → Luister naar "Hey Siri" → AAN.
+- Test: stuur jezelf een WhatsApp-bericht — het zou hardop door de bril moeten worden voorgelezen.
+- Test: **"Hey Siri, what's the weather?"** — je zou het antwoord door de bril moeten horen.
 
 </div>
 <div class="android-only">
 
-Stel TalkBack, meldingen voorlezen en Google Assistent in op je Android.
+- Schakel **TalkBack** in: Instellingen → Toegankelijkheid → TalkBack → AAN.
+- Schakel meldingen voorlezen in: TalkBack → Instellingen → Meldingen hardop voorlezen.
+- Schakel **"Hey Google"** in: Instellingen → Google → Google Assistent → "Hey Google" → AAN.
+- Test: stuur jezelf een WhatsApp-bericht — het zou hardop door de bril moeten worden voorgelezen.
+- Test: **"Hey Google, what's the weather?"** — je zou het antwoord door de bril moeten horen.
 
 </div>
 
@@ -82,7 +103,11 @@ Stel TalkBack, meldingen voorlezen en Google Assistent in op je Android.
 <summary>Les 5 — Touchpad & gebaren</summary>
 <div>
 
-Oefen: tikken, dubbeltikken, naar voren vegen, naar achteren vegen, tikken en vasthouden.
+- Speel eerst wat muziek af (vraag iemand om Spotify te starten, of zeg "Hey Meta, play some music").
+- **Enkele tik** = afspelen / pauzeren. Probeer het 5 keer.
+- **Dubbele tik** = volgend nummer. Probeer het 3 keer.
+- **Veeg naar voren** (van voor naar achter) = volume omhoog. **Veeg naar achteren** (van achter naar voor) = volume omlaag.
+- **Tikken en vasthouden** = activeert Meta AI (hetzelfde als "Hey Meta" zeggen). Probeer het eenmaal.
 
 <label class="progress-check"><input type="checkbox" id="w1d5"> Klaar</label>
 
@@ -93,7 +118,10 @@ Oefen: tikken, dubbeltikken, naar voren vegen, naar achteren vegen, tikken en va
 <summary>Les 6 — Bellen + kern-apps installeren</summary>
 <div>
 
-Bel een vriend: "Hey Meta, call [naam]." Installeer daarna de 8 essentiële apps van de [Apps-pagina](/nl/apps/).
+- Zeg: **"Hey Meta, call [naam]"** — bel een vriend of familielid. Voer een kort gesprek via de bril.
+- Installeer na het gesprek de 8 essentiële apps van de [Apps-pagina](/nl/apps/).
+- Open **Be My Eyes**, maak een account aan en maak een testgesprek met een vrijwilliger.
+- De vrijwilliger ziet door je brillencamera en kan helpen met het beschrijven van je omgeving.
 
 <label class="progress-check"><input type="checkbox" id="w1d6"> Klaar</label>
 
@@ -104,7 +132,9 @@ Bel een vriend: "Hey Meta, call [naam]." Installeer daarna de 8 essentiële apps
 <summary>Les 7 — Rust & evaluatie</summary>
 <div>
 
-Wat werkte? Wat was verwarrend? Schrijf het op. Rust voor Week 2.
+- Geen nieuwe vaardigheden vandaag — neem een pauze.
+- Denk na over: Welke les was het makkelijkst? Het moeilijkst? Wat verraste je?
+- Schrijf op wat verwarrend was — je bouwt hierop verder in Week 2.
 
 <label class="progress-check"><input type="checkbox" id="w1d7"> Klaar</label>
 
