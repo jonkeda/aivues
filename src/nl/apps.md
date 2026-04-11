@@ -40,13 +40,32 @@ De 8 apps die elke AI-brillengebruiker moet installeren.
 
 ## Nederland-specifieke apps
 
-- **9292** — OV-reisplanner
-- **NS** — treinen, actuele vertrektijden
-- **Buienradar** — neerslag en weer
-- **Albert Heijn** — boodschappenlijst, aanbiedingen
-- **DigiD** — overheidsidentificatie
-- **Tikkie** — betaalverzoeken
-- **OVpay** — in- en uitchecken OV
+### Openbaar vervoer
+
+- **9292** — OV-reisplanner voor heel Nederland. Spreekt routes voor met VoiceOver/TalkBack. Geeft realtime vertrektijden en verstoringen.
+- **NS** — Treinreizen plannen en e-tickets kopen. Toegankelijk met VoiceOver. Live vertrek- en aankomsttijden op stations.
+- **OVpay** — In- en uitchecken met bankpas of telefoon in het OV. Alternatief voor de OV-chipkaart.
+
+### Weer
+
+- **Buienradar** — Neerslagverwachting per locatie. "Regent het over 30 minuten?" Handig als je met de bril buiten bent.
+
+### Boodschappen & betalen
+
+- **Albert Heijn** — Boodschappenlijst maken, aanbiedingen bekijken, Bonuskaart scannen in de winkel. Redelijk toegankelijk met VoiceOver.
+- **Tikkie** — Betaalverzoeken sturen en ontvangen. Veel gebruikt in Nederland. Eenvoudige interface, werkt met VoiceOver.
+
+### Overheid & identiteit
+
+- **DigiD** — Inloggen bij overheidswebsites. Nodig voor: Mijn Belastingdienst, UWV, gemeente. Let op: gezichtsherkenning werkt mogelijk niet met de bril op — gebruik de pincode-optie.
+
+### Bankieren
+
+Alle grote Nederlandse banken hebben apps die redelijk tot goed werken met VoiceOver en TalkBack:
+
+- **ING** — Goed toegankelijk. Spraaknavigatie werkt.
+- **Rabobank** — Goed toegankelijk. Face ID/Touch ID voor inloggen.
+- **ABN AMRO** — Redelijk toegankelijk. Sommige grafieken zijn niet gelabeld.
 
 ---
 
