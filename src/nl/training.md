@@ -33,6 +33,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <summary>Les 1 — Uitpakken & opladen</summary>
 <div>
 
+*Na deze les: je bril is opgeladen, past goed en je weet waar de knoppen zitten.*
+
 - Open de doos. Erin vind je: bril, oplaadcase, USB-C kabel en een poetsdoekje
 - Leg de bril in de case en sluit de USB-C kabel aan. Wacht tot de LED groen brandt (circa 1 uur)
 - Pas de bril. Stel de neuspads bij tot hij comfortabel zit
@@ -49,6 +51,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <summary>Les 2 — Koppelen met telefoon</summary>
 <div>
 
+*Na deze les: je bril is verbonden met je telefoon en speelt geluid af.*
+
 - Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android)
 - Open de app, log in met een Meta-account en volg de koppelwizard
 - Laat de firmware-update voltooien wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. Houd de bril in de case
@@ -64,6 +68,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <summary>Les 3 — "Hey Meta, what do you see?"</summary>
 <div>
 
+*Na deze les: je kunt de AI vragen om je omgeving te beschrijven en tekst voor te lezen.*
+
 - Zet de bril op en kijk naar een kamer met voorwerpen erin
 - Zeg: **"Hey Meta, what do you see?"** en luister naar de beschrijving
 - Probeer het 5 keer op verschillende plekken: keuken, woonkamer, buiten, aan tafel, in een winkel
@@ -78,6 +84,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <details>
 <summary>Les 4 — Toegankelijkheid telefoon</summary>
 <div>
+
+*Na deze les: je telefoon leest meldingen hardop voor via de bril en reageert op je stem.*
 
 <div class="iphone-only">
 
@@ -107,6 +115,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <summary>Les 5 — Touchpad & gebaren</summary>
 <div>
 
+*Na deze les: je kunt muziek, volume en de AI bedienen met aanraking.*
+
 - Speel eerst wat muziek af (vraag iemand om Spotify te starten, of zeg "Hey Meta, play some music")
 - **Enkele tik** = afspelen / pauzeren. Probeer het 5 keer
 - **Dubbele tik** = volgend nummer. Probeer het 3 keer
@@ -121,6 +131,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 <details>
 <summary>Les 6 — Bellen + kern-apps installeren</summary>
 <div>
+
+*Na deze les: je hebt je eerste gesprek via de bril gevoerd en de belangrijkste apps geïnstalleerd.*
 
 - Zeg: **"Hey Meta, call [naam]"** — bel een vriend of familielid. Voer een kort gesprek via de bril
 - Installeer na het gesprek de 8 essentiële apps van de [Apps-pagina](/nl/apps/)
@@ -153,6 +165,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <summary>Les 1 — Scènebeschrijving</summary>
 <div>
 
+*Na deze les: je kunt een gesprek voeren met Meta AI over wat er om je heen is.*
+
 - Oefen binnenshuis: zeg **"Hey Meta, what's in front of me?"** en luister
 - Probeer het in verschillende kamers met verschillend licht — lichte kamers geven betere beschrijvingen
 - Stel vervolgvragen: "Are there any people?" of "What's on the table?"
@@ -167,6 +181,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <details>
 <summary>Les 2 — Tekst lezen</summary>
 <div>
+
+*Na deze les: je kunt de AI vragen om menu's, labels, brieven en verpakkingen voor te lezen.*
 
 - Zoek een menu, brief of medicijnlabel
 - Zeg: **"Hey Meta, read this"** — houd stil en kijk naar de tekst
@@ -183,6 +199,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <summary>Les 3 — Objectherkenning</summary>
 <div>
 
+*Na deze les: je kunt producten, merken en alledaagse voorwerpen herkennen met je stem.*
+
 - Zeg: **"Hey Meta, what is this?"** terwijl je een voorwerp voor je houdt
 - Probeer met: een product, een stuk fruit, een huishoudelijk artikel, gereedschap
 - Probeer: **"Hey Meta, what brand is this?"** met een product
@@ -197,6 +215,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <details>
 <summary>Les 4 — Kleurherkenning</summary>
 <div>
+
+*Na deze les: je kunt de kleur vragen van kleding, eten en huishoudelijke spullen.*
 
 - Zeg: **"Hey Meta, what color is this shirt?"**
 - Oefen met: kleding, etenswaren, huishoudelijke voorwerpen
@@ -213,6 +233,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <summary>Les 5 — Vervolgvragen</summary>
 <div>
 
+*Na deze les: je kunt meerdere vragen achter elkaar stellen om gedetailleerde antwoorden te krijgen.*
+
 - Begin breed: **"Hey Meta, what do you see?"**
 - Zoom dan in: "Is there a price tag?" → "How much?"
 - Of: "What do you see?" → "Is there a door?" → "Which side?"
@@ -227,6 +249,8 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 <details>
 <summary>Les 6 — Buiten</summary>
 <div>
+
+*Na deze les: je kunt de AI-camera gebruiken bij kruispunten, winkels en bushaltes.*
 
 - Ga naar buiten (met een helper als dat nodig is)
 - Bij een kruispunt: **"Hey Meta, describe what's around me."**
@@ -262,6 +286,8 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 <summary>Les 1 — Siri / Google basis</summary>
 <div>
 
+*Na deze les: je kunt via de bril tijd, weer, timers en herinneringen opvragen bij je telefoonassistent.*
+
 <div class="iphone-only">
 
 - Probeer: **"Hey Siri, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
@@ -288,6 +314,8 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 <summary>Les 2 — Navigatie</summary>
 <div>
 
+*Na deze les: je krijgt looprichtingen voorgelezen via de bril.*
+
 - Zeg: **"Hey Siri/Google, navigate to [adres]"** — dit opent Google Maps met looprichtingen
 - Loop eerst een bekende route (huis → winkel, huis → bushalte) zodat je de aanwijzingen kunt controleren
 - Stapsgewijze spraaknavigatie speelt af via de brillenspeakers
@@ -302,6 +330,8 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 <summary>Les 3 — Berichten</summary>
 <div>
 
+*Na deze les: je kunt berichten versturen en beluisteren zonder je handen te gebruiken.*
+
 - Zeg: **"Hey Meta, send a message to [naam] on WhatsApp"** — dicteer je bericht
 - Voor SMS: **"Hey Siri/Google, send an SMS to [naam]."**
 - Probeer: **"Hey Meta, read my messages"** om recente berichten te horen
@@ -315,6 +345,8 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 <details>
 <summary>Les 4 — Snelkoppelingen & routines</summary>
 <div>
+
+*Na deze les: je hebt stemcommando's voor je ochtendbriefing, thuiskomen en veiligheid.*
 
 <div class="iphone-only">
 
@@ -347,6 +379,8 @@ Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
 <summary>Les 5 — Muziek & media</summary>
 <div>
 
+*Na deze les: je kunt muziek afspelen, overslaan en bedienen met alleen stem en aanraking.*
+
 - Zeg: **"Hey Meta, play [nummer/artiest/playlist]"** — dit activeert Spotify Tap
 - Probeer: **"Hey Meta, play some jazz"** of **"Hey Meta, play my Discover Weekly."**
 - Gebruik het touchpad: tikken = pauzeren, dubbeltikken = volgend nummer, vegen = volume
@@ -360,6 +394,8 @@ Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
 <details>
 <summary>Les 6 — Smart home (optioneel)</summary>
 <div>
+
+*Na deze les: je kunt lampen en thermostaat bedienen met je stem.*
 
 Alleen relevant als je smart home apparaten hebt (lampen, thermostaat, stekkers). Sla deze les over als je die niet hebt.
 
@@ -385,6 +421,8 @@ Alleen relevant als je smart home apparaten hebt (lampen, thermostaat, stekkers)
 <summary>Les 7 — Twee wake words</summary>
 <div>
 
+*Na deze les: je weet welk wake word je moet gebruiken voor elke taak.*
+
 Oefen de "twee wake words" gewoonte. Elk bestuurt andere dingen:
 
 - **"Hey Meta"** voor: zien, lezen, herkennen, WhatsApp, muziek, foto's
@@ -407,6 +445,8 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 <summary>Les 1 — Be My Eyes</summary>
 <div>
 
+*Na deze les: je kunt een vrijwilliger of AI inschakelen voor complexe visuele taken.*
+
 - Open **Be My Eyes** en tik op "Bel een vrijwilliger"
 - Een ziende vrijwilliger kijkt mee door je brillencamera en beschrijft wat je nodig hebt
 - Probeer: vraag om je post voor te lezen, iets in de koelkast te vinden, een product te herkennen
@@ -422,6 +462,8 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 <summary>Les 2 — Navigatie-app</summary>
 <div>
 
+*Na deze les: je telefoon kondigt plaatsen in de buurt aan terwijl je loopt.*
+
 - Installeer **Lazarillo** (App Store / Google Play) — het kondigt continu je omgeving aan
 - Loop een bekende route met Lazarillo aan en luister: "Apotheek links van je," "Bushalte verderop"
 - Vergelijk met Google Maps: Lazarillo = passief bewustzijn, Google Maps = stap-voor-stap route
@@ -435,6 +477,8 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 <details>
 <summary>Les 3 — Cash Reader</summary>
 <div>
+
+*Na deze les: je kunt zelfstandig bankbiljetten herkennen.*
 
 - Open **Cash Reader** en richt de telefooncamera op een bankbiljet
 - Het zegt de waarde: "20 euro" / "50 euro"
@@ -450,6 +494,8 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 <details>
 <summary>Les 4 — Lees-app</summary>
 <div>
+
+*Na deze les: je kunt lange documenten scannen en laten voorlezen met je telefoon.*
 
 <div class="iphone-only">
 
@@ -477,6 +523,8 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 <summary>Les 5 — Complete dagroutine</summary>
 <div>
 
+*Na deze les: je hebt alle vaardigheden samen gebruikt in een echte dag.*
+
 Combineer alles in een echte dag:
 
 - **Ochtend:** "Hey Siri/Google, what's my day look like?" (weer + agenda)
@@ -493,6 +541,8 @@ Combineer alles in een echte dag:
 <details>
 <summary>Les 6 — Problemen oplossen</summary>
 <div>
+
+*Na deze les: je weet hoe je de meest voorkomende problemen zelf oplost.*
 
 Veelvoorkomende problemen en snelle oplossingen:
 

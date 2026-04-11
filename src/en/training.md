@@ -33,6 +33,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <summary>Lesson 1 — Unbox & Charge</summary>
 <div>
 
+*After this lesson: your glasses are charged, fitted, and you know where the controls are.*
+
 - Open the box. Inside you'll find: glasses, charging case, USB-C cable, and a lens cloth
 - Place the glasses in the case and connect the USB-C cable. Wait for the LED to turn solid green (about 1 hour)
 - Try the glasses on. Adjust the nose pads until they sit comfortably
@@ -49,6 +51,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <summary>Lesson 2 — Pair with Phone</summary>
 <div>
 
+*After this lesson: your glasses are connected to your phone and playing audio.*
+
 - Install the **Meta View** app from the App Store (iPhone) or Google Play (Android)
 - Open the app, sign in with a Meta account, and follow the pairing wizard
 - When prompted, let the firmware update complete — this takes 5–10 minutes. Keep the glasses in the case
@@ -64,6 +68,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <summary>Lesson 3 — "Hey Meta, what do you see?"</summary>
 <div>
 
+*After this lesson: you can ask the AI to describe your surroundings and read text.*
+
 - Put the glasses on and face a room with objects in it
 - Say: **"Hey Meta, what do you see?"** and listen to the description
 - Try it 5 times in different locations: kitchen, living room, outside, at a table, in a shop
@@ -78,6 +84,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <details>
 <summary>Lesson 4 — Phone Accessibility</summary>
 <div>
+
+*After this lesson: your phone reads notifications aloud through the glasses and responds to voice.*
 
 <div class="iphone-only">
 
@@ -107,6 +115,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <summary>Lesson 5 — Touchpad & Gestures</summary>
 <div>
 
+*After this lesson: you can control music, volume, and activate the AI by touch.*
+
 - Play some music first (ask someone to start Spotify, or say "Hey Meta, play some music")
 - **Single tap** = play / pause. Try it 5 times
 - **Double tap** = skip to the next song. Try it 3 times
@@ -121,6 +131,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 <details>
 <summary>Lesson 6 — Make a Call + Install Core Apps</summary>
 <div>
+
+*After this lesson: you've made your first call through the glasses and installed the essential apps.*
 
 - Say: **"Hey Meta, call [name]"** — call a friend or family member. Have a short conversation
 - After the call, install the 8 essential apps listed on the [Apps page](/en/apps/)
@@ -153,6 +165,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <summary>Lesson 1 — Scene Description</summary>
 <div>
 
+*After this lesson: you can have a conversation with Meta AI about what's around you.*
+
 - Practice indoors: say **"Hey Meta, what's in front of me?"** and listen
 - Try it in different rooms with different lighting — bright rooms give better descriptions
 - Ask follow-up questions: "Are there any people?" or "What's on the table?"
@@ -167,6 +181,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <details>
 <summary>Lesson 2 — Reading Text</summary>
 <div>
+
+*After this lesson: you can ask the AI to read menus, labels, letters, and packages.*
 
 - Find a menu, letter, or medicine label
 - Say: **"Hey Meta, read this"** — hold still and face the text
@@ -183,6 +199,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <summary>Lesson 3 — Object Identification</summary>
 <div>
 
+*After this lesson: you can identify products, brands, and everyday objects by voice.*
+
 - Say: **"Hey Meta, what is this?"** while holding an object in front of you
 - Try with: a product, a piece of fruit, a household item, a tool
 - Try: **"Hey Meta, what brand is this?"** with a product
@@ -197,6 +215,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <details>
 <summary>Lesson 4 — Color Identification</summary>
 <div>
+
+*After this lesson: you can ask for the color of clothing, food, and household items.*
 
 - Say: **"Hey Meta, what color is this shirt?"**
 - Practice with: clothing, food items, household objects
@@ -213,6 +233,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <summary>Lesson 5 — Follow-up Questions</summary>
 <div>
 
+*After this lesson: you can hold multi-turn conversations with the AI to get detailed answers.*
+
 - Start broad: **"Hey Meta, what do you see?"**
 - Then narrow down: "Is there a price tag?" → "How much?"
 - Or: "What do you see?" → "Is there a door?" → "Which side?"
@@ -227,6 +249,8 @@ Now that your glasses are set up, this guide focuses on using the AI camera. You
 <details>
 <summary>Lesson 6 — Outdoors</summary>
 <div>
+
+*After this lesson: you can use the AI camera at intersections, shops, and bus stops.*
 
 - Go for a walk (with a helper if needed)
 - At an intersection: **"Hey Meta, describe what's around me."**
@@ -262,6 +286,8 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 <summary>Lesson 1 — Siri / Google Basics</summary>
 <div>
 
+*After this lesson: you can ask your phone assistant for time, weather, timers, and reminders through the glasses.*
+
 <div class="iphone-only">
 
 - Try these commands: **"Hey Siri, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
@@ -288,6 +314,8 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 <summary>Lesson 2 — Navigation</summary>
 <div>
 
+*After this lesson: you can get walking directions read aloud through the glasses.*
+
 - Say: **"Hey Siri/Google, navigate to [address]"** — this opens Google Maps with walking directions
 - Walk a familiar route first (home → shop, home → bus stop) so you can verify the directions
 - Voice turn-by-turn directions play through the glasses speakers
@@ -302,6 +330,8 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 <summary>Lesson 3 — Messages</summary>
 <div>
 
+*After this lesson: you can send and listen to messages hands-free.*
+
 - Say: **"Hey Meta, send a message to [name] on WhatsApp"** — dictate your message
 - For SMS: **"Hey Siri/Google, send an SMS to [name]."**
 - Try: **"Hey Meta, read my messages"** to hear recent messages
@@ -315,6 +345,8 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 <details>
 <summary>Lesson 4 — Shortcuts & Routines</summary>
 <div>
+
+*After this lesson: you have voice shortcuts for your morning briefing, getting home, and safety.*
 
 <div class="iphone-only">
 
@@ -347,6 +379,8 @@ Test each one. These are set up once and work by voice anytime.
 <summary>Lesson 5 — Music & Media</summary>
 <div>
 
+*After this lesson: you can play, skip, and control music entirely by voice and touch.*
+
 - Say: **"Hey Meta, play [song/artist/playlist]"** — this triggers Spotify Tap
 - Try: **"Hey Meta, play some jazz"** or **"Hey Meta, play my Discover Weekly."**
 - Use the touchpad: tap = pause, double-tap = skip, swipe = volume
@@ -360,6 +394,8 @@ Test each one. These are set up once and work by voice anytime.
 <details>
 <summary>Lesson 6 — Smart Home (optional)</summary>
 <div>
+
+*After this lesson: you can control lights and thermostat by voice.*
 
 Only relevant if you have smart devices (lights, thermostat, plugs). Skip this lesson if you don't.
 
@@ -385,6 +421,8 @@ Only relevant if you have smart devices (lights, thermostat, plugs). Skip this l
 <summary>Lesson 7 — Two Wake Words</summary>
 <div>
 
+*After this lesson: you know which wake word to use for any task.*
+
 Practice the "two wake word" habit. Each one controls different things:
 
 - **"Hey Meta"** for: seeing, reading, identifying, WhatsApp, music, photos
@@ -407,6 +445,8 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 <summary>Lesson 1 — Be My Eyes</summary>
 <div>
 
+*After this lesson: you can call a volunteer or AI to help with complex visual tasks.*
+
 - Open **Be My Eyes** and tap "Call a volunteer"
 - A sighted volunteer will see through your glasses camera and describe what you need
 - Try asking them to: read your mail, help find something in the fridge, identify a product
@@ -422,6 +462,8 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 <summary>Lesson 2 — Navigation App</summary>
 <div>
 
+*After this lesson: your phone announces nearby places as you walk.*
+
 - Install **Lazarillo** (App Store / Google Play) — it announces surroundings continuously
 - Walk a familiar route with Lazarillo turned on and listen: "Pharmacy on your left," "Bus stop ahead"
 - Compare with Google Maps: Lazarillo = passive awareness, Google Maps = turn-by-turn directions
@@ -435,6 +477,8 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 <details>
 <summary>Lesson 3 — Cash Reader</summary>
 <div>
+
+*After this lesson: you can identify banknotes independently.*
 
 - Open **Cash Reader** and point the phone camera at a banknote
 - It announces the denomination: "20 euros" / "50 euros"
@@ -450,6 +494,8 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 <details>
 <summary>Lesson 4 — Reading App</summary>
 <div>
+
+*After this lesson: you can scan and read long documents with your phone.*
 
 <div class="iphone-only">
 
@@ -477,6 +523,8 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 <summary>Lesson 5 — Full Daily Routine</summary>
 <div>
 
+*After this lesson: you've used every skill together in a real day.*
+
 Put it all together in a real day:
 
 - **Morning:** "Hey Siri/Google, what's my day look like?" (weather + calendar)
@@ -493,6 +541,8 @@ Put it all together in a real day:
 <details>
 <summary>Lesson 6 — Troubleshooting</summary>
 <div>
+
+*After this lesson: you know how to fix the most common problems yourself.*
 
 Common issues and quick fixes:
 
