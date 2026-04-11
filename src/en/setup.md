@@ -131,7 +131,32 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ### iPhone
 
-*Content coming soon — VoiceOver, Announce Notifications, Siri setup.*
+**VoiceOver**
+
+- Settings → Accessibility → VoiceOver → **ON**
+- Set up a quick toggle: Settings → Accessibility → Accessibility Shortcut → VoiceOver (triple-click side button to toggle)
+- Audio plays through the glasses speakers via Bluetooth
+
+**Announce Notifications**
+
+- Settings → Accessibility → Siri → Announce Notifications → **ON**
+- Enable for: WhatsApp, Phone, Messages, Calendar, Meta View
+- Disable for: social media, marketing apps, games
+- Notifications are read aloud through the glasses automatically
+
+**Siri**
+
+- Settings → Siri & Search → Listen for "Hey Siri" → **ON**
+- Allow Siri When Locked → **ON**
+- Language: English recommended for best AI quality
+- Siri responds through the glasses speakers
+
+**Spoken Content**
+
+- Settings → Accessibility → Spoken Content → Speak Selection → **ON**
+- Speak Screen: **ON** — two-finger swipe down to read the entire screen
+
+**Quick test:** Say **"Hey Siri, what time is it?"** — you should hear the response through the glasses.
 
 </div>
 
@@ -139,7 +164,31 @@ Everything you need to go from unopened box to working smart glasses. A helper s
 
 ### Android
 
-*Content coming soon — TalkBack, notification reading, Google Assistant.*
+**TalkBack**
+
+- Settings → Accessibility → TalkBack → **ON**
+- Audio plays through the glasses speakers via Bluetooth
+- Practice gestures: swipe right = next item, swipe left = previous, double-tap = activate
+
+**Notification reading**
+
+- Settings → Accessibility → TalkBack → Settings → Read notifications aloud
+- Enable for: WhatsApp, Phone, Messages, Meta View
+- Disable for: social media, marketing apps
+
+**Google Assistant**
+
+- Settings → Google → Google Assistant → "Hey Google" → **ON**
+- Allow on lock screen → **ON**
+- Language: English recommended for best AI quality
+- Responses play through the glasses speakers
+
+**Select to Speak**
+
+- Settings → Accessibility → Select to Speak → **ON**
+- Point the phone camera at text and tap the play button to hear it read aloud
+
+**Quick test:** Say **"Hey Google, what time is it?"** — you should hear the response through the glasses.
 
 </div>
 

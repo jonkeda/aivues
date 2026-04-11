@@ -131,7 +131,32 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ### iPhone
 
-*Inhoud volgt binnenkort — VoiceOver, meldingen voorlezen, Siri instellen.*
+**VoiceOver**
+
+- Instellingen → Toegankelijkheid → VoiceOver → **AAN**
+- Stel een snelle schakelaar in: Instellingen → Toegankelijkheid → Snel naar → VoiceOver (drievoudig klikken op zijknop om te schakelen)
+- Audio speelt af via de brillenspeakers over Bluetooth
+
+**Meldingen aankondigen**
+
+- Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → **AAN**
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta View
+- Uitschakelen voor: sociale media, marketing-apps, games
+- Meldingen worden automatisch voorgelezen via de bril
+
+**Siri**
+
+- Instellingen → Siri en zoeken → Luister naar "Hey Siri" → **AAN**
+- Sta Siri toe bij vergrendeling → **AAN**
+- Taal: Engels aanbevolen voor de beste AI-kwaliteit
+- Siri antwoordt via de brillenspeakers
+
+**Gesproken inhoud**
+
+- Instellingen → Toegankelijkheid → Gesproken inhoud → Spreek selectie → **AAN**
+- Spreek scherm: **AAN** — veeg met twee vingers omlaag om het hele scherm voor te laten lezen
+
+**Snelle test:** Zeg **"Hey Siri, what time is it?"** — je zou het antwoord door de bril moeten horen.
 
 </div>
 
@@ -139,7 +164,31 @@ Alles wat je nodig hebt om van een ongeopende doos naar werkende AI brillen te g
 
 ### Android
 
-*Inhoud volgt binnenkort — TalkBack, meldingen voorlezen, Google Assistent.*
+**TalkBack**
+
+- Instellingen → Toegankelijkheid → TalkBack → **AAN**
+- Audio speelt af via de brillenspeakers over Bluetooth
+- Oefengebaren: veeg rechts = volgend item, veeg links = vorig, dubbeltikken = activeren
+
+**Meldingen voorlezen**
+
+- Instellingen → Toegankelijkheid → TalkBack → Instellingen → Meldingen hardop voorlezen
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta View
+- Uitschakelen voor: sociale media, marketing-apps
+
+**Google Assistent**
+
+- Instellingen → Google → Google Assistent → "Hey Google" → **AAN**
+- Toestaan op vergrendelscherm → **AAN**
+- Taal: Engels aanbevolen voor de beste AI-kwaliteit
+- Antwoorden spelen af via de brillenspeakers
+
+**Selecteren en voorlezen**
+
+- Instellingen → Toegankelijkheid → Selecteren en voorlezen → **AAN**
+- Richt de telefooncamera op tekst en tik op de afspeelknop om het voor te laten lezen
+
+**Snelle test:** Zeg **"Hey Google, what time is it?"** — je zou het antwoord door de bril moeten horen.
 
 </div>
 
