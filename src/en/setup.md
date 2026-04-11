@@ -225,16 +225,15 @@ These settings let the phone talk to the user through the glasses. Configure the
 
 ## Install Essential Apps {#apps}
 
-Install these eight apps before you start training. Each one adds something the glasses alone can't do. See the [full apps page](/en/apps/) for details.
+Install these seven apps before you start training. Each one adds something the glasses alone can't do. See the [full apps page](/en/apps/) for details.
 
 1. **Meta View** — glasses management (required)
 2. **Be My Eyes** — volunteer + AI vision help
-3. **Google Maps** — walking navigation
-4. **WhatsApp** — messaging with Meta AI
-5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR and scene description
-6. **Lazarillo** — continuous surroundings info
-7. **Cash Reader** — euro banknote identification
-8. **Spotify** — voice-controlled music
+3. **WhatsApp** — messaging with Meta AI
+4. **Envision AI** — OCR, scene description and object finding
+5. **Ally** — accessible AI assistant by Envision
+6. **ScribeMe** — AI scanner, live visual assistant and document reader
+7. **Spotify** — voice-controlled music
 
 ---
 

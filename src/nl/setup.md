@@ -225,16 +225,15 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 
 ## Apps installeren {#apps}
 
-Installeer deze acht apps voordat je begint met training. Elke app voegt iets toe wat de bril alleen niet kan. Zie de [apps-pagina](/nl/apps/) voor details.
+Installeer deze zeven apps voordat je begint met training. Elke app voegt iets toe wat de bril alleen niet kan. Zie de [apps-pagina](/nl/apps/) voor details.
 
 1. **Meta View** — brillenbeheer (vereist)
 2. **Be My Eyes** — vrijwilliger + AI visuele hulp
-3. **Google Maps** — wandelnavigatie
-4. **WhatsApp** — berichten met Meta AI
-5. **Seeing AI** (iPhone) / **Google Lookout** (Android) — OCR en scènebeschrijving
-6. **Lazarillo** — continue omgevingsinformatie
-7. **Cash Reader** — eurobankbiljetherkenning
-8. **Spotify** — spraakgestuurde muziek
+3. **WhatsApp** — berichten met Meta AI
+4. **Envision AI** — OCR, scènebeschrijving en objecten vinden
+5. **Ally** — toegankelijke AI-assistent van Envision
+6. **ScribeMe** — AI-scanner, live visuele assistent en documentlezer
+7. **Spotify** — spraakgestuurde muziek
 
 ---
 
