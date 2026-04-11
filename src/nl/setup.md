@@ -40,8 +40,7 @@ Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartk
 
 **Pasvorm en comfort:**
 
-- Verstelbare neuspads — pas aan tot het comfortabel zit
-- Standaard Ray-Ban Wayfarer-vorm, past de meeste volwassenen
+- Verkrijgbaar als Ray-Ban Wayfarer, Skyler, Headliner en Oakley Blayzer en Optics — meerdere montuurtypes voor verschillende gezichtsvormen
 - IPX4 waterbestendig — veilig in lichte regen
 - Glazen opties: helder, zonnebril, transition, of op sterkte
 
@@ -55,7 +54,7 @@ Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartk
 
 **Over de privacy-LED:**
 
-Een klein wit lampje aan de binnenkant van het montuur gaat branden zodra de camera actief is. Het kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen in de buurt weten dat de camera aan staat. Zorg dat de gebruiker weet dat het lampje er is, zodat zij het aan anderen kunnen uitleggen.
+Een klein wit lampje aan de buitenkant van het montuur gaat branden zodra de camera actief is. Het kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen in de buurt weten dat de camera aan staat. Zorg dat de gebruiker weet dat het lampje er is, zodat zij het aan anderen kunnen uitleggen.
 
 ---
 

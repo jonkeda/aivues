@@ -40,8 +40,7 @@ Open the box and you'll find the glasses, a charging case with USB-C cable, a qu
 
 **Fit and comfort:**
 
-- Adjustable nose pads — tweak until comfortable
-- Standard Ray-Ban Wayfarer shape, fits most adults
+- Available as Ray-Ban Wayfarer, Skyler, Headliner, and Oakley Blayzer and Optics — multiple frame styles to fit different faces
 - IPX4 water-resistant — safe in light rain
 - Lens options: clear, sun, transition, or prescription inserts
 
@@ -55,7 +54,7 @@ Open the box and you'll find the glasses, a charging case with USB-C cable, a qu
 
 **About the privacy LED:**
 
-A small white light on the inside of the frame turns on whenever the camera is active. It can't be disabled — this is intentional so people around the user know the camera is on. Make sure the user knows it's there so they can explain it to others.
+A small white light on the outside of the frame turns on whenever the camera is active. It can't be disabled — this is intentional so people around the user know the camera is on. Make sure the user knows it's there so they can explain it to others.
 
 ---
 
