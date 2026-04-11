@@ -19,6 +19,8 @@ sidebar:
 
 A step-by-step program to learn your smart glasses. 28 short lessons across 4 weeks — go at your own pace, one lesson at a time. Check off each lesson as you go.
 
+**Quick start:** Put on your glasses and say **"Hey Meta, I'm visually impaired. What can you do for me?"** — the AI will explain what it can do in its own words.
+
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
 ---
@@ -253,6 +255,8 @@ No new skills today — take a break. What are your favorite commands so far? Wh
 ## Week 3 — Your Phone Assistant {#week-3}
 
 This week you learn to use Siri or Google Assistant through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
+
+**Tip:** Try asking **"Hey Siri, what can you help me with?"** or **"Hey Google, what can you do for me?"** — your phone assistant will tell you what it can do.
 
 <details>
 <summary>Lesson 1 — Siri / Google Basics</summary>

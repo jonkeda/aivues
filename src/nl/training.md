@@ -19,6 +19,8 @@ sidebar:
 
 Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verdeeld over 4 weken — ga in je eigen tempo, één les per keer. Vink elke les af als je klaar bent.
 
+**Snel starten:** Zet je bril op en zeg **"Hey Meta, I'm visually impaired. What can you do for me?"** — de AI legt zelf uit wat hij kan.
+
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 
 ---
@@ -253,6 +255,8 @@ Geen nieuwe vaardigheden vandaag — neem een pauze. Wat zijn je favoriete comma
 ## Week 3 — Je telefoonassistent {#week-3}
 
 Deze week leer je Siri of Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
+
+**Tip:** Probeer **"Hey Siri, what can you help me with?"** of **"Hey Google, what can you do for me?"** — je telefoonassistent vertelt zelf wat hij kan.
 
 <details>
 <summary>Les 1 — Siri / Google basis</summary>
