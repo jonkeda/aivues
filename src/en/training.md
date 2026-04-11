@@ -149,7 +149,11 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 1 — Scene Description</summary>
 <div>
 
-"Hey Meta, what's in front of me?" — practice indoors.
+- Practice indoors: say **"Hey Meta, what's in front of me?"** and listen.
+- Try it in different rooms with different lighting — bright rooms give better descriptions.
+- Ask follow-up questions: "Are there any people?" or "What's on the table?"
+- Try looking out a window: **"Hey Meta, what do you see outside?"**
+- Goal: get comfortable starting a conversation with Meta AI.
 
 <label class="progress-check"><input type="checkbox" id="w2d1"> Done</label>
 
@@ -160,7 +164,11 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 2 — Reading Text</summary>
 <div>
 
-Read a menu, a letter, a medicine label.
+- Find a menu, letter, or medicine label.
+- Say: **"Hey Meta, read this"** — hold still and face the text.
+- Try with a food package: **"Hey Meta, what are the ingredients?"**
+- Try with a letter or bill: **"Hey Meta, what does this say?"**
+- Works best at arm's length, with good lighting and clear print.
 
 <label class="progress-check"><input type="checkbox" id="w2d2"> Done</label>
 
@@ -171,7 +179,11 @@ Read a menu, a letter, a medicine label.
 <summary>Lesson 3 — Object Identification</summary>
 <div>
 
-"What is this?" — products, food, household items.
+- Say: **"Hey Meta, what is this?"** while holding an object in front of you.
+- Try with: a product, a piece of fruit, a household item, a tool.
+- Try: **"Hey Meta, what brand is this?"** with a product.
+- Try: **"Hey Meta, is this shampoo or conditioner?"** — useful for similar-looking bottles.
+- Turn your head so the camera faces the object directly.
 
 <label class="progress-check"><input type="checkbox" id="w2d3"> Done</label>
 
@@ -182,7 +194,11 @@ Read a menu, a letter, a medicine label.
 <summary>Lesson 4 — Color Identification</summary>
 <div>
 
-"What color is this shirt?" — practice with clothing, food, objects.
+- Say: **"Hey Meta, what color is this shirt?"**
+- Practice with: clothing, food items, household objects.
+- Try combining: **"Hey Meta, describe what I'm wearing."**
+- Useful for: matching clothes, identifying ripe fruit, sorting laundry.
+- Good lighting matters — natural daylight gives the most accurate colors.
 
 <label class="progress-check"><input type="checkbox" id="w2d4"> Done</label>
 
@@ -193,7 +209,11 @@ Read a menu, a letter, a medicine label.
 <summary>Lesson 5 — Follow-up Questions</summary>
 <div>
 
-Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
+- Start broad: **"Hey Meta, what do you see?"**
+- Then narrow down: "Is there a price tag?" → "How much?"
+- Or: "What do you see?" → "Is there a door?" → "Which side?"
+- Practice 3 multi-turn conversations in different settings.
+- Meta AI remembers context within a conversation, so follow-ups work naturally.
 
 <label class="progress-check"><input type="checkbox" id="w2d5"> Done</label>
 
@@ -204,7 +224,11 @@ Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
 <summary>Lesson 6 — Outdoors</summary>
 <div>
 
-Walk outside. Describe buildings, signs, surroundings. Practice at crossings.
+- Go for a walk (with a helper if needed).
+- At an intersection: **"Hey Meta, describe what's around me."**
+- At a shop: **"Hey Meta, read that sign."**
+- At a bus stop: **"Hey Meta, what building is that?"**
+- Outdoor AI works well but is less accurate in rain or fog.
 
 <label class="progress-check"><input type="checkbox" id="w2d6"> Done</label>
 
@@ -215,7 +239,10 @@ Walk outside. Describe buildings, signs, surroundings. Practice at crossings.
 <summary>Lesson 7 — Rest & Review</summary>
 <div>
 
-Favorite commands? What doesn't work well?
+- No new skills today — take a break.
+- Reflect: What are your favorite commands so far?
+- What doesn't work well? (poor lighting? too far away? Dutch vs English?)
+- Write down your top 5 most useful commands.
 
 <label class="progress-check"><input type="checkbox" id="w2d7"> Done</label>
 

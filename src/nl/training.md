@@ -149,7 +149,11 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 1 — Scènebeschrijving</summary>
 <div>
 
-"Hey Meta, what's in front of me?" — oefen binnenshuis.
+- Oefen binnenshuis: zeg **"Hey Meta, what's in front of me?"** en luister.
+- Probeer het in verschillende kamers met verschillend licht — lichte kamers geven betere beschrijvingen.
+- Stel vervolgvragen: "Are there any people?" of "What's on the table?"
+- Probeer uit het raam te kijken: **"Hey Meta, what do you see outside?"**
+- Doel: wennen aan een gesprek met Meta AI.
 
 <label class="progress-check"><input type="checkbox" id="w2d1"> Klaar</label>
 
@@ -160,7 +164,11 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 2 — Tekst lezen</summary>
 <div>
 
-Lees een menu, een brief, een medicijnlabel.
+- Zoek een menu, brief of medicijnlabel.
+- Zeg: **"Hey Meta, read this"** — houd stil en kijk naar de tekst.
+- Probeer met een voedselverpakking: **"Hey Meta, what are the ingredients?"**
+- Probeer met een brief of rekening: **"Hey Meta, what does this say?"**
+- Werkt het best op armlengte, met goed licht en duidelijke tekst.
 
 <label class="progress-check"><input type="checkbox" id="w2d2"> Klaar</label>
 
@@ -171,7 +179,11 @@ Lees een menu, een brief, een medicijnlabel.
 <summary>Les 3 — Objectherkenning</summary>
 <div>
 
-"What is this?" — producten, eten, huishoudelijke voorwerpen.
+- Zeg: **"Hey Meta, what is this?"** terwijl je een voorwerp voor je houdt.
+- Probeer met: een product, een stuk fruit, een huishoudelijk artikel, gereedschap.
+- Probeer: **"Hey Meta, what brand is this?"** met een product.
+- Probeer: **"Hey Meta, is this shampoo or conditioner?"** — handig voor vergelijkbare flesjes.
+- Draai je hoofd zodat de camera recht op het voorwerp gericht is.
 
 <label class="progress-check"><input type="checkbox" id="w2d3"> Klaar</label>
 
@@ -182,7 +194,11 @@ Lees een menu, een brief, een medicijnlabel.
 <summary>Les 4 — Kleurherkenning</summary>
 <div>
 
-"What color is this shirt?" — oefen met kleding, eten, voorwerpen.
+- Zeg: **"Hey Meta, what color is this shirt?"**
+- Oefen met: kleding, etenswaren, huishoudelijke voorwerpen.
+- Probeer te combineren: **"Hey Meta, describe what I'm wearing."**
+- Handig voor: kleding matchen, rijp fruit herkennen, was sorteren.
+- Goed licht is belangrijk — daglicht geeft de meest accurate kleuren.
 
 <label class="progress-check"><input type="checkbox" id="w2d4"> Klaar</label>
 
@@ -193,7 +209,11 @@ Lees een menu, een brief, een medicijnlabel.
 <summary>Les 5 — Vervolgvragen</summary>
 <div>
 
-Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
+- Begin breed: **"Hey Meta, what do you see?"**
+- Zoom dan in: "Is there a price tag?" → "How much?"
+- Of: "What do you see?" → "Is there a door?" → "Which side?"
+- Oefen 3 multi-turn gesprekken in verschillende situaties.
+- Meta AI onthoudt de context binnen een gesprek, dus vervolgvragen werken vanzelf.
 
 <label class="progress-check"><input type="checkbox" id="w2d5"> Klaar</label>
 
@@ -204,7 +224,11 @@ Multi-turn: "What do you see?" → "Is there a price tag?" → "How much?"
 <summary>Les 6 — Buiten</summary>
 <div>
 
-Ga naar buiten. Beschrijf gebouwen, borden, omgeving. Oefen bij oversteekplaatsen.
+- Ga naar buiten (met een helper als dat nodig is).
+- Bij een kruispunt: **"Hey Meta, describe what's around me."**
+- Bij een winkel: **"Hey Meta, read that sign."**
+- Bij een bushalte: **"Hey Meta, what building is that?"**
+- AI buiten werkt goed maar is minder nauwkeurig bij regen of mist.
 
 <label class="progress-check"><input type="checkbox" id="w2d6"> Klaar</label>
 
@@ -215,7 +239,10 @@ Ga naar buiten. Beschrijf gebouwen, borden, omgeving. Oefen bij oversteekplaatse
 <summary>Les 7 — Rust & evaluatie</summary>
 <div>
 
-Favoriete commando's? Wat werkt niet goed?
+- Geen nieuwe vaardigheden vandaag — neem een pauze.
+- Bedenk: Wat zijn je favoriete commando's tot nu toe?
+- Wat werkt niet goed? (slecht licht? te ver weg? Nederlands vs Engels?)
+- Schrijf je top 5 nuttigste commando's op.
 
 <label class="progress-check"><input type="checkbox" id="w2d7"> Klaar</label>
 
