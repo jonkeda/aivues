@@ -257,8 +257,22 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 1 — Siri / Google basis</summary>
 <div>
 
-<div class="iphone-only">"Hey Siri" — weer, tijd, herinneringen, timers.</div>
-<div class="android-only">"Hey Google" — weer, tijd, herinneringen, timers.</div>
+<div class="iphone-only">
+
+- Probeer: **"Hey Siri, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
+- Probeer: **"Hey Siri, remind me to take medicine at 8 PM."**
+- Onthoud: Siri gebruikt de telefoonmicrofoon, Meta AI gebruikt de brillenmicrofoon.
+- Beide antwoorden via de brillenspeakers.
+
+</div>
+<div class="android-only">
+
+- Probeer: **"Hey Google, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
+- Probeer: **"Hey Google, remind me to take medicine at 8 PM."**
+- Onthoud: Google Assistent gebruikt de telefoonmicrofoon, Meta AI gebruikt de brillenmicrofoon.
+- Beide antwoorden via de brillenspeakers.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w3d1"> Klaar</label>
 
@@ -269,7 +283,10 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 2 — Navigatie</summary>
 <div>
 
-"Navigate to [adres]" met Google Maps. Loop eerst een bekende route.
+- Zeg: **"Hey Siri/Google, navigate to [adres]"** — dit opent Google Maps met looprichtingen.
+- Loop eerst een bekende route (huis → winkel, huis → bushalte) zodat je de aanwijzingen kunt controleren.
+- Stapsgewijze spraaknavigatie speelt af via de brillenspeakers.
+- Tip: houd je telefoon in een borstzak voor betere microfoonopname.
 
 <label class="progress-check"><input type="checkbox" id="w3d2"> Klaar</label>
 
@@ -280,7 +297,10 @@ Een stap-voor-stap programma om je AI bril te leren kennen. Eén kleine taak per
 <summary>Les 3 — Berichten</summary>
 <div>
 
-Stuur een WhatsApp via Meta AI. Stuur een SMS via Siri/Google.
+- Zeg: **"Hey Meta, send a message to [naam] on WhatsApp"** — dicteer je bericht.
+- Voor SMS: **"Hey Siri/Google, send an SMS to [naam]."**
+- Probeer: **"Hey Meta, read my messages"** om recente berichten te horen.
+- Oefen: stuur een testbericht en vraag het daarna voor te lezen.
 
 <label class="progress-check"><input type="checkbox" id="w3d3"> Klaar</label>
 
@@ -291,8 +311,27 @@ Stuur een WhatsApp via Meta AI. Stuur een SMS via Siri/Google.
 <summary>Les 4 — Snelkoppelingen & routines</summary>
 <div>
 
-<div class="iphone-only">Maak 3 Siri Shortcuts: ochtendbriefing, navigeer naar huis, veiligheidscheck.</div>
-<div class="android-only">Maak Google Routines: ochtendbriefing, navigeer naar huis.</div>
+<div class="iphone-only">
+
+Vraag je helper om 3 Siri Shortcuts te maken:
+
+1. **Ochtendbriefing** — "Siri, morning briefing" → leest weer + agenda voor.
+2. **Navigeer naar huis** — "Siri, take me home" → opent looproute naar je adres.
+3. **Veiligheidscheck** — "Siri, safety check" → stuurt je locatie naar je noodcontact.
+
+Test elke snelkoppeling. Eenmaal ingesteld, werken ze altijd op stem.
+
+</div>
+<div class="android-only">
+
+Vraag je helper om Google Routines te maken:
+
+1. **Ochtendbriefing** — "Hey Google, good morning" → leest weer + agenda + nieuws voor.
+2. **Navigeer naar huis** — "Hey Google, take me home" → opent looproute.
+
+Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w3d4"> Klaar</label>
 
@@ -303,7 +342,10 @@ Stuur een WhatsApp via Meta AI. Stuur een SMS via Siri/Google.
 <summary>Les 5 — Muziek & media</summary>
 <div>
 
-"Hey Meta, play [playlist]" via Spotify Tap.
+- Zeg: **"Hey Meta, play [nummer/artiest/playlist]"** — dit activeert Spotify Tap.
+- Probeer: **"Hey Meta, play some jazz"** of **"Hey Meta, play my Discover Weekly."**
+- Gebruik het touchpad: tikken = pauzeren, dubbeltikken = volgend nummer, vegen = volume.
+- Zeg **"Hey Meta, next"** om naar het volgende nummer te gaan.
 
 <label class="progress-check"><input type="checkbox" id="w3d5"> Klaar</label>
 
@@ -314,7 +356,22 @@ Stuur een WhatsApp via Meta AI. Stuur een SMS via Siri/Google.
 <summary>Les 6 — Smart home (optioneel)</summary>
 <div>
 
-Bedien lampen, thermostaat met je stem. Sla dit over als je geen smart home apparaten hebt.
+- Alleen relevant als je smart home apparaten hebt (lampen, thermostaat, stekkers).
+
+<div class="iphone-only">
+
+- Probeer: **"Hey Siri, turn on the living room lights."**
+- Probeer: **"Hey Siri, set the thermostat to 20 degrees."**
+
+</div>
+<div class="android-only">
+
+- Probeer: **"Hey Google, turn on the living room lights."**
+- Probeer: **"Hey Google, set the thermostat to 20 degrees."**
+
+</div>
+
+- Sla deze les over als je geen smart home apparaten hebt.
 
 <label class="progress-check"><input type="checkbox" id="w3d6"> Klaar</label>
 
@@ -325,7 +382,11 @@ Bedien lampen, thermostaat met je stem. Sla dit over als je geen smart home appa
 <summary>Les 7 — Twee wake words</summary>
 <div>
 
-Oefen met wisselen tussen "Hey Meta" en "Hey Siri" / "Hey Google" op een natuurlijke manier.
+- Oefen de "twee wake words" gewoonte:
+  - **"Hey Meta"** voor: zien, lezen, herkennen, WhatsApp, muziek, foto's.
+  - **"Hey Siri/Google"** voor: navigatie, bellen, timers, agenda, smart home.
+- Oefening: voer 5 taken uit met het juiste wake word voor elke taak.
+- Doel: wisselen voelt natuurlijk, niet verwarrend.
 
 <label class="progress-check"><input type="checkbox" id="w3d7"> Klaar</label>
 

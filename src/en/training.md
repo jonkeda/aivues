@@ -257,8 +257,22 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 1 — Siri / Google Basics</summary>
 <div>
 
-<div class="iphone-only">"Hey Siri" — weather, time, reminders, timers.</div>
-<div class="android-only">"Hey Google" — weather, time, reminders, timers.</div>
+<div class="iphone-only">
+
+- Try these commands: **"Hey Siri, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
+- Try: **"Hey Siri, remind me to take medicine at 8 PM."**
+- Remember: Siri uses the phone mic, Meta AI uses the glasses mic.
+- Both respond through the glasses speakers.
+
+</div>
+<div class="android-only">
+
+- Try these commands: **"Hey Google, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
+- Try: **"Hey Google, remind me to take medicine at 8 PM."**
+- Remember: Google Assistant uses the phone mic, Meta AI uses the glasses mic.
+- Both respond through the glasses speakers.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w3d1"> Done</label>
 
@@ -269,7 +283,10 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 2 — Navigation</summary>
 <div>
 
-"Navigate to [address]" with Google Maps. Walk a familiar route first.
+- Say: **"Hey Siri/Google, navigate to [address]"** — this opens Google Maps with walking directions.
+- Walk a familiar route first (home → shop, home → bus stop) so you can verify the directions.
+- Voice turn-by-turn directions play through the glasses speakers.
+- Tip: keep your phone in a breast pocket for better mic reception.
 
 <label class="progress-check"><input type="checkbox" id="w3d2"> Done</label>
 
@@ -280,7 +297,10 @@ A step-by-step program to learn your smart glasses. One small task per day, 7 da
 <summary>Lesson 3 — Messages</summary>
 <div>
 
-Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
+- Say: **"Hey Meta, send a message to [name] on WhatsApp"** — dictate your message.
+- For SMS: **"Hey Siri/Google, send an SMS to [name]."**
+- Try: **"Hey Meta, read my messages"** to hear recent messages.
+- Practice: send a test message, then ask to read it back.
 
 <label class="progress-check"><input type="checkbox" id="w3d3"> Done</label>
 
@@ -291,8 +311,27 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 <summary>Lesson 4 — Shortcuts & Routines</summary>
 <div>
 
-<div class="iphone-only">Set up 3 Siri Shortcuts: morning briefing, navigate home, safety check.</div>
-<div class="android-only">Set up Google Routines: morning briefing, navigate home.</div>
+<div class="iphone-only">
+
+Ask your helper to create 3 Siri Shortcuts:
+
+1. **Morning briefing** — "Siri, morning briefing" → reads weather + calendar events.
+2. **Navigate home** — "Siri, take me home" → opens walking directions to your address.
+3. **Safety check** — "Siri, safety check" → sends your location to your emergency contact.
+
+Test each one. These are set up once and work by voice anytime.
+
+</div>
+<div class="android-only">
+
+Ask your helper to create Google Routines:
+
+1. **Morning briefing** — "Hey Google, good morning" → reads weather + calendar + news.
+2. **Navigate home** — "Hey Google, take me home" → opens walking directions.
+
+Test each one. These are set up once and work by voice anytime.
+
+</div>
 
 <label class="progress-check"><input type="checkbox" id="w3d4"> Done</label>
 
@@ -303,7 +342,10 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 <summary>Lesson 5 — Music & Media</summary>
 <div>
 
-"Hey Meta, play [playlist]" via Spotify Tap.
+- Say: **"Hey Meta, play [song/artist/playlist]"** — this triggers Spotify Tap.
+- Try: **"Hey Meta, play some jazz"** or **"Hey Meta, play my Discover Weekly."**
+- Use the touchpad: tap = pause, double-tap = skip, swipe = volume.
+- Say **"Hey Meta, next"** to skip to the next track.
 
 <label class="progress-check"><input type="checkbox" id="w3d5"> Done</label>
 
@@ -314,7 +356,22 @@ Send a WhatsApp via Meta AI. Send an SMS via Siri/Google.
 <summary>Lesson 6 — Smart Home (optional)</summary>
 <div>
 
-Control lights, thermostat by voice. Skip this if you don't have smart home devices.
+- Only relevant if you have smart devices (lights, thermostat, plugs).
+
+<div class="iphone-only">
+
+- Try: **"Hey Siri, turn on the living room lights."**
+- Try: **"Hey Siri, set the thermostat to 20 degrees."**
+
+</div>
+<div class="android-only">
+
+- Try: **"Hey Google, turn on the living room lights."**
+- Try: **"Hey Google, set the thermostat to 20 degrees."**
+
+</div>
+
+- Skip this lesson if you don't have smart home devices.
 
 <label class="progress-check"><input type="checkbox" id="w3d6"> Done</label>
 
@@ -325,7 +382,11 @@ Control lights, thermostat by voice. Skip this if you don't have smart home devi
 <summary>Lesson 7 — Two Wake Words</summary>
 <div>
 
-Practice switching between "Hey Meta" and "Hey Siri" / "Hey Google" naturally.
+- Practice the "two wake word" habit:
+  - **"Hey Meta"** for: seeing, reading, identifying, WhatsApp, music, photos.
+  - **"Hey Siri/Google"** for: navigation, calls, timers, calendar, smart home.
+- Exercise: complete 5 tasks using the correct wake word for each.
+- Goal: switching feels natural, not confusing.
 
 <label class="progress-check"><input type="checkbox" id="w3d7"> Done</label>
 
