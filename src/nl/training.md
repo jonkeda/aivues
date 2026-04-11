@@ -1,23 +1,23 @@
 ---
 layout: layouts/page-with-sidebar.njk
-title: "Training: 4 weken naar zelfstandigheid"
+title: "Training: 4 gidsen naar zelfstandigheid"
 lang: nl
 order: 2
 permalink: /nl/training/
 sidebar:
-  - id: week-1
-    label: "Week 1: Instellen & eerste woorden"
-  - id: week-2
-    label: "Week 2: Zien met AI"
-  - id: week-3
-    label: "Week 3: Telefoonassistent"
-  - id: week-4
-    label: "Week 4: Apps & zelfstandigheid"
+  - id: gids-1
+    label: "Gids 1: Instellen & eerste woorden"
+  - id: gids-2
+    label: "Gids 2: Zien met AI"
+  - id: gids-3
+    label: "Gids 3: Telefoonassistent"
+  - id: gids-4
+    label: "Gids 4: Apps & zelfstandigheid"
 ---
 
-# 4 Weken naar zelfstandigheid
+# 4 Gidsen naar zelfstandigheid
 
-Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verdeeld over 4 weken — ga in je eigen tempo, één les per keer. Vink elke les af als je klaar bent.
+Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verdeeld over 4 gidsen — ga in je eigen tempo, één les per keer. Vink elke les af als je klaar bent.
 
 **Snel starten:** Zet je bril op en zeg **"Hey Meta, I'm visually impaired. What can you do for me?"** — de AI legt zelf uit wat hij kan.
 
@@ -25,9 +25,9 @@ Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verd
 
 ---
 
-## Week 1 — Instellen & eerste woorden {#week-1}
+## Gids 1 — Instellen & eerste woorden {#gids-1}
 
-Deze week pak je uit, laad je op, koppel je en spreek je je eerste commando's. Aan het einde voer je gesprekken met Meta AI en bel je via de bril.
+In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's. Aan het einde voer je gesprekken met Meta AI en bel je via de bril.
 
 <details>
 <summary>Les 1 — Uitpakken & opladen</summary>
@@ -136,7 +136,7 @@ Deze week pak je uit, laad je op, koppel je en spreek je je eerste commando's. A
 <summary>Les 7 — Rust & evaluatie</summary>
 <div>
 
-Geen nieuwe vaardigheden vandaag — neem een pauze. Bedenk wat het makkelijkst was, wat het moeilijkst en wat je verraste. Schrijf op wat verwarrend was — je bouwt hierop verder in Week 2.
+Geen nieuwe vaardigheden vandaag — neem een pauze. Bedenk wat het makkelijkst was, wat het moeilijkst en wat je verraste. Schrijf op wat verwarrend was — je bouwt hierop verder in Gids 2.
 
 <label class="progress-check"><input type="checkbox" id="w1d7"> Klaar</label>
 
@@ -145,9 +145,9 @@ Geen nieuwe vaardigheden vandaag — neem een pauze. Bedenk wat het makkelijkst 
 
 ---
 
-## Week 2 — Zien met AI {#week-2}
+## Gids 2 — Zien met AI {#gids-2}
 
-Nu je bril is ingesteld, richt deze week zich op de AI-camera. Je oefent met scènebeschrijvingen, tekst lezen, objecten en kleuren herkennen, en vervolgvragen stellen.
+Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met scènebeschrijvingen, tekst lezen, objecten en kleuren herkennen, en vervolgvragen stellen.
 
 <details>
 <summary>Les 1 — Scènebeschrijving</summary>
@@ -252,9 +252,9 @@ Geen nieuwe vaardigheden vandaag — neem een pauze. Wat zijn je favoriete comma
 
 ---
 
-## Week 3 — Je telefoonassistent {#week-3}
+## Gids 3 — Je telefoonassistent {#gids-3}
 
-Deze week leer je Siri of Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
+In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
 
 **Tip:** Probeer **"Hey Siri, what can you help me with?"** of **"Hey Google, what can you do for me?"** — je telefoonassistent vertelt zelf wat hij kan.
 
@@ -399,9 +399,9 @@ Oefening: voer 5 taken uit met het juiste wake word voor elke taak. Doel: wissel
 
 ---
 
-## Week 4 — Apps & zelfstandigheid {#week-4}
+## Gids 4 — Apps & zelfstandigheid {#gids-4}
 
-De laatste week. Je leert de begeleidende apps, bouwt een complete dagroutine en lost veelvoorkomende problemen op. Aan het einde ben je klaar om de bril zelfstandig te gebruiken.
+De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en lost veelvoorkomende problemen op. Aan het einde ben je klaar om de bril zelfstandig te gebruiken.
 
 <details>
 <summary>Les 1 — Be My Eyes</summary>
@@ -513,7 +513,7 @@ Meer hulp: [Hulp-pagina](/nl/hulp/).
 <summary>Les 7 — Geslaagd!</summary>
 <div>
 
-Je hebt het gehaald! Bedenk wat je nu kunt dat je 4 weken geleden niet kon. Stel 3 persoonlijke doelen voor de komende maand. Bookmark de pagina [Dagelijks gebruik](/nl/gebruik/) als snelreferentie. En vertel iemand wat de bril kan — jij bent nu de expert.
+Je hebt het gehaald! Bedenk wat je nu kunt dat je aan het begin niet kon. Stel 3 persoonlijke doelen voor de komende maand. Bookmark de pagina [Dagelijks gebruik](/nl/gebruik/) als snelreferentie. En vertel iemand wat de bril kan — jij bent nu de expert.
 
 <label class="progress-check"><input type="checkbox" id="w4d7"> Klaar</label>
 

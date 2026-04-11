@@ -1,23 +1,23 @@
 ---
 layout: layouts/page-with-sidebar.njk
-title: "Training: 4 Weeks to Independence"
+title: "Training: 4 Guides to Independence"
 lang: en
 order: 2
 permalink: /en/training/
 sidebar:
-  - id: week-1
-    label: "Week 1: Setup & First Words"
-  - id: week-2
-    label: "Week 2: Seeing with AI"
-  - id: week-3
-    label: "Week 3: Phone Assistant"
-  - id: week-4
-    label: "Week 4: Apps & Independence"
+  - id: guide-1
+    label: "Guide 1: Setup & First Words"
+  - id: guide-2
+    label: "Guide 2: Seeing with AI"
+  - id: guide-3
+    label: "Guide 3: Phone Assistant"
+  - id: guide-4
+    label: "Guide 4: Apps & Independence"
 ---
 
-# 4 Weeks to Independence
+# 4 Guides to Independence
 
-A step-by-step program to learn your smart glasses. 28 short lessons across 4 weeks — go at your own pace, one lesson at a time. Check off each lesson as you go.
+A step-by-step program to learn your smart glasses. 28 short lessons across 4 guides — go at your own pace, one lesson at a time. Check off each lesson as you go.
 
 **Quick start:** Put on your glasses and say **"Hey Meta, I'm visually impaired. What can you do for me?"** — the AI will explain what it can do in its own words.
 
@@ -25,9 +25,9 @@ A step-by-step program to learn your smart glasses. 28 short lessons across 4 we
 
 ---
 
-## Week 1 — Setup & First Words {#week-1}
+## Guide 1 — Setup & First Words {#guide-1}
 
-This week you unbox, charge, pair, and speak your first commands. By the end you'll be having conversations with Meta AI and making calls through the glasses.
+In this guide you unbox, charge, pair, and speak your first commands. By the end you'll be having conversations with Meta AI and making calls through the glasses.
 
 <details>
 <summary>Lesson 1 — Unbox & Charge</summary>
@@ -136,7 +136,7 @@ This week you unbox, charge, pair, and speak your first commands. By the end you
 <summary>Lesson 7 — Rest & Review</summary>
 <div>
 
-No new skills today — take a break. Think about what was easiest, what was hardest, and what surprised you. Write down anything confusing — you'll build on these skills in Week 2.
+No new skills today — take a break. Think about what was easiest, what was hardest, and what surprised you. Write down anything confusing — you'll build on these skills in Guide 2.
 
 <label class="progress-check"><input type="checkbox" id="w1d7"> Done</label>
 
@@ -145,9 +145,9 @@ No new skills today — take a break. Think about what was easiest, what was har
 
 ---
 
-## Week 2 — Seeing with AI {#week-2}
+## Guide 2 — Seeing with AI {#guide-2}
 
-Now that your glasses are set up, this week focuses on using the AI camera. You'll practice scene descriptions, reading text, identifying objects and colors, and asking follow-up questions.
+Now that your glasses are set up, this guide focuses on using the AI camera. You'll practice scene descriptions, reading text, identifying objects and colors, and asking follow-up questions.
 
 <details>
 <summary>Lesson 1 — Scene Description</summary>
@@ -252,9 +252,9 @@ No new skills today — take a break. What are your favorite commands so far? Wh
 
 ---
 
-## Week 3 — Your Phone Assistant {#week-3}
+## Guide 3 — Your Phone Assistant {#guide-3}
 
-This week you learn to use Siri or Google Assistant through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
+In this guide you learn to use Siri or Google Assistant through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
 
 **Tip:** Try asking **"Hey Siri, what can you help me with?"** or **"Hey Google, what can you do for me?"** — your phone assistant will tell you what it can do.
 
@@ -399,9 +399,9 @@ Exercise: complete 5 tasks using the correct wake word for each. Goal: switching
 
 ---
 
-## Week 4 — Apps & Independence {#week-4}
+## Guide 4 — Apps & Independence {#guide-4}
 
-The final week. You'll learn the companion apps, build a complete daily routine, and troubleshoot common issues. By the end you'll be ready to use the glasses on your own.
+The final guide. You'll learn the companion apps, build a complete daily routine, and troubleshoot common issues. By the end you'll be ready to use the glasses on your own.
 
 <details>
 <summary>Lesson 1 — Be My Eyes</summary>
@@ -513,7 +513,7 @@ More help: [Help page](/en/help/).
 <summary>Lesson 7 — Graduation!</summary>
 <div>
 
-You made it! Think about what you can do now that you couldn't 4 weeks ago. Set 3 personal goals for the next month. Bookmark the [Daily Use](/en/use/) page for quick command reference. And tell someone about what the glasses can do — you're the expert now.
+You made it! Think about what you can do now that you couldn't when you started. Set 3 personal goals for the next month. Bookmark the [Daily Use](/en/use/) page for quick command reference. And tell someone about what the glasses can do — you're the expert now.
 
 <label class="progress-check"><input type="checkbox" id="w4d7"> Done</label>
 
