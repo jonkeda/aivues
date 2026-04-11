@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en": "AiVues",
+    "nl": "AiVues"
+  },
+  "tagline": {
+    "en": "Smart glasses guide for visually impaired people",
+    "nl": "AI brillengids voor mensen met een visuele beperking"
+  },
+  "url": "https://aivues.github.io",
+  "languages": ["en", "nl"],
+  "defaultLanguage": "en"
+}

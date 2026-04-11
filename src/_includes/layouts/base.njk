@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} — AiVues</title>
+  <meta name="description" content="{{ description | default(site.tagline[lang]) }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <script defer src="/js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">
+    {%- if lang == "nl" %}Ga naar inhoud{% else %}Skip to main content{% endif -%}
+  </a>
+
+  <header class="site-header">
+    <nav aria-label="{% if lang == 'nl' %}Hoofdnavigatie{% else %}Main navigation{% endif %}">
+      <span class="site-name"><a href="/{{ lang }}/">AiVues</a></span>
+      <ul class="nav-links" role="list">
+        {%- for item in navigation.items %}
+        <li>
+          <a href="{{ item['url_' + lang] }}"
+             {%- if page.url == item['url_' + lang] %} aria-current="page"{% endif %}>
+            {{ item[lang] }}
+          </a>
+        </li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <div class="controls">
+      {%- if lang == "en" %}
+        <a href="{{ page.url | replace('/en/', '/nl/') }}" lang="nl" aria-label="Nederlands">NL</a>
+      {%- else %}
+        <a href="{{ page.url | replace('/nl/', '/en/') }}" lang="en" aria-label="English">EN</a>
+      {%- endif %}
+      <button class="theme-toggle" aria-label="{% if lang == 'nl' %}Wissel thema{% else %}Toggle dark mode{% endif %}" type="button">
+        <span class="theme-icon" aria-hidden="true">☀️</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="page-layout{% if sidebar %} has-sidebar{% endif %}">
+    <main id="main">
+      {{ content | safe }}
+    </main>
+
+    {%- if sidebar %}
+    <nav aria-label="{% if lang == 'nl' %}Op deze pagina{% else %}On this page{% endif %}" class="page-index">
+      <h2>{% if lang == "nl" %}Op deze pagina{% else %}On this page{% endif %}</h2>
+      <ul role="list">
+        {%- for item in sidebar %}
+        <li><a href="#{{ item.id }}">{{ item.label }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    {%- endif %}
+  </div>
+
+  <footer class="site-footer">
+    <p>
+      <a href="/{{ lang }}/">AiVues</a> ·
+      {% if lang == "nl" %}
+        Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·
+        Inhoud: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+      {% else %}
+        Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·
+        Content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+      {% endif %}
+    </p>
+  </footer>
+</body>
+</html>

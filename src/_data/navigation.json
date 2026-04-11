@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "key": "home", "en": "Home", "nl": "Home", "url_en": "/en/", "url_nl": "/nl/" },
+    { "key": "setup", "en": "Setup", "nl": "Instellen", "url_en": "/en/setup/", "url_nl": "/nl/instellen/" },
+    { "key": "training", "en": "Training", "nl": "Training", "url_en": "/en/training/", "url_nl": "/nl/training/" },
+    { "key": "use", "en": "Use", "nl": "Gebruik", "url_en": "/en/use/", "url_nl": "/nl/gebruik/" },
+    { "key": "apps", "en": "Apps", "nl": "Apps", "url_en": "/en/apps/", "url_nl": "/nl/apps/" },
+    { "key": "help", "en": "Help", "nl": "Hulp", "url_en": "/en/help/", "url_nl": "/nl/hulp/" }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "apps": [
+    {
+      "name": "Meta View",
+      "description": { "en": "Glasses management — required", "nl": "Brillenbeheer — vereist" },
+      "platform": "both",
+      "price": "free",
+      "required": true,
+      "url_ios": "https://apps.apple.com/app/meta-view/id1568937215",
+      "url_android": "https://play.google.com/store/apps/details?id=com.facebook.orca.smartglasses"
+    },
+    {
+      "name": "Be My Eyes",
+      "description": { "en": "Volunteer + AI vision help — uses glasses camera", "nl": "Vrijwilliger + AI visuele hulp — gebruikt brillencamera" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/be-my-eyes/id905177575",
+      "url_android": "https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes"
+    },
+    {
+      "name": "Google Maps",
+      "description": { "en": "Walking navigation with voice guidance", "nl": "Wandelnavigatie met stemgeleiding" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/google-maps/id585027354",
+      "url_android": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+    },
+    {
+      "name": "WhatsApp",
+      "description": { "en": "Messaging with native Meta AI integration", "nl": "Berichten met native Meta AI-integratie" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/whatsapp-messenger/id310633997",
+      "url_android": "https://play.google.com/store/apps/details?id=com.whatsapp"
+    },
+    {
+      "name": "Seeing AI",
+      "description": { "en": "OCR + scene description (iPhone only)", "nl": "OCR + scènebeschrijving (alleen iPhone)" },
+      "platform": "ios",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/seeing-ai/id999062298"
+    },
+    {
+      "name": "Google Lookout",
+      "description": { "en": "OCR + scene description (Android only)", "nl": "OCR + scènebeschrijving (alleen Android)" },
+      "platform": "android",
+      "price": "free",
+      "url_android": "https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal"
+    },
+    {
+      "name": "Lazarillo",
+      "description": { "en": "Continuous surroundings info and POI announcements", "nl": "Continue omgevingsinformatie en POI-meldingen" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/lazarillo/id1013123781",
+      "url_android": "https://play.google.com/store/apps/details?id=com.lazarillo"
+    },
+    {
+      "name": "Cash Reader",
+      "description": { "en": "Euro banknote identification", "nl": "Eurobankbiljetherkenning" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/cash-reader/id1141344619",
+      "url_android": "https://play.google.com/store/apps/details?id=com.martindkluza.cashreader"
+    },
+    {
+      "name": "Spotify",
+      "description": { "en": "Voice-controlled music via Spotify Tap", "nl": "Spraakgestuurde muziek via Spotify Tap" },
+      "platform": "both",
+      "price": "free",
+      "url_ios": "https://apps.apple.com/app/spotify/id324684580",
+      "url_android": "https://play.google.com/store/apps/details?id=com.spotify.music"
+    }
+  ]
+}

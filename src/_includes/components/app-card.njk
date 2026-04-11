@@ -1,0 +1,13 @@
+<div class="app-card">
+  <h3>{{ name }}</h3>
+  <p>{{ description }}</p>
+  <p class="app-links">
+    {%- if url_ios %}
+    <a href="{{ url_ios }}">App Store</a>
+    {%- endif %}
+    {%- if url_ios and url_android %} · {% endif %}
+    {%- if url_android %}
+    <a href="{{ url_android }}">Google Play</a>
+    {%- endif %}
+  </p>
+</div>
