@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }} — AiVues</title>
   <meta name="description" content="{{ description | default(site.tagline[lang]) }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:title" content="{{ title }} — AiVues">
+  <meta property="og:description" content="{{ description | default(site.tagline[lang]) }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:locale" content="{% if lang == 'nl' %}nl_NL{% else %}en_US{% endif %}">
+  <meta property="og:site_name" content="AiVues">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ title }} — AiVues">
+  <meta name="twitter:description" content="{{ description | default(site.tagline[lang]) }}">
   <link rel="stylesheet" href="/css/style.css">
   <script defer src="/js/main.js"></script>
 </head>
@@ -16,6 +26,9 @@
   <header class="site-header">
     <nav aria-label="{% if lang == 'nl' %}Hoofdnavigatie{% else %}Main navigation{% endif %}">
       <span class="site-name"><a href="/{{ lang }}/">AiVues</a></span>
+      <button class="nav-toggle" aria-expanded="false" aria-label="{% if lang == 'nl' %}Menu openen{% else %}Open menu{% endif %}" type="button">
+        <span aria-hidden="true">☰</span>
+      </button>
       <ul class="nav-links" role="list">
         {%- for item in navigation.items %}
         <li>

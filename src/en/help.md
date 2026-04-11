@@ -282,3 +282,20 @@ AiVues was made to give visually impaired people a clear, focused guide for usin
 - Content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **Source:** [GitHub](https://github.com/jonkeda/aivues)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Do they work in the rain?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Ray-Ban Meta are IPX4 rated — they handle splashes and light rain. Don't submerge them."}},
+    {"@type": "Question", "name": "How long does the battery last?", "acceptedAnswer": {"@type": "Answer", "text": "4–6 hours of active use. The charging case gives about 8 additional full charges."}},
+    {"@type": "Question", "name": "Do they work in Dutch?", "acceptedAnswer": {"@type": "Answer", "text": "Partially. Meta AI responds in Dutch if you ask in Dutch, but recognition quality is better in English."}},
+    {"@type": "Question", "name": "Can they replace a white cane or guide dog?", "acceptedAnswer": {"@type": "Answer", "text": "No. Smart glasses help you see and understand your surroundings, but they don't detect obstacles at ground level or guide you physically."}},
+    {"@type": "Question", "name": "Do I need a Meta / Facebook account?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A Meta account is required. You can create one without using Facebook or Instagram."}},
+    {"@type": "Question", "name": "Can I wear them over my own glasses?", "acceptedAnswer": {"@type": "Answer", "text": "Not directly. Ray-Ban Meta are full frames. Prescription lens inserts are available through compatible opticians."}},
+    {"@type": "Question", "name": "Does Meta AI work offline?", "acceptedAnswer": {"@type": "Answer", "text": "No. Meta AI requires an internet connection through your phone. Without internet, voice commands, music, and calls still work."}},
+    {"@type": "Question", "name": "Can I use them with a cochlear implant?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, but the glasses temples and the processor sit in the same space behind the ear. Test the physical fit before purchasing."}}
+  ]
+}
+</script>

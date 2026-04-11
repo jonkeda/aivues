@@ -10,7 +10,7 @@ description: Hoe je looproutes en omgevingsinformatie krijgt via Ray-Ban Meta gl
 
 Voor routebeschrijvingen gebruik je de telefoonassistent, niet Meta AI. Zeg Hey Siri navigate to en dan een adres op iPhone. Of Hey Google navigate to en dan een adres op Android.
 
-Dit opent Google Maps met looproute. Stap-voor-stap spraakinstructies spelen via de brilspeakers. Je hoort dingen als: sla over 50 meter linksaf, of je bestemming is aan de rechterkant.
+Dit opent je kaart-app met looproute. Op iPhone is dat Apple Maps, op Android is het Google Maps. Stap-voor-stap spraakinstructies spelen via de brilspeakers. Je hoort dingen als: sla over 50 meter linksaf, of je bestemming is aan de rechterkant.
 
 Begin met een route die je al kent. Loop van je huis naar een winkel of bushalte in de buurt. Zo kun je controleren of de aanwijzingen kloppen.
 

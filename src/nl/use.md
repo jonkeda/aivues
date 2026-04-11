@@ -50,7 +50,7 @@ De bril reageert op twee wake words. Gebruik **"Hey Meta"** voor alles wat de br
 
 | Zeg | Wat het doet |
 |-----|-------------|
-| "Hey Siri, navigate to [adres]" | Looproute via Google Maps |
+| "Hey Siri, navigate to [adres]" | Looproute via Apple Maps |
 | "Hey Siri, what time is it?" | Huidige tijd |
 | "Hey Siri, what's the weather?" | Weerbericht |
 | "Hey Siri, set a timer for 10 minutes" | Timer |

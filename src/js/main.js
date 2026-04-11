@@ -1,5 +1,16 @@
 // Dark mode toggle
 (function () {
+  // Mobile nav toggle
+  var navToggle = document.querySelector('.nav-toggle');
+  var navLinks = document.querySelector('.nav-links');
+  if (navToggle && navLinks) {
+    navToggle.addEventListener('click', function () {
+      var expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', String(!expanded));
+      navLinks.classList.toggle('is-open');
+    });
+  }
+
   const btn = document.querySelector('.theme-toggle');
   const icon = document.querySelector('.theme-icon');
   if (!btn) return;
@@ -42,7 +53,10 @@
   }
 
   if (radios.length) {
-    const saved = localStorage.getItem('phone') || 'iphone';
+    var saved = localStorage.getItem('phone');
+    if (!saved) {
+      saved = /android/i.test(navigator.userAgent) ? 'android' : 'iphone';
+    }
     radios.forEach(function (r) {
       r.checked = r.value === saved;
       r.addEventListener('change', function () {

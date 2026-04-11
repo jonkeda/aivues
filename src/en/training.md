@@ -316,7 +316,7 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 
 *After this lesson: you can get walking directions read aloud through the glasses.*
 
-- Say: **"Hey Siri/Google, navigate to [address]"** — this opens Google Maps with walking directions
+- Say: **"Hey Siri/Google, navigate to [address]"** — this opens your map app with walking directions
 - Walk a familiar route first (home → shop, home → bus stop) so you can verify the directions
 - Voice turn-by-turn directions play through the glasses speakers
 - Tip: keep your phone in a breast pocket for better mic reception

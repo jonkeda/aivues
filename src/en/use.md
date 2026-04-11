@@ -50,7 +50,7 @@ The glasses respond to two wake words. Use **"Hey Meta"** for anything the glass
 
 | Say | What it does |
 |-----|-------------|
-| "Hey Siri, navigate to [address]" | Walking directions via Google Maps |
+| "Hey Siri, navigate to [address]" | Walking directions via Apple Maps |
 | "Hey Siri, what time is it?" | Current time |
 | "Hey Siri, what's the weather?" | Weather forecast |
 | "Hey Siri, set a timer for 10 minutes" | Timer |

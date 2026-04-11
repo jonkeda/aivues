@@ -35,6 +35,7 @@ module.exports = function (eleventyConfig) {
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy("src/favicon.svg");
 
   // Translation URL filter: look up the other language's URL from navigation.json
   eleventyConfig.addFilter("translationUrl", function (pageUrl, navigation, lang) {

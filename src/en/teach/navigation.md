@@ -10,7 +10,7 @@ description: How to get walking directions and surroundings info through Ray-Ban
 
 For directions, use your phone assistant, not Meta AI. Say Hey Siri navigate to and then an address on iPhone. Or Hey Google navigate to and then an address on Android.
 
-This opens Google Maps with walking directions. Turn-by-turn voice instructions play through the glasses speakers. You hear things like: turn left in 50 meters, or your destination is on the right.
+This opens your map app with walking directions. On iPhone that's Apple Maps, on Android it's Google Maps. Turn-by-turn voice instructions play through the glasses speakers. You hear things like: turn left in 50 meters, or your destination is on the right.
 
 Start with a route you already know. Walk from your house to a nearby shop or bus stop. That way you can check if the directions are correct.
 

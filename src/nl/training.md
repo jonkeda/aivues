@@ -316,7 +316,7 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 *Na deze les: je krijgt looprichtingen voorgelezen via de bril.*
 
-- Zeg: **"Hey Siri/Google, navigate to [adres]"** — dit opent Google Maps met looprichtingen
+- Zeg: **"Hey Siri/Google, navigate to [adres]"** — dit opent je kaart-app met looprichtingen
 - Loop eerst een bekende route (huis → winkel, huis → bushalte) zodat je de aanwijzingen kunt controleren
 - Stapsgewijze spraaknavigatie speelt af via de brillenspeakers
 - Tip: houd je telefoon in een borstzak voor betere microfoonopname
