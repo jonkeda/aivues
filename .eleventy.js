@@ -14,6 +14,24 @@ module.exports = function (eleventyConfig) {
   md.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", md);
 
+  // URL filter that respects pathPrefix
+  const pathPrefix = "/aivues";
+  eleventyConfig.addFilter("url", function (url) {
+    if (url && url.startsWith("/")) {
+      return pathPrefix + url;
+    }
+    return url;
+  });
+
+  // Transform: rewrite absolute internal links in output HTML
+  eleventyConfig.addTransform("pathPrefix", function (content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
+      // Rewrite href="/en/...", href="/nl/...", href="/css/...", href="/js/..."
+      return content.replace(/(href|src)="\/(?!\/)/g, '$1="' + pathPrefix + '/');
+    }
+    return content;
+  });
+
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
@@ -46,5 +64,6 @@ module.exports = function (eleventyConfig) {
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
+    pathPrefix: "/aivues/",
   };
 };
