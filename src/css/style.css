@@ -263,6 +263,7 @@ main li {
   list-style: none;
   padding: 0;
   margin: 1.5rem 0;
+  max-width: 20rem;
 }
 
 .routing-links li {
@@ -270,7 +271,7 @@ main li {
 }
 
 .routing-links a {
-  display: inline-block;
+  display: block;
   padding: 0.75rem 1.5rem;
   background: var(--accent);
   color: #fff;
@@ -278,6 +279,7 @@ main li {
   border-radius: 4px;
   font-weight: bold;
   min-height: 44px;
+  text-align: center;
 }
 
 .routing-links a:hover {
