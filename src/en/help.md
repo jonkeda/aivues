@@ -256,20 +256,36 @@ Smart glasses are a new tool for your visually impaired clients. Here's what you
 - **Frame:** Ray-Ban Wayfarer shape. Fits most adults.
 - **Prescription lenses:** Available via compatible lens insert programs. Check with your lab for frame compatibility.
 - **Sizing:** Standard Ray-Ban sizing applies.
+- **Cochlear implant users:** Temple arms are thicker than standard glasses due to built-in speakers. Test fit alongside the processor.
+
+### Conversation Starters
+
+Questions to ask VIP clients to assess fit:
+
+1. What is your level of vision? (light perception, tunnel vision, blurry, etc.)
+2. Do you use a smartphone? iPhone or Android?
+3. Are you comfortable with voice commands?
+4. What daily tasks do you find hardest? (reading mail, shopping, navigating)
+5. Do you have a family member or helper who could assist with setup?
+6. Do you wear a cochlear implant processor?
 
 ### 5-Minute In-Store Demo Script
 
-1. Put the glasses on the client
-2. Ask them to say: "Hey Meta, what do you see?"
-3. Hold a product in front of them: "Hey Meta, read this"
-4. Ask about color: "Hey Meta, what color is this?"
-5. Explain: this works anywhere — shops, streets, at home
+1. **Introduction** (30 sec) — "These are Ray-Ban Meta. They look like normal sunglasses but have a camera and AI built in."
+2. **Put on** (30 sec) — Help the client put them on. Adjust nose pads. Check comfort.
+3. **Scene description** (1 min) — Say: **"Hey Meta, what do you see?"** Have them try it in the store. React to the response together.
+4. **Read text** (1 min) — Hold a product or business card in front of them. Say: **"Hey Meta, read this."**
+5. **Color identification** (30 sec) — Say: **"Hey Meta, what color is this?"** with a product or their clothing.
+6. **Explain next steps** (1 min) — They need a phone, a Meta account, and someone to help with setup. Point them to this website. Training takes 4 weeks at their own pace.
 
 ### Insurance / Hulpmiddel (NL)
 
-Smart glasses are not yet recognized as a hulpmiddel by most Dutch health insurers. This may change. Check with:
-- [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/)
-- The client's specific zorgverzekeraar
+Smart glasses are **not yet recognized** as a hulpmiddel by most Dutch health insurers. However:
+
+- **Price comparison:** Ray-Ban Meta costs significantly less than dedicated assistive glasses like Envision Glasses (€3,500) or OrCam (€4,500).
+- **WMO:** Some municipalities may cover assistive technology — clients should check with their gemeente.
+- **Advice:** Keep receipts, submit a written request to the zorgverzekeraar, and reference the growing evidence base for AI-powered visual assistance.
+- This landscape is changing quickly. Check with [Zorginstituut Nederland](https://www.zorginstituutnederland.nl/) for updates.
 
 ### Referrals
 
