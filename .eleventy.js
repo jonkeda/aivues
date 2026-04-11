@@ -36,6 +36,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
 
+  // Translation URL filter: look up the other language's URL from navigation.json
+  eleventyConfig.addFilter("translationUrl", function (pageUrl, navigation, lang) {
+    const otherLang = lang === "en" ? "nl" : "en";
+    const key = "url_" + lang;
+    const targetKey = "url_" + otherLang;
+    for (const item of navigation.items) {
+      if (item[key] === pageUrl) return item[targetKey];
+    }
+    return pageUrl.replace("/" + lang + "/", "/" + otherLang + "/");
+  });
+
   // Watch targets
   eleventyConfig.addWatchTarget("src/css/");
   eleventyConfig.addWatchTarget("src/js/");

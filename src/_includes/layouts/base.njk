@@ -29,9 +29,9 @@
     </nav>
     <div class="controls">
       {%- if lang == "en" %}
-        <a href="{{ page.url | replace('/en/', '/nl/') }}" lang="nl" aria-label="Nederlands">NL</a>
+        <a href="{{ page.url | translationUrl(navigation, lang) }}" lang="nl" aria-label="Nederlands">NL</a>
       {%- else %}
-        <a href="{{ page.url | replace('/nl/', '/en/') }}" lang="en" aria-label="English">EN</a>
+        <a href="{{ page.url | translationUrl(navigation, lang) }}" lang="en" aria-label="English">EN</a>
       {%- endif %}
       <button class="theme-toggle" aria-label="{% if lang == 'nl' %}Wissel thema{% else %}Toggle dark mode{% endif %}" type="button">
         <span class="theme-icon" aria-hidden="true">☀️</span>
