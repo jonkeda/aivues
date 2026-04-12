@@ -81,4 +81,19 @@
       localStorage.setItem(key, cb.checked);
     });
   });
+
+  // Open all <details> before printing, restore after
+  var detailsStates = [];
+  window.addEventListener('beforeprint', function () {
+    detailsStates = [];
+    document.querySelectorAll('details').forEach(function (d) {
+      detailsStates.push(d.open);
+      d.open = true;
+    });
+  });
+  window.addEventListener('afterprint', function () {
+    document.querySelectorAll('details').forEach(function (d, i) {
+      if (i < detailsStates.length) d.open = detailsStates[i];
+    });
+  });
 })();

@@ -503,15 +503,17 @@ details.faq-item summary strong {
   }
   a { color: #000; text-decoration: underline; }
   main { max-width: 100%; }
-  details { display: block; border: none; }
+  details, details[open] { display: block; border: none; }
   details > summary {
     page-break-inside: avoid;
     font-weight: bold;
     list-style: none;
     padding-left: 0;
+    pointer-events: none;
   }
   details > summary::-webkit-details-marker { display: none; }
-  details > div { display: block; padding-left: 0; }
+  details > summary::marker { display: none; content: ""; }
+  details > div, details > *:not(summary) { display: block; padding-left: 0; }
   .progress-check input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
