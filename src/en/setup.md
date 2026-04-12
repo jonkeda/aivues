@@ -22,8 +22,6 @@ sidebar:
 
 # Setup Guide
 
-{% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
-
 Everything you need to go from unopened box to working smart glasses. A helper can do this together with the user.
 
 Not sure if smart glasses are right for you? Read [Is This For Me?](/en/glasses/) first.

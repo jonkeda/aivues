@@ -45,11 +45,20 @@
       </ul>
     </nav>
     <div class="controls">
-      {%- if lang == "en" %}
-        <a href="{{ page.url | translationUrl(navigation, lang) }}" lang="nl" aria-label="Nederlands">NL</a>
-      {%- else %}
-        <a href="{{ page.url | translationUrl(navigation, lang) }}" lang="en" aria-label="English">EN</a>
-      {%- endif %}
+      <div class="selector phone-selector" role="group" aria-label="{% if lang == 'nl' %}Telefoontype{% else %}Phone type{% endif %}">
+        <button class="selector-btn" data-phone="iphone" type="button">iPhone</button>
+        <button class="selector-btn" data-phone="android" type="button">Android</button>
+      </div>
+      <div class="selector lang-selector" role="group" aria-label="{% if lang == 'nl' %}Taal{% else %}Language{% endif %}">
+        {%- set otherLangUrl = page.url | translationUrl(navigation, lang) %}
+        {%- if lang == "en" %}
+        <a href="{{ page.url }}" class="selector-btn is-active">English</a>
+        <a href="{{ otherLangUrl }}" class="selector-btn" lang="nl">Nederlands</a>
+        {%- else %}
+        <a href="{{ otherLangUrl }}" class="selector-btn" lang="en">English</a>
+        <a href="{{ page.url }}" class="selector-btn is-active">Nederlands</a>
+        {%- endif %}
+      </div>
       <button class="theme-toggle" aria-label="{% if lang == 'nl' %}Wissel thema{% else %}Toggle dark mode{% endif %}" type="button">
         <span class="theme-icon" aria-hidden="true">☀️</span>
       </button>

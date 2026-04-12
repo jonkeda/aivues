@@ -23,8 +23,6 @@ Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verd
 
 **Stemonderwerpen:** Je bril kan je ook direct leren. Zeg <span lang="en">"Hey Meta, teach me"</span> of bekijk [alle stemonderwerpen](/nl/teach/).
 
-{% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## Gids 1 — Instellen & eerste woorden {#gids-1}
@@ -280,12 +278,23 @@ Geen nieuwe vaardigheden vandaag — neem een pauze. Wat zijn je favoriete comma
 
 ## Gids 3 — Je telefoonassistent {#gids-3}
 
-In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
+<div class="iphone-only">
 
-**Tip:** Probeer **<span lang="en">"Hey Siri, what can you help me with?"</span>** of **<span lang="en">"Hey Google, what can you do for me?"</span>** — je telefoonassistent vertelt zelf wat hij kan.
+In deze gids leer je Siri te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
+
+**Tip:** Probeer **<span lang="en">"Hey Siri, what can you help me with?"</span>** — je telefoonassistent vertelt zelf wat hij kan.
+
+</div>
+<div class="android-only">
+
+In deze gids leer je Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
+
+**Tip:** Probeer **<span lang="en">"Hey Google, what can you do for me?"</span>** — je telefoonassistent vertelt zelf wat hij kan.
+
+</div>
 
 <details>
-<summary>Les 1 — Siri / Google basis</summary>
+<summary><span class="iphone-only">Les 1 — Siri basis</span><span class="android-only">Les 1 — Google basis</span></summary>
 <div>
 
 *Na deze les: je kunt via de bril tijd, weer, timers en herinneringen opvragen bij je telefoonassistent.*
@@ -318,7 +327,17 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 *Na deze les: je krijgt looprichtingen voorgelezen via de bril.*
 
-- Zeg: **<span lang="en">"Hey Siri/Google, navigate to [adres]"</span>** — dit opent je kaart-app met looprichtingen
+<div class="iphone-only">
+
+- Zeg: **<span lang="en">"Hey Siri, navigate to [adres]"</span>** — dit opent je kaart-app met looprichtingen
+
+</div>
+<div class="android-only">
+
+- Zeg: **<span lang="en">"Hey Google, navigate to [adres]"</span>** — dit opent je kaart-app met looprichtingen
+
+</div>
+
 - Loop eerst een bekende route (huis → winkel, huis → bushalte) zodat je de aanwijzingen kunt controleren
 - Stapsgewijze spraaknavigatie speelt af via de brillenspeakers
 - Tip: houd je telefoon in een borstzak voor betere microfoonopname
@@ -335,7 +354,18 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 *Na deze les: je kunt berichten versturen en beluisteren zonder je handen te gebruiken.*
 
 - Zeg: **<span lang="en">"Hey Meta, send a message to [naam] on WhatsApp"</span>** — dicteer je bericht
-- Voor SMS: **<span lang="en">"Hey Siri/Google, send an SMS to [naam]."</span>**
+
+<div class="iphone-only">
+
+- Voor SMS: **<span lang="en">"Hey Siri, send an SMS to [naam]."</span>**
+
+</div>
+<div class="android-only">
+
+- Voor SMS: **<span lang="en">"Hey Google, send an SMS to [naam]."</span>**
+
+</div>
+
 - Probeer: **<span lang="en">"Hey Meta, read my messages"</span>** om recente berichten te horen
 - Oefen: stuur een testbericht en vraag het daarna voor te lezen
 
@@ -428,7 +458,17 @@ Alleen relevant als je smart home apparaten hebt (lampen, thermostaat, stekkers)
 Oefen de "twee wake words" gewoonte. Elk bestuurt andere dingen:
 
 - **"Hey Meta"** voor: zien, lezen, herkennen, WhatsApp, muziek, foto's
-- **"Hey Siri/Google"** voor: navigatie, bellen, timers, agenda, smart home
+
+<div class="iphone-only">
+
+- **"Hey Siri"** voor: navigatie, bellen, timers, agenda, smart home
+
+</div>
+<div class="android-only">
+
+- **"Hey Google"** voor: navigatie, bellen, timers, agenda, smart home
+
+</div>
 
 Oefening: voer 5 taken uit met het juiste wake word voor elke taak. Doel: wisselen voelt natuurlijk, niet verwarrend.
 
@@ -519,7 +559,17 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 
 Combineer alles in een echte dag:
 
-- **Ochtend:** <span lang="en">"Hey Siri/Google, what's my day look like?"</span> (weer + agenda)
+<div class="iphone-only">
+
+- **Ochtend:** <span lang="en">"Hey Siri, what's my day look like?"</span> (weer + agenda)
+
+</div>
+<div class="android-only">
+
+- **Ochtend:** <span lang="en">"Hey Google, what's my day look like?"</span> (weer + agenda)
+
+</div>
+
 - **Naar buiten:** "Navigate to [winkel]" met je kaart-app. Gebruik Envision AI om borden te lezen onderweg
 - **In de winkel:** <span lang="en">"Hey Meta, what is this?"</span> voor producten. <span lang="en">"Hey Meta, read this"</span> voor labels
 - **Betalen:** contactloos betalen met je telefoon, of vraag <span lang="en">"Hey Meta, read this"</span> voor prijskaartjes
@@ -540,7 +590,18 @@ Veelvoorkomende problemen en snelle oplossingen:
 
 - **Meta AI reageert niet** → controleer internet + Bluetooth, herstart de bril (houd aan/uit 5 sec ingedrukt)
 - **Geen geluid door de bril** → controleer Bluetooth-koppeling, koppel opnieuw indien nodig
-- **"Hey Siri/Google" hoort me niet** → telefoon te ver weg — houd hem in een borstzak
+
+<div class="iphone-only">
+
+- **"Hey Siri" hoort me niet** → telefoon te ver weg — houd hem in een borstzak
+
+</div>
+<div class="android-only">
+
+- **"Hey Google" hoort me niet** → telefoon te ver weg — houd hem in een borstzak
+
+</div>
+
 - **Slechte AI-beschrijvingen** → verbeter de verlichting, richt je hoofd op het doel, probeer Engels
 - **Batterij gaat snel leeg** → laad op tijdens maaltijden, houd de case opgeladen
 

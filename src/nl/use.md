@@ -24,8 +24,6 @@ sidebar:
 
 Je snelgids voor dagelijkse commando's en tips. Bookmark deze pagina.
 
-{% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## Spraakcommando's — Snelgids

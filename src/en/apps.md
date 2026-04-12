@@ -11,8 +11,6 @@ permalink: /en/apps/
 
 These seven apps add features the glasses alone can't provide — from volunteer help to AI scene description.
 
-{% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## The 7 Apps Every User Needs

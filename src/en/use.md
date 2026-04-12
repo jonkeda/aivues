@@ -24,8 +24,6 @@ sidebar:
 
 Your quick reference for everyday commands and tips. Bookmark this page.
 
-{% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## Voice Commands — Quick Reference

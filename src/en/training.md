@@ -23,8 +23,6 @@ A step-by-step program to learn your smart glasses. 28 short lessons across 4 gu
 
 **Voice topics:** Your glasses can also teach you directly. Say "Hey Meta, teach me" or browse [all voice topics](/en/teach/).
 
-{% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## Guide 1 — Setup & First Words {#guide-1}
@@ -280,12 +278,23 @@ No new skills today — take a break. What are your favorite commands so far? Wh
 
 ## Guide 3 — Your Phone Assistant {#guide-3}
 
-In this guide you learn to use Siri or Google Assistant through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
+<div class="iphone-only">
 
-**Tip:** Try asking **"Hey Siri, what can you help me with?"** or **"Hey Google, what can you do for me?"** — your phone assistant will tell you what it can do.
+In this guide you learn to use Siri through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
+
+**Tip:** Try asking **"Hey Siri, what can you help me with?"** — your phone assistant will tell you what it can do.
+
+</div>
+<div class="android-only">
+
+In this guide you learn to use Google Assistant through the glasses for navigation, messages, shortcuts, and music. By the end you'll be fluent with both wake words.
+
+**Tip:** Try asking **"Hey Google, what can you do for me?"** — your phone assistant will tell you what it can do.
+
+</div>
 
 <details>
-<summary>Lesson 1 — Siri / Google Basics</summary>
+<summary><span class="iphone-only">Lesson 1 — Siri Basics</span><span class="android-only">Lesson 1 — Google Basics</span></summary>
 <div>
 
 *After this lesson: you can ask your phone assistant for time, weather, timers, and reminders through the glasses.*
@@ -318,7 +327,17 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 
 *After this lesson: you can get walking directions read aloud through the glasses.*
 
-- Say: **"Hey Siri/Google, navigate to [address]"** — this opens your map app with walking directions
+<div class="iphone-only">
+
+- Say: **"Hey Siri, navigate to [address]"** — this opens your map app with walking directions
+
+</div>
+<div class="android-only">
+
+- Say: **"Hey Google, navigate to [address]"** — this opens your map app with walking directions
+
+</div>
+
 - Walk a familiar route first (home → shop, home → bus stop) so you can verify the directions
 - Voice turn-by-turn directions play through the glasses speakers
 - Tip: keep your phone in a breast pocket for better mic reception
@@ -335,7 +354,18 @@ In this guide you learn to use Siri or Google Assistant through the glasses for 
 *After this lesson: you can send and listen to messages hands-free.*
 
 - Say: **"Hey Meta, send a message to [name] on WhatsApp"** — dictate your message
-- For SMS: **"Hey Siri/Google, send an SMS to [name]."**
+
+<div class="iphone-only">
+
+- For SMS: **"Hey Siri, send an SMS to [name]."**
+
+</div>
+<div class="android-only">
+
+- For SMS: **"Hey Google, send an SMS to [name]."**
+
+</div>
+
 - Try: **"Hey Meta, read my messages"** to hear recent messages
 - Practice: send a test message, then ask to read it back
 
@@ -428,7 +458,17 @@ Only relevant if you have smart devices (lights, thermostat, plugs). Skip this l
 Practice the "two wake word" habit. Each one controls different things:
 
 - **"Hey Meta"** for: seeing, reading, identifying, WhatsApp, music, photos
-- **"Hey Siri/Google"** for: navigation, calls, timers, calendar, smart home
+
+<div class="iphone-only">
+
+- **"Hey Siri"** for: navigation, calls, timers, calendar, smart home
+
+</div>
+<div class="android-only">
+
+- **"Hey Google"** for: navigation, calls, timers, calendar, smart home
+
+</div>
 
 Exercise: complete 5 tasks using the correct wake word for each. Goal: switching feels natural, not confusing.
 
@@ -519,7 +559,17 @@ The final guide. You'll learn the companion apps, build a complete daily routine
 
 Put it all together in a real day:
 
-- **Morning:** "Hey Siri/Google, what's my day look like?" (weather + calendar)
+<div class="iphone-only">
+
+- **Morning:** "Hey Siri, what's my day look like?" (weather + calendar)
+
+</div>
+<div class="android-only">
+
+- **Morning:** "Hey Google, what's my day look like?" (weather + calendar)
+
+</div>
+
 - **Go out:** "Navigate to [shop]" with your map app. Use Envision AI to read signs along the way
 - **In the shop:** "Hey Meta, what is this?" for products. "Hey Meta, read this" for labels
 - **Pay:** use phone contactless payment, or ask "Hey Meta, read this" for price tags
@@ -540,7 +590,18 @@ Common issues and quick fixes:
 
 - **Meta AI doesn't respond** → check internet + Bluetooth, restart glasses (hold power 5 sec)
 - **No sound through glasses** → check Bluetooth pairing, re-pair if needed
-- **"Hey Siri/Google" doesn't hear me** → phone too far away — keep it in a breast pocket
+
+<div class="iphone-only">
+
+- **"Hey Siri" doesn't hear me** → phone too far away — keep it in a breast pocket
+
+</div>
+<div class="android-only">
+
+- **"Hey Google" doesn't hear me** → phone too far away — keep it in a breast pocket
+
+</div>
+
 - **Bad AI descriptions** → improve lighting, turn head toward target, try English
 - **Battery dies fast** → charge during meals, keep case charged
 

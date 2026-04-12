@@ -200,7 +200,18 @@ Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met sup
 <div>
 
 - Je telefoon is te ver weg — houd hem in een borstzak
-- Controleer of Siri/Google Assistent is ingeschakeld op het vergrendelscherm
+
+<div class="iphone-only">
+
+- Controleer of Siri is ingeschakeld op het vergrendelscherm
+
+</div>
+<div class="android-only">
+
+- Controleer of Google Assistent is ingeschakeld op het vergrendelscherm
+
+</div>
+
 - Zorg dat de telefoon niet op Niet storen / Focus-modus staat
 
 </div>

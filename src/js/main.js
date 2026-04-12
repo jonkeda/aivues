@@ -45,22 +45,24 @@
 
   applyTheme(getTheme());
 
-  // Phone toggle
-  const radios = document.querySelectorAll('.phone-toggle input[type="radio"]');
+  // Phone selector (buttons in header)
+  var phoneBtns = document.querySelectorAll('.phone-selector .selector-btn');
   function applyPhone(value) {
     document.body.classList.toggle('phone-android', value === 'android');
+    phoneBtns.forEach(function (btn) {
+      btn.setAttribute('aria-pressed', String(btn.dataset.phone === value));
+    });
   }
 
-  if (radios.length) {
+  if (phoneBtns.length) {
     var saved = localStorage.getItem('phone');
     if (!saved) {
       saved = /android/i.test(navigator.userAgent) ? 'android' : 'iphone';
     }
-    radios.forEach(function (r) {
-      r.checked = r.value === saved;
-      r.addEventListener('change', function () {
-        localStorage.setItem('phone', r.value);
-        applyPhone(r.value);
+    phoneBtns.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        localStorage.setItem('phone', btn.dataset.phone);
+        applyPhone(btn.dataset.phone);
       });
     });
     applyPhone(saved);

@@ -200,7 +200,18 @@ If something isn't working, try these fixes before contacting support.
 <div>
 
 - Your phone is too far away — keep it in a breast pocket
-- Check that Siri/Google Assistant is enabled on the lock screen
+
+<div class="iphone-only">
+
+- Check that Siri is enabled on the lock screen
+
+</div>
+<div class="android-only">
+
+- Check that Google Assistant is enabled on the lock screen
+
+</div>
+
 - Make sure the phone isn't in Do Not Disturb / Focus mode
 
 </div>

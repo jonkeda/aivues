@@ -11,8 +11,6 @@ permalink: /nl/apps/
 
 Deze zeven apps vullen aan wat de bril alleen niet kan — van vrijwilligershulp tot AI-scènebeschrijving.
 
-{% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
-
 ---
 
 ## De 7 apps die iedereen nodig heeft

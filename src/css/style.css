@@ -164,6 +164,14 @@ a:hover {
     display: flex;
     align-items: center;
   }
+  .controls {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .selector-btn {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.8rem;
+  }
 }
 
 .nav-links a {
@@ -326,31 +334,49 @@ main li {
   background: var(--accent-hover);
 }
 
-/* --- Phone Toggle --- */
-.phone-toggle {
+/* --- Selector Button Group (phone + language) --- */
+.selector {
+  display: inline-flex;
   border: 2px solid var(--border);
   border-radius: 4px;
-  padding: 0.75rem 1rem;
-  margin-bottom: 1.5rem;
+  overflow: hidden;
 }
 
-.phone-toggle legend {
-  font-weight: bold;
-  padding: 0 0.25rem;
-}
-
-.phone-toggle label {
-  margin-right: 1.5rem;
-  cursor: pointer;
+.selector-btn {
+  padding: 0.25rem 0.75rem;
   min-height: 44px;
-  display: inline-flex;
+  min-width: 44px;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: var(--font);
+  text-decoration: none;
+  display: flex;
   align-items: center;
-  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.selector-btn + .selector-btn {
+  border-left: 2px solid var(--border);
+}
+
+.selector-btn[aria-pressed="true"],
+.selector-btn.is-active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.selector-btn:hover:not([aria-pressed="true"]):not(.is-active) {
+  background: var(--card-bg);
 }
 
 /* Show/hide platform-specific content */
 .android-only { display: none; }
 body.phone-android .android-only { display: block; }
+body.phone-android span.android-only { display: inline; }
 body.phone-android .iphone-only { display: none; }
 
 /* --- Details / Summary (collapsible) --- */
@@ -434,7 +460,7 @@ details.faq-item summary strong {
   .controls,
   .skip-link,
   .page-index,
-  .phone-toggle,
+  .selector,
   .theme-toggle {
     display: none !important;
   }
