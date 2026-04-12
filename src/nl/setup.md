@@ -241,3 +241,15 @@ Installeer deze zeven apps voordat je begint met training. Elke app voegt iets t
 Zet de bril op en zeg: **<span lang="en">"Hey Meta, what do you see?"</span>**
 
 Als Meta AI beschrijft wat er voor je is, is de installatie compleet. Ga verder met [Training](/nl/training/).
+
+<div class="next-steps" markdown="1">
+
+## Volgende stappen
+
+<ul class="routing-links" role="list">
+  <li><a href="/nl/training/">Start training</a></li>
+  <li><a href="/nl/apps/">De juiste apps vinden</a></li>
+  <li><a href="/nl/hulp/">Ik heb hulp nodig</a></li>
+</ul>
+
+</div>

@@ -8,6 +8,7 @@
     { "key": "apps", "en": "Apps", "nl": "Apps", "url_en": "/en/apps/", "url_nl": "/nl/apps/" },
     { "key": "opticians", "en": "Opticians", "nl": "Opticiens", "url_en": "/en/opticians/", "url_nl": "/nl/opticiens/" },
     { "key": "help", "en": "Help", "nl": "Hulp", "url_en": "/en/help/", "url_nl": "/nl/hulp/" },
-    { "key": "accessibility", "en": "Accessibility", "nl": "Toegankelijkheid", "url_en": "/en/accessibility/", "url_nl": "/nl/toegankelijkheid/", "footer": true }
+    { "key": "accessibility", "en": "Accessibility", "nl": "Toegankelijkheid", "url_en": "/en/accessibility/", "url_nl": "/nl/toegankelijkheid/", "footer": true },
+    { "key": "search", "en": "Search", "nl": "Zoeken", "url_en": "/en/search/", "url_nl": "/nl/zoeken/", "footer": true }
   ]
 }

@@ -104,3 +104,15 @@ Verwijs cliënten naar deze organisaties voor revalidatie en verdere ondersteuni
 - [Koninklijke Visio](https://www.visio.org/) — revalidatie en begeleiding
 - [Bartiméus](https://www.bartimeus.nl/) — revalidatie en begeleiding
 - [Oogvereniging](https://www.oogvereniging.nl/) — patiëntenbelangen
+
+<div class="next-steps" markdown="1">
+
+## Meer informatie
+
+<ul class="routing-links" role="list">
+  <li><a href="/nl/bril/">Is dit iets voor mijn cliënt?</a></li>
+  <li><a href="/nl/instellen/">Installatiehandleiding</a></li>
+  <li><a href="/nl/apps/">Essentiële apps</a></li>
+</ul>
+
+</div>

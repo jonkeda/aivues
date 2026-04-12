@@ -622,3 +622,15 @@ Je hebt het gehaald! Bedenk wat je nu kunt dat je aan het begin niet kon. Stel 3
 
 </div>
 </details>
+
+<div class="next-steps" markdown="1">
+
+## Hoe nu verder?
+
+<ul class="routing-links" role="list">
+  <li><a href="/nl/gebruik/">Dagelijks gebruik</a></li>
+  <li><a href="/nl/apps/">Meer apps ontdekken</a></li>
+  <li><a href="/nl/hulp/">Hulp & probleemoplossing</a></li>
+</ul>
+
+</div>

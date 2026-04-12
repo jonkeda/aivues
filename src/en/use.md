@@ -139,3 +139,15 @@ These channels feature visually impaired users sharing their experience with Ray
 - [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — setup guides, feature demos, new releases
 
 **Search tip:** On YouTube, search for "Ray-Ban Meta blind" or "smart glasses visually impaired" to find more.
+
+<div class="next-steps" markdown="1">
+
+## More
+
+<ul class="routing-links" role="list">
+  <li><a href="/en/apps/">Find the right apps</a></li>
+  <li><a href="/en/help/">Help & troubleshooting</a></li>
+  <li><a href="/en/training/">Back to training</a></li>
+</ul>
+
+</div>

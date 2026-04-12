@@ -86,3 +86,14 @@ Deze directories beoordelen apps specifiek op toegankelijkheid.
 
 - [AppleVis App Directory](https://www.applevis.com/apps) — uitgebreide app-catalogus met toegankelijkheidsbeoordeling
 - [Google Toegankelijkheid Apps](https://play.google.com/store/apps/collection/promotion_topic_accessibility) — Android toegankelijkheidstools
+
+<div class="next-steps" markdown="1">
+
+## Volgende stappen
+
+<ul class="routing-links" role="list">
+  <li><a href="/nl/gebruik/">Dagelijks gebruik</a></li>
+  <li><a href="/nl/hulp/">Hulp & probleemoplossing</a></li>
+</ul>
+
+</div>

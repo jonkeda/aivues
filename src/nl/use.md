@@ -139,3 +139,15 @@ Deze kanalen laten visueel beperkte gebruikers hun ervaring met Ray-Ban Meta bri
 - [Ray-Ban Meta Official](https://www.youtube.com/@RayBan) — installatiegidsen, functiedemo's, nieuwe releases
 
 **Zoektip:** Zoek op YouTube naar "Ray-Ban Meta blind" of "smart glasses visually impaired" voor meer video's.
+
+<div class="next-steps" markdown="1">
+
+## Meer
+
+<ul class="routing-links" role="list">
+  <li><a href="/nl/apps/">De juiste apps vinden</a></li>
+  <li><a href="/nl/hulp/">Hulp & probleemoplossing</a></li>
+  <li><a href="/nl/training/">Terug naar training</a></li>
+</ul>
+
+</div>

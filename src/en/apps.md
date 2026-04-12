@@ -45,3 +45,14 @@ These directories review apps specifically for accessibility.
 
 - [AppleVis App Directory](https://www.applevis.com/apps) — extensive accessibility-rated app catalog
 - [Google Accessibility Apps](https://play.google.com/store/apps/collection/promotion_topic_accessibility) — Android accessibility tools
+
+<div class="next-steps" markdown="1">
+
+## Next Steps
+
+<ul class="routing-links" role="list">
+  <li><a href="/en/use/">Daily use reference</a></li>
+  <li><a href="/en/help/">Help & troubleshooting</a></li>
+</ul>
+
+</div>

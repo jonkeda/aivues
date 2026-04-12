@@ -59,8 +59,22 @@ eleventyExcludeFromCollections: true
   <h1>AiVues</h1>
   <p>Smart glasses guide for visually impaired people</p>
   <ul class="lang-links" role="list">
-    <li><a href="/en/" lang="en">English</a></li>
-    <li><a href="/nl/" lang="nl">Nederlands</a></li>
+    <li><a href="/en/" lang="en" id="link-en">English</a></li>
+    <li><a href="/nl/" lang="nl" id="link-nl">Nederlands</a></li>
   </ul>
+  <script>
+    (function () {
+      // Auto-redirect first-time visitors based on browser language
+      if (localStorage.getItem('lang-chosen')) return;
+      var lang = (navigator.language || '').toLowerCase();
+      if (lang === 'nl' || lang.startsWith('nl-')) {
+        localStorage.setItem('lang-chosen', 'nl');
+        window.location.replace('/nl/');
+      } else {
+        localStorage.setItem('lang-chosen', 'en');
+        window.location.replace('/en/');
+      }
+    })();
+  </script>
 </body>
 </html>

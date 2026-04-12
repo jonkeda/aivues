@@ -241,3 +241,15 @@ Install these seven apps before you start training. Each one adds something the 
 Put the glasses on and say: **"Hey Meta, what do you see?"**
 
 If Meta AI describes what's in front of you, setup is complete. Move on to [Training](/en/training/).
+
+<div class="next-steps" markdown="1">
+
+## Next Steps
+
+<ul class="routing-links" role="list">
+  <li><a href="/en/training/">Start training</a></li>
+  <li><a href="/en/apps/">Find the right apps</a></li>
+  <li><a href="/en/help/">I need help</a></li>
+</ul>
+
+</div>

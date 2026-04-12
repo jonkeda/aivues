@@ -622,3 +622,15 @@ You made it! Think about what you can do now that you couldn't when you started.
 
 </div>
 </details>
+
+<div class="next-steps" markdown="1">
+
+## What's Next?
+
+<ul class="routing-links" role="list">
+  <li><a href="/en/use/">Daily use reference</a></li>
+  <li><a href="/en/apps/">Explore more apps</a></li>
+  <li><a href="/en/help/">Help & troubleshooting</a></li>
+</ul>
+
+</div>

@@ -104,3 +104,15 @@ Point clients to these organizations for rehabilitation and ongoing support.
 - [Koninklijke Visio](https://www.visio.org/) — rehabilitation and support
 - [Bartiméus](https://www.bartimeus.nl/) — rehabilitation and support
 - [Oogvereniging](https://www.oogvereniging.nl/) — patient advocacy
+
+<div class="next-steps" markdown="1">
+
+## More Information
+
+<ul class="routing-links" role="list">
+  <li><a href="/en/glasses/">Is this for my client?</a></li>
+  <li><a href="/en/setup/">Setup guide</a></li>
+  <li><a href="/en/apps/">Essential apps</a></li>
+</ul>
+
+</div>

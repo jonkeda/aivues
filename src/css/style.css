@@ -210,6 +210,36 @@ a:hover {
   justify-content: center;
 }
 
+/* --- Search Link --- */
+.search-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.search-link:hover {
+  background: var(--card-bg);
+  color: var(--text);
+}
+
+/* --- Next Steps --- */
+.next-steps {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border);
+}
+
+.next-steps h2 {
+  margin-top: 0;
+}
+
 /* --- Page Layout (with sidebar) --- */
 .page-layout {
   max-width: 72rem;
@@ -461,7 +491,9 @@ details.faq-item summary strong {
   .skip-link,
   .page-index,
   .selector,
-  .theme-toggle {
+  .theme-toggle,
+  .search-link,
+  .next-steps {
     display: none !important;
   }
   body {
@@ -471,7 +503,23 @@ details.faq-item summary strong {
   }
   a { color: #000; text-decoration: underline; }
   main { max-width: 100%; }
-  details { display: block; }
-  details > summary { page-break-inside: avoid; }
-  details > div { display: block; }
+  details { display: block; border: none; }
+  details > summary {
+    page-break-inside: avoid;
+    font-weight: bold;
+    list-style: none;
+    padding-left: 0;
+  }
+  details > summary::-webkit-details-marker { display: none; }
+  details > div { display: block; padding-left: 0; }
+  .progress-check input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 14px;
+    height: 14px;
+    border: 2px solid #000;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 4px;
+  }
 }
