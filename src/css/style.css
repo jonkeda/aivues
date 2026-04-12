@@ -360,6 +360,10 @@ main li {
   text-align: center;
 }
 
+.routing-links a::after {
+  content: ' →';
+}
+
 .routing-links a:hover {
   background: var(--accent-hover);
 }
