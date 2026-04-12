@@ -12,10 +12,10 @@ sidebar:
     label: Hardware instellen
   - id: koppelen
     label: Koppelen met telefoon
-  - id: cochleair
-    label: Cochleair & Hoorapparaten
   - id: toegankelijkheid
     label: Toegankelijkheid telefoon
+  - id: cochleair
+    label: Cochleair & Hoorapparaten
   - id: apps
     label: Apps installeren
   - id: testen
@@ -37,7 +37,17 @@ Zorg dat je het volgende bij de hand hebt:
 - Ray-Ban Meta smart glasses (Gen 2)
 - Oplaadcase (zit in de doos)
 - USB-C kabel (**niet meegeleverd** — neem je eigen kabel mee)
-- Smartphone: Android 10+ met locatievoorzieningen, of iPhone met iOS 14.4+
+<div class="iphone-only">
+
+- iPhone met iOS 14.4 of hoger
+
+</div>
+<div class="android-only">
+
+- Android 10+ smartphone met locatievoorzieningen ingeschakeld
+
+</div>
+
 - Meta-account (maak er vooraf een aan op [meta.com](https://www.meta.com) om tijd te besparen)
 - Wi-Fi netwerk
 - Ongeveer 30 minuten
@@ -62,35 +72,6 @@ Open de doos en je vindt de bril, een oplaadcase, een snelstartgids, lensinstruc
 - Batterij controleren: zeg **<span lang="en">"Hey Meta, battery"</span>**
 - Sommige functies werken zonder internet (foto's, video, basale commando's). AI-zicht en gesprekken vereisen Wi-Fi of mobiele data
 
-**Pasvorm en comfort:**
-
-- Verkrijgbaar als Ray-Ban Wayfarer, Skyler, Headliner en Oakley Blayzer en Optics — meerdere montuurtypes voor verschillende gezichtsvormen
-- IPX4 waterbestendig — veilig in lichte regen
-- Glazen opties: helder, zonnebril, transition, of op sterkte
-
-**Bediening op de rechter brillenpoot:**
-
-- Enkele tik op het touchpad = afspelen / pauzeren
-- Dubbele tik = volgend nummer
-- Veeg naar voren / achteren = volume omhoog / omlaag
-- Kort indrukken bovenste knop = foto
-- Lang indrukken = video
-
-**Over de LEDs:**
-
-Een klein wit lampje aan de buitenkant van het montuur gaat branden zodra de camera actief is. Het kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen in de buurt weten dat de camera aan staat. Zorg dat de gebruiker weet dat het lampje er is, zodat zij het aan anderen kunnen uitleggen.
-
-De meldings-LED aan de rechterkant van het montuur verandert van kleur om de status te tonen:
-
-| LED | Betekenis |
-|-----|---------|  
-| Groen (vast) | Volledig opgeladen |
-| Blauw (knipperend) | Koppelmodus |
-| Wit (vast) | Camera / opname actief |
-| Wit (pulserend) | Spraakcommando wordt verwerkt |
-
-Bekijk de volledige LED-gids in de Meta AI app: Apparaten → Leren en ontdekken → Gebaren en LEDs.
-
 **Aan- en uitzetten:**
 
 - **Aanzetten:** schuif de schakelaar aan de binnenkant van de linker brillenpoot naar de voorkant van het montuur
@@ -106,7 +87,20 @@ Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-updat
 1. Zet de bril aan en leg hem in de open case — als de LED blauw knippert, is hij klaar om te koppelen
 2. Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
 3. Open de app en log in met een Meta-account
-4. Zet Bluetooth aan op je telefoon (Android: zet ook Locatie aan via Instellingen → Locatie)
+<li value="4">
+
+<div class="iphone-only">
+
+Zet Bluetooth aan op je telefoon
+
+</div>
+<div class="android-only">
+
+Zet Bluetooth en Locatie aan op je telefoon (Instellingen → Locatie → AAN)
+
+</div>
+</li>
+
 5. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
 6. Accepteer de firmware-update wanneer gevraagd. **Houd de bril in de case** tijdens de update (5–10 minuten)
 7. Na de update verbindt de bril vanzelf opnieuw
@@ -134,6 +128,70 @@ Verken na het koppelen de productrondleiding in de Meta AI app: Apparaten → Le
 - Media-audio en telefoongesprekken spelen af via de brillenspeakers
 - Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
 - Geef meldingstoegang aan de Meta AI app wanneer gevraagd
+
+</div>
+
+---
+
+## Toegankelijkheid telefoon {#toegankelijkheid}
+
+Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Stel ze één keer in en ze blijven aan.
+
+<div class="iphone-only">
+
+**VoiceOver** maakt van het scherm een steminterface.
+
+- Instellingen → Toegankelijkheid → VoiceOver → **AAN**
+- Snelle schakelaar: Instellingen → Toegankelijkheid → Snel naar → VoiceOver (drievoudig klikken op zijknop)
+- Audio speelt af via de brillenspeakers over Bluetooth
+
+**Meldingen aankondigen** leest inkomende berichten voor via de bril.
+
+- Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → **AAN**
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta AI
+- Uitschakelen voor: sociale media, marketing-apps, games
+
+**Siri** laat je de telefoon bedienen met je stem.
+
+- Instellingen → Siri en zoeken → Luister naar "Hey Siri" → **AAN**
+- Sta Siri toe bij vergrendeling → **AAN**
+- Taal: Engels aanbevolen voor de beste AI-kwaliteit
+
+**Gesproken inhoud** leest geselecteerde tekst of het hele scherm voor.
+
+- Instellingen → Toegankelijkheid → Gesproken inhoud → Spreek selectie → **AAN**
+- Spreek scherm → **AAN** (veeg met twee vingers omlaag om het hele scherm voor te laten lezen)
+
+**Snelle test:** Zeg **<span lang="en">"Hey Siri, what time is it?"</span>** — je moet het antwoord door de bril horen.
+
+</div>
+
+<div class="android-only">
+
+**TalkBack** maakt van het scherm een steminterface.
+
+- Instellingen → Toegankelijkheid → TalkBack → **AAN**
+- Audio speelt af via de brillenspeakers over Bluetooth
+- Belangrijke gebaren: veeg rechts = volgend item, veeg links = vorig, dubbeltikken = activeren
+
+**Meldingen voorlezen** kondigt inkomende berichten aan via de bril.
+
+- Instellingen → Toegankelijkheid → TalkBack → Instellingen → Meldingen hardop voorlezen
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta AI
+- Uitschakelen voor: sociale media, marketing-apps
+
+**Google Assistent** laat je de telefoon bedienen met je stem.
+
+- Instellingen → Google → Google Assistent → "Hey Google" → **AAN**
+- Toestaan op vergrendelscherm → **AAN**
+- Taal: Engels aanbevolen voor de beste AI-kwaliteit
+
+**Selecteren en voorlezen** leest tekst voor waar je de telefooncamera op richt.
+
+- Instellingen → Toegankelijkheid → Selecteren en voorlezen → **AAN**
+- Richt de camera op tekst en tik op de afspeelknop
+
+**Snelle test:** Zeg **<span lang="en">"Hey Google, what time is it?"</span>** — je moet het antwoord door de bril horen.
 
 </div>
 
@@ -199,70 +257,6 @@ Als de gebruiker een cochleair implantaat of soortgelijk hoorapparaat draagt, ka
    - Bel een vriend — zou via het hoorapparaat moeten bellen
 
 **Tip:** Je kan zowel de bril als het hoorapparaat tegelijk actief hebben. Swipe twee keer naar beneden voor Snelinstelling en bekijk "Audio-uitvoer" of "Hoorapparaat" instellingen om eenvoudig te schakelen.
-
-</div>
-
----
-
-## Toegankelijkheid telefoon {#toegankelijkheid}
-
-Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Stel ze één keer in en ze blijven aan.
-
-<div class="iphone-only">
-
-**VoiceOver** maakt van het scherm een steminterface.
-
-- Instellingen → Toegankelijkheid → VoiceOver → **AAN**
-- Snelle schakelaar: Instellingen → Toegankelijkheid → Snel naar → VoiceOver (drievoudig klikken op zijknop)
-- Audio speelt af via de brillenspeakers over Bluetooth
-
-**Meldingen aankondigen** leest inkomende berichten voor via de bril.
-
-- Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → **AAN**
-- Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta AI
-- Uitschakelen voor: sociale media, marketing-apps, games
-
-**Siri** laat je de telefoon bedienen met je stem.
-
-- Instellingen → Siri en zoeken → Luister naar "Hey Siri" → **AAN**
-- Sta Siri toe bij vergrendeling → **AAN**
-- Taal: Engels aanbevolen voor de beste AI-kwaliteit
-
-**Gesproken inhoud** leest geselecteerde tekst of het hele scherm voor.
-
-- Instellingen → Toegankelijkheid → Gesproken inhoud → Spreek selectie → **AAN**
-- Spreek scherm → **AAN** (veeg met twee vingers omlaag om het hele scherm voor te laten lezen)
-
-**Snelle test:** Zeg **<span lang="en">"Hey Siri, what time is it?"</span>** — je moet het antwoord door de bril horen.
-
-</div>
-
-<div class="android-only">
-
-**TalkBack** maakt van het scherm een steminterface.
-
-- Instellingen → Toegankelijkheid → TalkBack → **AAN**
-- Audio speelt af via de brillenspeakers over Bluetooth
-- Belangrijke gebaren: veeg rechts = volgend item, veeg links = vorig, dubbeltikken = activeren
-
-**Meldingen voorlezen** kondigt inkomende berichten aan via de bril.
-
-- Instellingen → Toegankelijkheid → TalkBack → Instellingen → Meldingen hardop voorlezen
-- Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta AI
-- Uitschakelen voor: sociale media, marketing-apps
-
-**Google Assistent** laat je de telefoon bedienen met je stem.
-
-- Instellingen → Google → Google Assistent → "Hey Google" → **AAN**
-- Toestaan op vergrendelscherm → **AAN**
-- Taal: Engels aanbevolen voor de beste AI-kwaliteit
-
-**Selecteren en voorlezen** leest tekst voor waar je de telefooncamera op richt.
-
-- Instellingen → Toegankelijkheid → Selecteren en voorlezen → **AAN**
-- Richt de camera op tekst en tik op de afspeelknop
-
-**Snelle test:** Zeg **<span lang="en">"Hey Google, what time is it?"</span>** — je moet het antwoord door de bril horen.
 
 </div>
 

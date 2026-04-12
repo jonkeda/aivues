@@ -12,10 +12,10 @@ sidebar:
     label: Hardware Setup
   - id: pair
     label: Pair with Phone
-  - id: cochlear
-    label: Cochlear & Hearing Devices
   - id: accessibility
     label: Phone Accessibility
+  - id: cochlear
+    label: Cochlear & Hearing Devices
   - id: apps
     label: Install Essential Apps
   - id: test
@@ -37,7 +37,17 @@ Before you start, make sure you have:
 - Ray-Ban Meta smart glasses (Gen 2)
 - Charging case (included in the box)
 - USB-C cable (**not included** — bring your own)
-- Smartphone: Android 10+ with location services, or iPhone with iOS 14.4+
+<div class="iphone-only">
+
+- iPhone with iOS 14.4 or higher
+
+</div>
+<div class="android-only">
+
+- Android 10+ smartphone with location services enabled
+
+</div>
+
 - Meta account (create one at [meta.com](https://www.meta.com) in advance to save time)
 - Wi-Fi network
 - About 30 minutes
@@ -62,35 +72,6 @@ Open the box and you'll find the glasses, a charging case, a quick start guide, 
 - Check battery anytime: say **"Hey Meta, battery"**
 - Some features work without internet (photos, video, basic commands). AI vision and conversations need Wi-Fi or mobile data
 
-**Fit and comfort:**
-
-- Available as Ray-Ban Wayfarer, Skyler, Headliner, and Oakley Blayzer and Optics — multiple frame styles to fit different faces
-- IPX4 water-resistant — safe in light rain
-- Lens options: clear, sun, transition, or prescription inserts
-
-**Controls on the right temple:**
-
-- Single tap the touchpad = play / pause
-- Double tap = skip track
-- Swipe forward / back = volume up / down
-- Short press the top button = photo
-- Long press = video
-
-**About the LEDs:**
-
-A small white light on the outside of the frame turns on whenever the camera is active. It can't be disabled — this is intentional so people around the user know the camera is on. Make sure the user knows it's there so they can explain it to others.
-
-The notification LED on the right side of the frame changes color to show status:
-
-| LED | Meaning |
-|-----|---------|  
-| Solid green | Fully charged |
-| Blinking blue | Pairing mode |
-| Solid white | Camera / recording active |
-| Pulsing white | Processing a voice command |
-
-See the full LED guide in the Meta AI app: Devices → Learn and discover → Gestures and LEDs.
-
 **Power on / off:**
 
 - **Turn on:** flip the switch on the inside of the left temple toward the front of the frame
@@ -106,7 +87,20 @@ Pairing takes about 15 minutes, most of which is a firmware update. The glasses 
 1. Turn the glasses on and place them in the open case — when the LED blinks blue, they are ready to pair
 2. Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
 3. Open it and sign in with a Meta account
-4. Enable Bluetooth on your phone (Android: also enable Location in Settings → Location)
+<li value="4">
+
+<div class="iphone-only">
+
+Enable Bluetooth on your phone
+
+</div>
+<div class="android-only">
+
+Enable Bluetooth and Location on your phone (Settings → Location → ON)
+
+</div>
+</li>
+
 5. Follow the in-app pairing wizard — it finds the glasses automatically
 6. Accept the firmware update when prompted. **Keep the glasses in the case** during the update (5–10 minutes)
 7. After the update the glasses reconnect on their own
@@ -134,6 +128,70 @@ After pairing, explore the product tour in the Meta AI app: Devices → Learn an
 - Media audio and phone calls play through the glasses speakers
 - Test by playing a song — you should hear it through the glasses, not the phone
 - Grant notification access to the Meta AI app when prompted
+
+</div>
+
+---
+
+## Phone Accessibility Settings {#accessibility}
+
+These settings let the phone talk to the user through the glasses. Configure them once and they stay on.
+
+<div class="iphone-only">
+
+**VoiceOver** turns the screen into a voice interface.
+
+- Settings → Accessibility → VoiceOver → **ON**
+- Quick toggle: Settings → Accessibility → Accessibility Shortcut → VoiceOver (triple-click side button)
+- Audio plays through the glasses speakers via Bluetooth
+
+**Announce Notifications** reads incoming messages aloud through the glasses.
+
+- Settings → Accessibility → Siri → Announce Notifications → **ON**
+- Enable for: WhatsApp, Phone, Messages, Calendar, Meta AI
+- Disable for: social media, marketing apps, games
+
+**Siri** lets you control the phone by voice.
+
+- Settings → Siri & Search → Listen for "Hey Siri" → **ON**
+- Allow Siri When Locked → **ON**
+- Language: English recommended for best AI quality
+
+**Spoken Content** reads selected text or the entire screen aloud.
+
+- Settings → Accessibility → Spoken Content → Speak Selection → **ON**
+- Speak Screen → **ON** (two-finger swipe down to read the full screen)
+
+**Quick test:** Say **"Hey Siri, what time is it?"** — you should hear the answer through the glasses.
+
+</div>
+
+<div class="android-only">
+
+**TalkBack** turns the screen into a voice interface.
+
+- Settings → Accessibility → TalkBack → **ON**
+- Audio plays through the glasses speakers via Bluetooth
+- Key gestures: swipe right = next item, swipe left = previous, double-tap = activate
+
+**Notification reading** announces incoming messages through the glasses.
+
+- Settings → Accessibility → TalkBack → Settings → Read notifications aloud
+- Enable for: WhatsApp, Phone, Messages, Meta AI
+- Disable for: social media, marketing apps
+
+**Google Assistant** lets you control the phone by voice.
+
+- Settings → Google → Google Assistant → "Hey Google" → **ON**
+- Allow on lock screen → **ON**
+- Language: English recommended for best AI quality
+
+**Select to Speak** reads text you point the phone camera at.
+
+- Settings → Accessibility → Select to Speak → **ON**
+- Point the camera at text and tap the play button
+
+**Quick test:** Say **"Hey Google, what time is it?"** — you should hear the answer through the glasses.
 
 </div>
 
@@ -199,70 +257,6 @@ If the user wears a Cochlear implant or similar hearing device, audio from both 
    - Call a friend — should ring through the hearing device
 
 **Tip:** You can have both the glasses and hearing device active. Use Quick Settings (swipe down twice) to see "Audio output" or "Hearing device" settings and toggle between them.
-
-</div>
-
----
-
-## Phone Accessibility Settings {#accessibility}
-
-These settings let the phone talk to the user through the glasses. Configure them once and they stay on.
-
-<div class="iphone-only">
-
-**VoiceOver** turns the screen into a voice interface.
-
-- Settings → Accessibility → VoiceOver → **ON**
-- Quick toggle: Settings → Accessibility → Accessibility Shortcut → VoiceOver (triple-click side button)
-- Audio plays through the glasses speakers via Bluetooth
-
-**Announce Notifications** reads incoming messages aloud through the glasses.
-
-- Settings → Accessibility → Siri → Announce Notifications → **ON**
-- Enable for: WhatsApp, Phone, Messages, Calendar, Meta AI
-- Disable for: social media, marketing apps, games
-
-**Siri** lets you control the phone by voice.
-
-- Settings → Siri & Search → Listen for "Hey Siri" → **ON**
-- Allow Siri When Locked → **ON**
-- Language: English recommended for best AI quality
-
-**Spoken Content** reads selected text or the entire screen aloud.
-
-- Settings → Accessibility → Spoken Content → Speak Selection → **ON**
-- Speak Screen → **ON** (two-finger swipe down to read the full screen)
-
-**Quick test:** Say **"Hey Siri, what time is it?"** — you should hear the answer through the glasses.
-
-</div>
-
-<div class="android-only">
-
-**TalkBack** turns the screen into a voice interface.
-
-- Settings → Accessibility → TalkBack → **ON**
-- Audio plays through the glasses speakers via Bluetooth
-- Key gestures: swipe right = next item, swipe left = previous, double-tap = activate
-
-**Notification reading** announces incoming messages through the glasses.
-
-- Settings → Accessibility → TalkBack → Settings → Read notifications aloud
-- Enable for: WhatsApp, Phone, Messages, Meta AI
-- Disable for: social media, marketing apps
-
-**Google Assistant** lets you control the phone by voice.
-
-- Settings → Google → Google Assistant → "Hey Google" → **ON**
-- Allow on lock screen → **ON**
-- Language: English recommended for best AI quality
-
-**Select to Speak** reads text you point the phone camera at.
-
-- Settings → Accessibility → Select to Speak → **ON**
-- Point the camera at text and tap the play button
-
-**Quick test:** Say **"Hey Google, what time is it?"** — you should hear the answer through the glasses.
 
 </div>
 
