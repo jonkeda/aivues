@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Dagelijks gebruik
+description: "Spraakcommando's, tips en app-handleidingen voor dagelijks gebruik van Ray-Ban Meta AI brillen door mensen met een visuele beperking"
 lang: nl
 order: 3
 permalink: /nl/gebruik/
@@ -35,14 +36,14 @@ De bril reageert op twee wake words. Gebruik **"Hey Meta"** voor alles wat de br
 
 | Zeg | Wat het doet |
 |-----|-------------|
-| "Hey Meta, what do you see?" | Beschrijf wat er voor je is |
-| "Hey Meta, read this" | Lees tekst voor (menu, label, bord) |
-| "Hey Meta, what color is this?" | Herken kleuren |
-| "Hey Meta, what is this?" | Herken objecten |
-| "Hey Meta, call [naam]" | Bel iemand |
-| "Hey Meta, send a message to [naam] on WhatsApp" | Stuur WhatsApp-bericht |
-| "Hey Meta, play [nummer/playlist]" | Speel muziek via Spotify |
-| "Hey Meta, take a photo" | Maak een foto |
+| <span lang="en">"Hey Meta, what do you see?"</span> | Beschrijf wat er voor je is |
+| <span lang="en">"Hey Meta, read this"</span> | Lees tekst voor (menu, label, bord) |
+| <span lang="en">"Hey Meta, what color is this?"</span> | Herken kleuren |
+| <span lang="en">"Hey Meta, what is this?"</span> | Herken objecten |
+| <span lang="en">"Hey Meta, call [naam]"</span> | Bel iemand |
+| <span lang="en">"Hey Meta, send a message to [naam] on WhatsApp"</span> | Stuur WhatsApp-bericht |
+| <span lang="en">"Hey Meta, play [nummer/playlist]"</span> | Speel muziek via Spotify |
+| <span lang="en">"Hey Meta, take a photo"</span> | Maak een foto |
 
 ### Siri / Google commando's {#siri-google}
 
@@ -50,12 +51,12 @@ De bril reageert op twee wake words. Gebruik **"Hey Meta"** voor alles wat de br
 
 | Zeg | Wat het doet |
 |-----|-------------|
-| "Hey Siri, navigate to [adres]" | Looproute via Apple Maps |
-| "Hey Siri, what time is it?" | Huidige tijd |
-| "Hey Siri, what's the weather?" | Weerbericht |
-| "Hey Siri, set a timer for 10 minutes" | Timer |
-| "Hey Siri, remind me to [taak] at [tijd]" | Herinnering |
-| "Hey Siri, read my notifications" | Lees ongelezen meldingen |
+| <span lang="en">"Hey Siri, navigate to [adres]"</span> | Looproute via Apple Maps |
+| <span lang="en">"Hey Siri, what time is it?"</span> | Huidige tijd |
+| <span lang="en">"Hey Siri, what's the weather?"</span> | Weerbericht |
+| <span lang="en">"Hey Siri, set a timer for 10 minutes"</span> | Timer |
+| <span lang="en">"Hey Siri, remind me to [taak] at [tijd]"</span> | Herinnering |
+| <span lang="en">"Hey Siri, read my notifications"</span> | Lees ongelezen meldingen |
 
 </div>
 
@@ -63,12 +64,12 @@ De bril reageert op twee wake words. Gebruik **"Hey Meta"** voor alles wat de br
 
 | Zeg | Wat het doet |
 |-----|-------------|
-| "Hey Google, navigate to [adres]" | Looproute via Google Maps |
-| "Hey Google, what time is it?" | Huidige tijd |
-| "Hey Google, what's the weather?" | Weerbericht |
-| "Hey Google, set a timer for 10 minutes" | Timer |
-| "Hey Google, remind me to [taak] at [tijd]" | Herinnering |
-| "Hey Google, read my notifications" | Lees ongelezen meldingen |
+| <span lang="en">"Hey Google, navigate to [adres]"</span> | Looproute via Google Maps |
+| <span lang="en">"Hey Google, what time is it?"</span> | Huidige tijd |
+| <span lang="en">"Hey Google, what's the weather?"</span> | Weerbericht |
+| <span lang="en">"Hey Google, set a timer for 10 minutes"</span> | Timer |
+| <span lang="en">"Hey Google, remind me to [taak] at [tijd]"</span> | Herinnering |
+| <span lang="en">"Hey Google, read my notifications"</span> | Lees ongelezen meldingen |
 
 </div>
 
@@ -121,10 +122,10 @@ De meeste apps gebruiken de telefooncamera, maar vier apps kunnen direct door de
 
 **Deze apps werken via de bril:**
 
-1. **Meta AI** (ingebouwd) — "Hey Meta, what do you see?"
+1. **Meta AI** (ingebouwd) — <span lang="en">"Hey Meta, what do you see?"</span>
 2. **Be My Eyes** — live vrijwilligershulp + Be My AI
 3. **Envision AI** — tekst lezen, scènebeschrijving
-4. **ScribeMe** (beta) — realtime ondertiteling
+4. **ScribeMe** — AI-scanner, live visuele assistent en documentlezer
 
 Alle andere apps gebruiken de telefooncamera.
 

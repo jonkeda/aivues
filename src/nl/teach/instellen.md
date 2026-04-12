@@ -20,6 +20,6 @@ Vier, stel toegankelijkheid in op je telefoon. Op iPhone, zet VoiceOver, Melding
 
 Vijf, installeer essentiële apps. Be My Eyes voor vrijwilligershulp. WhatsApp voor berichten. Envision AI voor tekst lezen en scènebeschrijving. Ally voor een toegankelijke AI-assistent. ScribeMe voor live visuele hulp en documenten. Spotify voor muziek.
 
-Zes, test alles. Zeg Hey Meta, what do you see. Als de AI beschrijft wat er voor je is, is de installatie klaar.
+Zes, test alles. Zeg <span lang="en">Hey Meta, what do you see</span>. Als de AI beschrijft wat er voor je is, is de installatie klaar.
 
 Voor de volledige stap-voor-stap handleiding, vraag je helper om jonkeda.github.io/aivues/nl/instellen te bezoeken.

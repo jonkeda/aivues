@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Voor opticiens
+description: "Gids voor opticiens die Ray-Ban Meta AI brillen aanpassen voor slechtziende cliënten — pasadviezen, demoscript en glazen op sterkte"
 lang: nl
 order: 6
 permalink: /nl/opticiens/
@@ -75,9 +76,9 @@ Een snelle demo waarmee de cliënt de bril zelf kan ervaren. Werkt het best met 
 
 1. **Introductie** (30 sec) — "Dit zijn Ray-Ban Meta. Ze zien eruit als normale zonnebrillen maar hebben een camera en AI ingebouwd."
 2. **Opzetten** (30 sec) — Help de cliënt de bril op te zetten. Pas de neuspads aan. Controleer comfort.
-3. **Scènebeschrijving** (1 min) — Zeg: **"Hey Meta, what do you see?"** Laat ze het zelf proberen in de winkel. Reageer samen op het antwoord.
-4. **Tekst lezen** (1 min) — Houd een product of visitekaartje voor ze. Zeg: **"Hey Meta, read this."**
-5. **Kleurherkenning** (30 sec) — Zeg: **"Hey Meta, what color is this?"** met een product of hun kleding.
+3. **Scènebeschrijving** (1 min) — Zeg: **<span lang="en">"Hey Meta, what do you see?"</span>** Laat ze het zelf proberen in de winkel. Reageer samen op het antwoord.
+4. **Tekst lezen** (1 min) — Houd een product of visitekaartje voor ze. Zeg: **<span lang="en">"Hey Meta, read this."</span>**
+5. **Kleurherkenning** (30 sec) — Zeg: **<span lang="en">"Hey Meta, what color is this?"</span>** met een product of hun kleding.
 6. **Uitleg volgende stappen** (1 min) — Ze hebben een telefoon, een Meta-account en iemand nodig die helpt met installeren. Verwijs naar deze website. Training duurt 4 weken in eigen tempo.
 
 ---

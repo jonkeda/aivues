@@ -49,7 +49,6 @@
   const radios = document.querySelectorAll('.phone-toggle input[type="radio"]');
   function applyPhone(value) {
     document.body.classList.toggle('phone-android', value === 'android');
-    document.body.classList.toggle('phone-iphone', value === 'iphone');
   }
 
   if (radios.length) {

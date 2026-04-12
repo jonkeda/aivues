@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Is This For Me?
+description: "Find out if Ray-Ban Meta smart glasses are right for you — what they can and can't do for visually impaired people"
 lang: en
 order: 1
 permalink: /en/glasses/

@@ -399,12 +399,6 @@ details > div {
   margin-bottom: 0;
 }
 
-/* --- Video Link --- */
-.video-link {
-  padding: 0.5rem 0;
-  border-bottom: 1px solid var(--border);
-}
-
 /* --- FAQ --- */
 details.faq-item summary {
   font-weight: normal;
@@ -451,4 +445,7 @@ details.faq-item summary strong {
   }
   a { color: #000; text-decoration: underline; }
   main { max-width: 100%; }
+  details { display: block; }
+  details > summary { page-break-inside: avoid; }
+  details > div { display: block; }
 }

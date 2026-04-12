@@ -19,7 +19,9 @@ sidebar:
 
 Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verdeeld over 4 gidsen — ga in je eigen tempo, één les per keer. Vink elke les af als je klaar bent.
 
-**Snel starten:** Zet je bril op en zeg **"Hey Meta, I'm visually impaired. What can you do for me?"** — de AI legt zelf uit wat hij kan.
+**Snel starten:** Zet je bril op en zeg **<span lang="en">"Hey Meta, I'm visually impaired. What can you do for me?"</span>** — de AI legt zelf uit wat hij kan.
+
+**Stemonderwerpen:** Je bril kan je ook direct leren. Zeg <span lang="en">"Hey Meta, teach me"</span> of bekijk [alle stemonderwerpen](/nl/teach/).
 
 {% set legend = "Kies je telefoon" %}{% include "components/phone-toggle.njk" %}
 
@@ -65,15 +67,15 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 </details>
 
 <details>
-<summary>Les 3 — "Hey Meta, what do you see?"</summary>
+<summary>Les 3 — <span lang="en">"Hey Meta, what do you see?"</span></summary>
 <div>
 
 *Na deze les: je kunt de AI vragen om je omgeving te beschrijven en tekst voor te lezen.*
 
 - Zet de bril op en kijk naar een kamer met voorwerpen erin
-- Zeg: **"Hey Meta, what do you see?"** en luister naar de beschrijving
+- Zeg: **<span lang="en">"Hey Meta, what do you see?"</span>** en luister naar de beschrijving
 - Probeer het 5 keer op verschillende plekken: keuken, woonkamer, buiten, aan tafel, in een winkel
-- Probeer ook: **"Hey Meta, read this"** met een boek, pakje of brief
+- Probeer ook: **<span lang="en">"Hey Meta, read this"</span>** met een boek, pakje of brief
 - Tip: draai je hoofd naar wat je beschreven wilt hebben — de camera zit in de bril
 
 <label class="progress-check"><input type="checkbox" id="w1d3"> Klaar</label>
@@ -93,7 +95,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 - Schakel **Meldingen aankondigen** in: Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → AAN
 - Schakel **"Hey Siri"** in: Instellingen → Siri en zoeken → Luister naar "Hey Siri" → AAN
 - Test: stuur jezelf een WhatsApp-bericht — het zou hardop door de bril moeten worden voorgelezen
-- Test: **"Hey Siri, what's the weather?"** — je zou het antwoord door de bril moeten horen
+- Test: **<span lang="en">"Hey Siri, what's the weather?"</span>** — je zou het antwoord door de bril moeten horen
 
 </div>
 <div class="android-only">
@@ -102,7 +104,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 - Schakel meldingen voorlezen in: TalkBack → Instellingen → Meldingen hardop voorlezen
 - Schakel **"Hey Google"** in: Instellingen → Google → Google Assistent → "Hey Google" → AAN
 - Test: stuur jezelf een WhatsApp-bericht — het zou hardop door de bril moeten worden voorgelezen
-- Test: **"Hey Google, what's the weather?"** — je zou het antwoord door de bril moeten horen
+- Test: **<span lang="en">"Hey Google, what's the weather?"</span>** — je zou het antwoord door de bril moeten horen
 
 </div>
 
@@ -117,7 +119,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 
 *Na deze les: je kunt muziek, volume en de AI bedienen met aanraking.*
 
-- Speel eerst wat muziek af (vraag iemand om Spotify te starten, of zeg "Hey Meta, play some music")
+- Speel eerst wat muziek af (vraag iemand om Spotify te starten, of zeg <span lang="en">"Hey Meta, play some music"</span>)
 - **Enkele tik** = afspelen / pauzeren. Probeer het 5 keer
 - **Dubbele tik** = volgend nummer. Probeer het 3 keer
 - **Veeg naar voren** (van voor naar achter) = volume omhoog. **Veeg naar achteren** (van achter naar voor) = volume omlaag
@@ -134,7 +136,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 
 *Na deze les: je hebt je eerste gesprek via de bril gevoerd en de belangrijkste apps geïnstalleerd.*
 
-- Zeg: **"Hey Meta, call [naam]"** — bel een vriend of familielid. Voer een kort gesprek via de bril
+- Zeg: **<span lang="en">"Hey Meta, call [naam]"</span>** — bel een vriend of familielid. Voer een kort gesprek via de bril
 - Installeer na het gesprek de 7 essentiële apps van de [Apps-pagina](/nl/apps/)
 - Open **Be My Eyes**, maak een account aan en maak een testgesprek met een vrijwilliger
 - De vrijwilliger kijkt mee door je brillencamera en kan helpen met het beschrijven van je omgeving
@@ -167,10 +169,10 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 
 *Na deze les: je kunt een gesprek voeren met Meta AI over wat er om je heen is.*
 
-- Oefen binnenshuis: zeg **"Hey Meta, what's in front of me?"** en luister
+- Oefen binnenshuis: zeg **<span lang="en">"Hey Meta, what's in front of me?"</span>** en luister
 - Probeer het in verschillende kamers met verschillend licht — lichte kamers geven betere beschrijvingen
 - Stel vervolgvragen: "Are there any people?" of "What's on the table?"
-- Probeer uit het raam te kijken: **"Hey Meta, what do you see outside?"**
+- Probeer uit het raam te kijken: **<span lang="en">"Hey Meta, what do you see outside?"</span>**
 - Doel: wennen aan een gesprek met Meta AI
 
 <label class="progress-check"><input type="checkbox" id="w2d1"> Klaar</label>
@@ -185,9 +187,9 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 *Na deze les: je kunt de AI vragen om menu's, labels, brieven en verpakkingen voor te lezen.*
 
 - Zoek een menu, brief of medicijnlabel
-- Zeg: **"Hey Meta, read this"** — houd stil en kijk naar de tekst
-- Probeer met een voedselverpakking: **"Hey Meta, what are the ingredients?"**
-- Probeer met een brief of rekening: **"Hey Meta, what does this say?"**
+- Zeg: **<span lang="en">"Hey Meta, read this"</span>** — houd stil en kijk naar de tekst
+- Probeer met een voedselverpakking: **<span lang="en">"Hey Meta, what are the ingredients?"</span>**
+- Probeer met een brief of rekening: **<span lang="en">"Hey Meta, what does this say?"</span>**
 - Werkt het best op armlengte, met goed licht en duidelijke tekst
 
 <label class="progress-check"><input type="checkbox" id="w2d2"> Klaar</label>
@@ -201,10 +203,10 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 
 *Na deze les: je kunt producten, merken en alledaagse voorwerpen herkennen met je stem.*
 
-- Zeg: **"Hey Meta, what is this?"** terwijl je een voorwerp voor je houdt
+- Zeg: **<span lang="en">"Hey Meta, what is this?"</span>** terwijl je een voorwerp voor je houdt
 - Probeer met: een product, een stuk fruit, een huishoudelijk artikel, gereedschap
-- Probeer: **"Hey Meta, what brand is this?"** met een product
-- Probeer: **"Hey Meta, is this shampoo or conditioner?"** — handig voor vergelijkbare flesjes
+- Probeer: **<span lang="en">"Hey Meta, what brand is this?"</span>** met een product
+- Probeer: **<span lang="en">"Hey Meta, is this shampoo or conditioner?"</span>** — handig voor vergelijkbare flesjes
 - Draai je hoofd zodat de camera recht op het voorwerp gericht is
 
 <label class="progress-check"><input type="checkbox" id="w2d3"> Klaar</label>
@@ -218,9 +220,9 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 
 *Na deze les: je kunt de kleur vragen van kleding, eten en huishoudelijke spullen.*
 
-- Zeg: **"Hey Meta, what color is this shirt?"**
+- Zeg: **<span lang="en">"Hey Meta, what color is this shirt?"</span>**
 - Oefen met: kleding, etenswaren, huishoudelijke voorwerpen
-- Probeer te combineren: **"Hey Meta, describe what I'm wearing."**
+- Probeer te combineren: **<span lang="en">"Hey Meta, describe what I'm wearing."</span>**
 - Handig voor: kleding matchen, rijp fruit herkennen, was sorteren
 - Goed licht is belangrijk — daglicht geeft de meest accurate kleuren
 
@@ -235,7 +237,7 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 
 *Na deze les: je kunt meerdere vragen achter elkaar stellen om gedetailleerde antwoorden te krijgen.*
 
-- Begin breed: **"Hey Meta, what do you see?"**
+- Begin breed: **<span lang="en">"Hey Meta, what do you see?"</span>**
 - Zoom dan in: "Is there a price tag?" → "How much?"
 - Of: "What do you see?" → "Is there a door?" → "Which side?"
 - Oefen 3 multi-turn gesprekken in verschillende situaties
@@ -253,9 +255,9 @@ Nu je bril is ingesteld, richt deze gids zich op de AI-camera. Je oefent met sc�
 *Na deze les: je kunt de AI-camera gebruiken bij kruispunten, winkels en bushaltes.*
 
 - Ga naar buiten (met een helper als dat nodig is)
-- Bij een kruispunt: **"Hey Meta, describe what's around me."**
-- Bij een winkel: **"Hey Meta, read that sign."**
-- Bij een bushalte: **"Hey Meta, what building is that?"**
+- Bij een kruispunt: **<span lang="en">"Hey Meta, describe what's around me."</span>**
+- Bij een winkel: **<span lang="en">"Hey Meta, read that sign."</span>**
+- Bij een bushalte: **<span lang="en">"Hey Meta, what building is that?"</span>**
 - AI buiten werkt goed maar is minder nauwkeurig bij regen of mist
 
 <label class="progress-check"><input type="checkbox" id="w2d6"> Klaar</label>
@@ -280,7 +282,7 @@ Geen nieuwe vaardigheden vandaag — neem een pauze. Wat zijn je favoriete comma
 
 In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navigatie, berichten, snelkoppelingen en muziek. Aan het einde wissel je moeiteloos tussen beide wake words.
 
-**Tip:** Probeer **"Hey Siri, what can you help me with?"** of **"Hey Google, what can you do for me?"** — je telefoonassistent vertelt zelf wat hij kan.
+**Tip:** Probeer **<span lang="en">"Hey Siri, what can you help me with?"</span>** of **<span lang="en">"Hey Google, what can you do for me?"</span>** — je telefoonassistent vertelt zelf wat hij kan.
 
 <details>
 <summary>Les 1 — Siri / Google basis</summary>
@@ -290,16 +292,16 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 <div class="iphone-only">
 
-- Probeer: **"Hey Siri, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
-- Probeer: **"Hey Siri, remind me to take medicine at 8 PM."**
+- Probeer: **<span lang="en">"Hey Siri, what time is it?"</span>** / **<span lang="en">"What's the weather?"</span>** / **<span lang="en">"Set a timer for 10 minutes."</span>**
+- Probeer: **<span lang="en">"Hey Siri, remind me to take medicine at 8 PM."</span>**
 - Onthoud: Siri gebruikt de telefoonmicrofoon, Meta AI gebruikt de brillenmicrofoon
 - Beide antwoorden via de brillenspeakers
 
 </div>
 <div class="android-only">
 
-- Probeer: **"Hey Google, what time is it?"** / **"What's the weather?"** / **"Set a timer for 10 minutes."**
-- Probeer: **"Hey Google, remind me to take medicine at 8 PM."**
+- Probeer: **<span lang="en">"Hey Google, what time is it?"</span>** / **<span lang="en">"What's the weather?"</span>** / **<span lang="en">"Set a timer for 10 minutes."</span>**
+- Probeer: **<span lang="en">"Hey Google, remind me to take medicine at 8 PM."</span>**
 - Onthoud: Google Assistent gebruikt de telefoonmicrofoon, Meta AI gebruikt de brillenmicrofoon
 - Beide antwoorden via de brillenspeakers
 
@@ -316,7 +318,7 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 *Na deze les: je krijgt looprichtingen voorgelezen via de bril.*
 
-- Zeg: **"Hey Siri/Google, navigate to [adres]"** — dit opent je kaart-app met looprichtingen
+- Zeg: **<span lang="en">"Hey Siri/Google, navigate to [adres]"</span>** — dit opent je kaart-app met looprichtingen
 - Loop eerst een bekende route (huis → winkel, huis → bushalte) zodat je de aanwijzingen kunt controleren
 - Stapsgewijze spraaknavigatie speelt af via de brillenspeakers
 - Tip: houd je telefoon in een borstzak voor betere microfoonopname
@@ -332,9 +334,9 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 *Na deze les: je kunt berichten versturen en beluisteren zonder je handen te gebruiken.*
 
-- Zeg: **"Hey Meta, send a message to [naam] on WhatsApp"** — dicteer je bericht
-- Voor SMS: **"Hey Siri/Google, send an SMS to [naam]."**
-- Probeer: **"Hey Meta, read my messages"** om recente berichten te horen
+- Zeg: **<span lang="en">"Hey Meta, send a message to [naam] on WhatsApp"</span>** — dicteer je bericht
+- Voor SMS: **<span lang="en">"Hey Siri/Google, send an SMS to [naam]."</span>**
+- Probeer: **<span lang="en">"Hey Meta, read my messages"</span>** om recente berichten te horen
 - Oefen: stuur een testbericht en vraag het daarna voor te lezen
 
 <label class="progress-check"><input type="checkbox" id="w3d3"> Klaar</label>
@@ -352,9 +354,9 @@ In deze gids leer je Siri of Google Assistent te gebruiken via de bril voor navi
 
 Vraag je helper om 3 Siri Shortcuts te maken:
 
-1. **Ochtendbriefing** — "Siri, morning briefing" → leest weer + agenda voor
-2. **Navigeer naar huis** — "Siri, take me home" → opent looproute naar je adres
-3. **Veiligheidscheck** — "Siri, safety check" → stuurt je locatie naar je noodcontact
+1. **Ochtendbriefing** — <span lang="en">"Siri, morning briefing"</span> → leest weer + agenda voor
+2. **Navigeer naar huis** — <span lang="en">"Siri, take me home"</span> → opent looproute naar je adres
+3. **Veiligheidscheck** — <span lang="en">"Siri, safety check"</span> → stuurt je locatie naar je noodcontact
 
 Test elke snelkoppeling. Eenmaal ingesteld, werken ze altijd op stem.
 
@@ -363,8 +365,8 @@ Test elke snelkoppeling. Eenmaal ingesteld, werken ze altijd op stem.
 
 Vraag je helper om Google Routines te maken:
 
-1. **Ochtendbriefing** — "Hey Google, good morning" → leest weer + agenda + nieuws voor
-2. **Navigeer naar huis** — "Hey Google, take me home" → opent looproute
+1. **Ochtendbriefing** — <span lang="en">"Hey Google, good morning"</span> → leest weer + agenda + nieuws voor
+2. **Navigeer naar huis** — <span lang="en">"Hey Google, take me home"</span> → opent looproute
 
 Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
 
@@ -381,10 +383,10 @@ Test elke routine. Eenmaal ingesteld, werken ze altijd op stem.
 
 *Na deze les: je kunt muziek afspelen, overslaan en bedienen met alleen stem en aanraking.*
 
-- Zeg: **"Hey Meta, play [nummer/artiest/playlist]"** — dit activeert Spotify Tap
-- Probeer: **"Hey Meta, play some jazz"** of **"Hey Meta, play my Discover Weekly."**
+- Zeg: **<span lang="en">"Hey Meta, play [nummer/artiest/playlist]"</span>** — dit activeert Spotify Tap
+- Probeer: **<span lang="en">"Hey Meta, play some jazz"</span>** of **<span lang="en">"Hey Meta, play my Discover Weekly."</span>**
 - Gebruik het touchpad: tikken = pauzeren, dubbeltikken = volgend nummer, vegen = volume
-- Zeg **"Hey Meta, next"** om naar het volgende nummer te gaan
+- Zeg **<span lang="en">"Hey Meta, next"</span>** om naar het volgende nummer te gaan
 
 <label class="progress-check"><input type="checkbox" id="w3d5"> Klaar</label>
 
@@ -401,14 +403,14 @@ Alleen relevant als je smart home apparaten hebt (lampen, thermostaat, stekkers)
 
 <div class="iphone-only">
 
-- Probeer: **"Hey Siri, turn on the living room lights."**
-- Probeer: **"Hey Siri, set the thermostat to 20 degrees."**
+- Probeer: **<span lang="en">"Hey Siri, turn on the living room lights."</span>**
+- Probeer: **<span lang="en">"Hey Siri, set the thermostat to 20 degrees."</span>**
 
 </div>
 <div class="android-only">
 
-- Probeer: **"Hey Google, turn on the living room lights."**
-- Probeer: **"Hey Google, set the thermostat to 20 degrees."**
+- Probeer: **<span lang="en">"Hey Google, turn on the living room lights."</span>**
+- Probeer: **<span lang="en">"Hey Google, set the thermostat to 20 degrees."</span>**
 
 </div>
 
@@ -467,7 +469,7 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 - Open **Envision AI** — het doet OCR, scènebeschrijving en objecten vinden
 - Richt de telefooncamera op een document of brief en laat het de volledige tekst voorlezen
 - Probeer scènebeschrijving: richt de camera op een kamer en tik op "Beschrijf"
-- Vergelijk met **"Hey Meta, read this"**: Envision is beter voor lange documenten; Meta AI is sneller voor korte stukken
+- Vergelijk met **<span lang="en">"Hey Meta, read this"</span>**: Envision is beter voor lange documenten; Meta AI is sneller voor korte stukken
 - Envision gebruikt de telefooncamera, niet de bril
 
 <label class="progress-check"><input type="checkbox" id="w4d2"> Klaar</label>
@@ -517,11 +519,11 @@ De laatste gids. Je leert de begeleidende apps, bouwt een complete dagroutine en
 
 Combineer alles in een echte dag:
 
-- **Ochtend:** "Hey Siri/Google, what's my day look like?" (weer + agenda)
+- **Ochtend:** <span lang="en">"Hey Siri/Google, what's my day look like?"</span> (weer + agenda)
 - **Naar buiten:** "Navigate to [winkel]" met je kaart-app. Gebruik Envision AI om borden te lezen onderweg
-- **In de winkel:** "Hey Meta, what is this?" voor producten. "Hey Meta, read this" voor labels
-- **Betalen:** contactloos betalen met je telefoon, of vraag "Hey Meta, read this" voor prijskaartjes
-- **Thuis:** "Hey Meta, what do you see?" om te controleren of de lichten aan zijn
+- **In de winkel:** <span lang="en">"Hey Meta, what is this?"</span> voor producten. <span lang="en">"Hey Meta, read this"</span> voor labels
+- **Betalen:** contactloos betalen met je telefoon, of vraag <span lang="en">"Hey Meta, read this"</span> voor prijskaartjes
+- **Thuis:** <span lang="en">"Hey Meta, what do you see?"</span> om te controleren of de lichten aan zijn
 
 <label class="progress-check"><input type="checkbox" id="w4d5"> Klaar</label>
 

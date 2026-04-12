@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: AI brillengids voor mensen met een visuele beperking
+description: "AiVues — een praktische gids voor Ray-Ban Meta AI brillen voor blinde en slechtziende mensen, met installatie, training en app-aanbevelingen"
 lang: nl
 order: 0
 permalink: /nl/

@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: For Opticians
+description: "Guide for opticians fitting Ray-Ban Meta smart glasses for visually impaired clients — fitting tips, demo script, and prescription options"
 lang: en
 order: 6
 permalink: /en/opticians/

@@ -18,6 +18,6 @@ Gids 3 is Je Telefoonassistent. Je leert Siri of Google Assistent voor navigatie
 
 Gids 4 is Apps en Zelfstandigheid. Je probeert Be My Eyes, Envision AI, Ally en ScribeMe. Je stelt een volledige dagelijkse routine samen en rondt af.
 
-Om met een specifiek onderwerp te beginnen, vertel me gewoon wat je wilt leren. Zeg: Hey Meta, teach me about reading. Of: Hey Meta, teach me the controls. Of: Hey Meta, teach me about apps.
+Om met een specifiek onderwerp te beginnen, vertel me gewoon wat je wilt leren. Zeg: <span lang="en">Hey Meta, teach me about reading</span>. Of: <span lang="en">Hey Meta, teach me the controls</span>. Of: <span lang="en">Hey Meta, teach me about apps</span>.
 
 Voor het volledige stap-voor-stap programma met vinkjes, vraag je helper om jonkeda.github.io/aivues/nl/training te bezoeken.

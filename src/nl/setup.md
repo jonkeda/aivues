@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Installatiehandleiding
+description: "Stap-voor-stap installatiehandleiding voor Ray-Ban Meta AI brillen — koppelen, toegankelijkheidsinstellingen en essentiële apps"
 lang: nl
 order: 1
 permalink: /nl/instellen/
@@ -38,7 +39,7 @@ Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartk
 - Leg de bril in de case en sluit USB-C aan — eerste keer opladen duurt ongeveer een uur
 - De LED wordt groen als de bril vol is
 - Batterij gaat 4–6 uur mee bij actief gebruik; de case biedt circa 8 extra ladingen
-- Batterij controleren: zeg **"Hey Meta, battery"**
+- Batterij controleren: zeg **<span lang="en">"Hey Meta, battery"</span>**
 
 **Pasvorm en comfort:**
 
@@ -119,7 +120,7 @@ Als de gebruiker een cochleair implantaat of soortgelijk hoorapparaat draagt, ka
    - Sommige hoorapparaten hebben een iOS-app waarmee je een standaarduitvoer kan instellen — controleer je Cochleair-app
 
 4. **Test het:**
-   - Zeg "Hey Meta, what time is it?" — je zou het antwoord in je hoorapparaat moeten horen
+   - Zeg <span lang="en">"Hey Meta, what time is it?"</span> — je zou het antwoord in je hoorapparaat moeten horen
    - Speel een nummer af via Spotify — zou via het geselecteerde apparaat moeten spelen
    - Bel een vriend — zou via het hoorapparaat moeten bellen
 
@@ -149,7 +150,7 @@ Als de gebruiker een cochleair implantaat of soortgelijk hoorapparaat draagt, ka
    - Sommige Cochleair Android-apps hebben een "Meta AI-audio routeren" optie — controleer je Cochleair-app-instellingen
 
 4. **Test het:**
-   - Zeg "Hey Google, what time is it?" — je zou het antwoord in je hoorapparaat moeten horen
+   - Zeg <span lang="en">"Hey Google, what time is it?"</span> — je zou het antwoord in je hoorapparaat moeten horen
    - Speel een nummer af via Spotify — zou via het geselecteerde apparaat moeten spelen
    - Bel een vriend — zou via het hoorapparaat moeten bellen
 
@@ -188,7 +189,7 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 - Instellingen → Toegankelijkheid → Gesproken inhoud → Spreek selectie → **AAN**
 - Spreek scherm → **AAN** (veeg met twee vingers omlaag om het hele scherm voor te laten lezen)
 
-**Snelle test:** Zeg **"Hey Siri, what time is it?"** — je moet het antwoord door de bril horen.
+**Snelle test:** Zeg **<span lang="en">"Hey Siri, what time is it?"</span>** — je moet het antwoord door de bril horen.
 
 </div>
 
@@ -217,7 +218,7 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 - Instellingen → Toegankelijkheid → Selecteren en voorlezen → **AAN**
 - Richt de camera op tekst en tik op de afspeelknop
 
-**Snelle test:** Zeg **"Hey Google, what time is it?"** — je moet het antwoord door de bril horen.
+**Snelle test:** Zeg **<span lang="en">"Hey Google, what time is it?"</span>** — je moet het antwoord door de bril horen.
 
 </div>
 
@@ -239,6 +240,6 @@ Installeer deze zeven apps voordat je begint met training. Elke app voegt iets t
 
 ## Testen {#testen}
 
-Zet de bril op en zeg: **"Hey Meta, what do you see?"**
+Zet de bril op en zeg: **<span lang="en">"Hey Meta, what do you see?"</span>**
 
 Als Meta AI beschrijft wat er voor je is, is de installatie compleet. Ga verder met [Training](/nl/training/).

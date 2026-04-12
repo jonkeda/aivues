@@ -1,14 +1,13 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Hulp & bronnen
+description: "Veelgestelde vragen, probleemoplossing en hulpbronnen voor Ray-Ban Meta AI brillen — oplossingen en links naar hulporganisaties"
 lang: nl
 order: 7
 permalink: /nl/hulp/
 sidebar:
   - id: faq
     label: Veelgestelde vragen
-  - id: ai-vragen
-    label: Vraag AI
   - id: organisaties
     label: Organisaties
   - id: youtube
@@ -231,16 +230,6 @@ Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met sup
 
 ---
 
-## Vraag AI {#ai-vragen}
-
-*AI-chat komt in een toekomstige update.* Voorlopig kun je ChatGPT vragen stellen over Ray-Ban Meta brillen:
-
-<p>
-  <a href="https://chat.openai.com/?q=Ik+heb+Ray-Ban+Meta+AI+brillen+en+ik+ben+visueel+beperkt.+Help+me+met:" class="routing-links">Stel je vraag aan ChatGPT</a>
-</p>
-
----
-
 ## Organisaties & gemeenschappen {#organisaties}
 
 Deze organisaties bieden revalidatie, ondersteuning en belangenbehartiging voor visueel beperkte mensen.
@@ -282,3 +271,20 @@ AiVues is gemaakt om visueel beperkte mensen een duidelijke, gerichte gids te ge
 - Inhoud: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **Broncode:** [GitHub](https://github.com/jonkeda/aivues)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Werken ze in de regen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja. Ray-Ban Meta zijn IPX4 geclassificeerd — ze zijn bestand tegen spatwater en lichte regen. Niet onderdompelen."}},
+    {"@type": "Question", "name": "Hoe lang gaat de batterij mee?", "acceptedAnswer": {"@type": "Answer", "text": "4–6 uur actief gebruik. De oplaadcase geeft ongeveer 8 extra volledige ladingen."}},
+    {"@type": "Question", "name": "Werken ze in het Nederlands?", "acceptedAnswer": {"@type": "Answer", "text": "Gedeeltelijk. Meta AI antwoordt in het Nederlands als je in het Nederlands vraagt, maar de herkenningskwaliteit is beter in het Engels."}},
+    {"@type": "Question", "name": "Kunnen ze een witte stok of geleidehond vervangen?", "acceptedAnswer": {"@type": "Answer", "text": "Nee. AI brillen helpen je omgeving te zien en begrijpen, maar detecteren geen obstakels op de grond en begeleiden je niet fysiek."}},
+    {"@type": "Question", "name": "Heb ik een Meta / Facebook account nodig?", "acceptedAnswer": {"@type": "Answer", "text": "Ja. Een Meta-account is vereist. Je kunt er een aanmaken zonder Facebook of Instagram te gebruiken."}},
+    {"@type": "Question", "name": "Kan ik ze over mijn eigen bril dragen?", "acceptedAnswer": {"@type": "Answer", "text": "Niet direct. Ray-Ban Meta is een compleet montuur. Glazen op sterkte zijn beschikbaar via compatibele opticiens."}},
+    {"@type": "Question", "name": "Werkt Meta AI offline?", "acceptedAnswer": {"@type": "Answer", "text": "Nee. Meta AI vereist een internetverbinding via je telefoon. Zonder internet werken spraakcommando's, muziek en bellen nog wel."}},
+    {"@type": "Question", "name": "Kan ik ze gebruiken met een cochleair implantaat?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, maar de brillenpoten en de processor zitten op dezelfde plek achter het oor. Test de fysieke pasvorm voor aankoop."}}
+  ]
+}
+</script>

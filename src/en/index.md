@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Smart Glasses Guide for Visually Impaired People
+description: "AiVues — a practical guide to Ray-Ban Meta smart glasses for blind and visually impaired people, with setup, training, and app recommendations"
 lang: en
 order: 0
 permalink: /en/

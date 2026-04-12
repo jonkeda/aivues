@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Is dit iets voor mij?
+description: "Ontdek of Ray-Ban Meta AI brillen geschikt zijn voor jou — wat ze wel en niet kunnen voor mensen met een visuele beperking"
 lang: nl
 order: 1
 permalink: /nl/bril/

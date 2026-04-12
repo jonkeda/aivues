@@ -18,6 +18,6 @@ De tweede is de opnameknop. Het is een kleine knop bovenop de rechter poot, naar
 
 Er is ook een privacy-lampje aan de buitenkant van het montuur, bij het scharnier aan de rechterkant. Het gaat aan wanneer de camera actief is. Je kunt het niet uitzetten. Het is ontworpen zodat mensen om je heen weten dat de camera in gebruik is.
 
-Om je batterij te controleren, zeg Hey Meta, battery. Een volle lading gaat ongeveer 4 tot 6 uur mee. De oplaadcase heeft ongeveer 8 extra volledige ladingen.
+Om je batterij te controleren, zeg <span lang="en">Hey Meta, battery</span>. Een volle lading gaat ongeveer 4 tot 6 uur mee. De oplaadcase heeft ongeveer 8 extra volledige ladingen.
 
-Wil je iets proberen? Zeg: Hey Meta, play some music. Oefen dan de tik-, dubbeltik- en veeggebaren.
+Wil je iets proberen? Zeg: <span lang="en">Hey Meta, play some music</span>. Oefen dan de tik-, dubbeltik- en veeggebaren.

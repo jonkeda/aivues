@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Essentiële apps
+description: "De 7 essentiële apps voor slechtziende gebruikers van Ray-Ban Meta AI brillen — van AI-zicht tot navigatie"
 lang: nl
 order: 4
 permalink: /nl/apps/

@@ -7,6 +7,7 @@
 ## Status After Review #1 Fixes
 
 The critical data consistency issues from Review #1 are resolved:
+
 - Training lessons updated for 7-app list ✅
 - App counts fixed everywhere ✅
 - site.json URL corrected ✅
@@ -30,6 +31,7 @@ The critical data consistency issues from Review #1 are resolved:
 **File:** `src/en/use.md` lines 118–130, `src/nl/use.md` lines 118–130
 
 The "Apps That Use the Glasses Camera" section says "four apps" and lists ScribeMe as "(beta) — real-time captions". This needs updating:
+
 - ScribeMe description should match apps.json: "AI scanner, live visual assistant and document reader" — not "real-time captions"
 - Check if the "four apps" count is still accurate
 - Check if Ally also works through the glasses camera (if so, count should be 5)
@@ -43,11 +45,13 @@ The "Apps That Use the Glasses Camera" section says "four apps" and lists Scribe
 **Files:** All pages in `src/en/*.md` and `src/nl/*.md` except `training.md`
 
 No `description:` in frontmatter. The template falls back to `site.tagline[lang]` ("Smart glasses guide for visually impaired people"), so every page gets the same meta description. This means:
+
 - Google shows the same snippet for all pages
 - OG descriptions are all identical when shared
 - Each page's unique purpose is invisible to search engines
 
 **Fix:** Add unique `description:` to each page's frontmatter. For example:
+
 - `setup.md`: "Step-by-step setup guide for Ray-Ban Meta smart glasses — pairing, accessibility, and essential apps"
 - `help.md`: "FAQ, troubleshooting, and resources for Ray-Ban Meta smart glasses users"
 - `apps.md`: "The 7 essential apps for visually impaired Ray-Ban Meta smart glasses users"
@@ -59,12 +63,14 @@ No `description:` in frontmatter. The template falls back to `site.tagline[lang]
 **File:** `src/_includes/layouts/base.njk`
 
 The site has EN and NL versions of every page but no:
+
 - `<link rel="canonical">` — tells search engines the preferred URL
 - `<link rel="alternate" hreflang="en">` / `<link rel="alternate" hreflang="nl">` — tells search engines about the translation
 
 Without these, Google may index both versions but not understand they're translations of each other, potentially showing the wrong language to users.
 
 **Fix:** Add to `base.njk` `<head>`:
+
 ```html
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url | translationUrl(navigation, lang) if lang == 'nl' else page.url }}">
@@ -88,6 +94,7 @@ The EN help page has JSON-LD FAQ structured data; the NL help page does not. Goo
 **Files:** `src/_includes/layouts/page.njk` and `src/_includes/layouts/page-with-sidebar.njk`
 
 Both are identical:
+
 ```
 ---
 layout: layouts/base.njk
@@ -106,11 +113,12 @@ The sidebar logic is in `base.njk` (via `{% if sidebar %}`), so `page-with-sideb
 **Files:** `src/en/help.md`, `src/nl/help.md`
 
 Both help pages link to ChatGPT with a prefilled query. Issues:
+
 - Says "AI chat is coming in a future update" — is this still the plan? If not, remove the promise
 - ChatGPT may give inaccurate info about specific Ray-Ban Meta features
 - The `<a>` tag has `class="routing-links"` but that CSS class styles `<ul>` list items, not standalone `<a>` tags — it renders as blue/white button text without the button shape
 
-**Fix:** Either remove the section, replace the link with the teach system ("Say 'Hey Meta, teach me' for help"), or fix the markup to render as a proper button.
+**Fix:** remove the section
 
 ---
 
@@ -149,6 +157,7 @@ The root landing page has inline styles but no favicon `<link>`. Also, the SVG f
 The teach index pages (`/en/teach/`, `/nl/teach/`) exist but are only accessible if you know the URL. They're not linked from any main page. The only way a user finds them is if they read the custom instruction documentation.
 
 **Fix:** Add a link to the teach index from the training page or help page. Something like:
+
 > "Your glasses can also teach you directly. Say 'Hey Meta, teach me' or browse [all topics](/en/teach/)."
 
 ---
@@ -174,6 +183,7 @@ The checkbox IDs in training.md still use `w1d1`, `w2d1`, etc. (week 1 day 1). T
 Throughout the NL pages, English voice commands appear inline (e.g., "Zeg: **Hey Meta, what do you see?**"). Screen readers reading a Dutch page will pronounce these English phrases with Dutch pronunciation.
 
 **Fix:** Wrap EN commands in `<span lang="en">` where they appear in NL pages. This tells screen readers to switch pronunciation. Example:
+
 ```markdown
 Zeg: **<span lang="en">"Hey Meta, what do you see?"</span>**
 ```
@@ -184,19 +194,19 @@ This is a significant accessibility improvement for the primary audience (screen
 
 ## Summary of Improvements
 
-| # | Issue | Severity | Effort |
-|---|-------|----------|--------|
-| 1 | Fix use.md camera apps section (ScribeMe description, count) | Moderate | 10 min |
-| 2 | Add meta descriptions to all 15 main pages | Moderate | 20 min |
-| 3 | Add canonical + hreflang tags | Moderate | 10 min |
-| 4 | Add FAQ schema to NL help page | Moderate | 10 min |
-| 5 | Fix ChatGPT link section or replace with teach | Minor | 5 min |
-| 6 | Add teach index links from training/help pages | Minor | 5 min |
-| 7 | Add favicon to root-index.njk | Minor | 2 min |
-| 8 | Add print CSS for details/summary | Minor | 5 min |
-| 9 | Add `lang="en"` to voice commands in NL pages | Minor | 30 min |
-| 10 | Remove unused video-link component | Minor | 2 min |
-| 11 | Remove unused phone-iphone class | Minor | 2 min |
+| #  | Issue                                                        | Severity | Effort |
+| -- | ------------------------------------------------------------ | -------- | ------ |
+| 1  | Fix use.md camera apps section (ScribeMe description, count) | Moderate | 10 min |
+| 2  | Add meta descriptions to all 15 main pages                   | Moderate | 20 min |
+| 3  | Add canonical + hreflang tags                                | Moderate | 10 min |
+| 4  | Add FAQ schema to NL help page                               | Moderate | 10 min |
+| 5  | Fix ChatGPT link section or replace with teach               | Minor    | 5 min  |
+| 6  | Add teach index links from training/help pages               | Minor    | 5 min  |
+| 7  | Add favicon to root-index.njk                                | Minor    | 2 min  |
+| 8  | Add print CSS for details/summary                            | Minor    | 5 min  |
+| 9  | Add `lang="en"` to voice commands in NL pages              | Minor    | 30 min |
+| 10 | Remove unused video-link component                           | Minor    | 2 min  |
+| 11 | Remove unused phone-iphone class                             | Minor    | 2 min  |
 
 **Total estimated effort: ~1.5 hours for all improvements**
 

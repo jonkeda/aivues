@@ -21,6 +21,8 @@ A step-by-step program to learn your smart glasses. 28 short lessons across 4 gu
 
 **Quick start:** Put on your glasses and say **"Hey Meta, I'm visually impaired. What can you do for me?"** — the AI will explain what it can do in its own words.
 
+**Voice topics:** Your glasses can also teach you directly. Say "Hey Meta, teach me" or browse [all voice topics](/en/teach/).
+
 {% set legend = "Choose your phone" %}{% include "components/phone-toggle.njk" %}
 
 ---

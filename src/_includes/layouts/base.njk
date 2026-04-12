@@ -15,6 +15,10 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ title }} — AiVues">
   <meta name="twitter:description" content="{{ description | default(site.tagline[lang]) }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {%- set otherUrl = page.url | translationUrl(navigation, lang) %}
+  <link rel="alternate" hreflang="{% if lang == 'en' %}en{% else %}nl{% endif %}" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" hreflang="{% if lang == 'en' %}nl{% else %}en{% endif %}" href="{{ site.url }}{{ otherUrl }}">
   <link rel="stylesheet" href="/css/style.css">
   <script defer src="/js/main.js"></script>
 </head>

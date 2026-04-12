@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Setup Guide
+description: "Step-by-step setup guide for Ray-Ban Meta smart glasses — pairing, accessibility settings, and essential apps"
 lang: en
 order: 1
 permalink: /en/setup/

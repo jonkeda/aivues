@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Essential Apps
+description: "The 7 essential apps for visually impaired Ray-Ban Meta smart glasses users — from AI vision to navigation"
 lang: en
 order: 4
 permalink: /en/apps/

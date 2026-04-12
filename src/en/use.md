@@ -1,6 +1,7 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Daily Use
+description: "Voice commands, tips, and app guides for daily use of Ray-Ban Meta smart glasses by visually impaired people"
 lang: en
 order: 3
 permalink: /en/use/
@@ -124,7 +125,7 @@ Most apps use the phone camera, but four apps can see through the glasses direct
 1. **Meta AI** (built-in) — "Hey Meta, what do you see?"
 2. **Be My Eyes** — live volunteer help + Be My AI
 3. **Envision AI** — text reading, scene description
-4. **ScribeMe** (beta) — real-time captions
+4. **ScribeMe** — AI scanner, live visual assistant and document reader
 
 All other apps use the phone camera instead.
 

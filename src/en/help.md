@@ -1,14 +1,13 @@
 ---
 layout: layouts/page-with-sidebar.njk
 title: Help & Resources
+description: "FAQ, troubleshooting, and resources for Ray-Ban Meta smart glasses — solutions for common problems and links to support organizations"
 lang: en
 order: 7
 permalink: /en/help/
 sidebar:
   - id: faq
     label: FAQ
-  - id: ask-ai
-    label: Ask AI
   - id: organizations
     label: Organizations
   - id: youtube
@@ -228,16 +227,6 @@ If something isn't working, try these fixes before contacting support.
 
 </div>
 </details>
-
----
-
-## Ask AI {#ask-ai}
-
-*AI chat is coming in a future update.* For now, you can ask ChatGPT about Ray-Ban Meta glasses:
-
-<p>
-  <a href="https://chat.openai.com/?q=I+have+Ray-Ban+Meta+smart+glasses+and+I+am+visually+impaired.+Help+me+with:" class="routing-links">Ask ChatGPT about smart glasses</a>
-</p>
 
 ---
 
