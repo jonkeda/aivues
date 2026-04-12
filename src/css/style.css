@@ -483,6 +483,144 @@ details.faq-item summary strong {
   margin-top: auto;
 }
 
+/* --- Assessment Quiz --- */
+.assessment {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border);
+}
+
+.assessment h2 {
+  margin-top: 0;
+}
+
+.assessment-step[hidden],
+.assessment-result[hidden],
+.assessment-intro[hidden] {
+  display: none;
+}
+
+.assess-start {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: var(--font);
+  cursor: pointer;
+  min-height: 44px;
+  margin-top: 1rem;
+}
+
+.assess-start:hover {
+  background: var(--accent-hover);
+}
+
+.assess-progress {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.assess-progress .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--border);
+  display: inline-block;
+}
+
+.assess-progress .dot.filled {
+  background: var(--accent);
+}
+
+.assess-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 28rem;
+  margin-top: 1rem;
+}
+
+.assess-options button {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: var(--font);
+  cursor: pointer;
+  min-height: 44px;
+  text-align: center;
+}
+
+.assess-options button:hover {
+  background: var(--accent-hover);
+}
+
+.assess-options button.selected {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  background: var(--accent-hover);
+}
+
+.assess-back {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: var(--font);
+  padding: 0.5rem 0;
+  margin-top: 0.75rem;
+  min-height: 44px;
+  text-decoration: underline;
+}
+
+.assess-result h3 {
+  margin-top: 0;
+}
+
+.assess-result-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.assess-result ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.assess-result .assess-notes {
+  background: var(--card-bg);
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.assess-result .routing-links {
+  margin-top: 1.5rem;
+}
+
+.assess-restart {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: var(--font);
+  padding: 0.5rem 0;
+  margin-top: 1rem;
+  text-decoration: underline;
+  min-height: 44px;
+}
+
 /* --- Print --- */
 @media print {
   .site-header,
@@ -493,7 +631,8 @@ details.faq-item summary strong {
   .selector,
   .theme-toggle,
   .search-link,
-  .next-steps {
+  .next-steps,
+  .assessment {
     display: none !important;
   }
   body {
