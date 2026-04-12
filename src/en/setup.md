@@ -64,7 +64,7 @@ A small white light on the outside of the frame turns on whenever the camera is 
 
 Pairing takes about 15 minutes, most of which is a firmware update.
 
-1. Install the **Meta View** app from the App Store (iPhone) or Google Play (Android)
+1. Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
 2. Open it and sign in with a Meta account
 3. Follow the in-app pairing wizard — it finds the glasses automatically
 4. Accept the firmware update when prompted. **Keep the glasses in the case** during the update (5–10 minutes)
@@ -77,7 +77,7 @@ Pairing takes about 15 minutes, most of which is a firmware update.
 - Settings → Bluetooth → "Ray-Ban Meta" should say **Connected**
 - Music, VoiceOver, and Siri all play through the glasses speakers automatically
 - Test by playing a song — you should hear it through the glasses, not the phone
-- If audio comes from the phone, disconnect and reconnect Bluetooth or check the Meta View app
+- If audio comes from the phone, disconnect and reconnect Bluetooth or check the Meta AI app
 
 </div>
 
@@ -88,7 +88,7 @@ Pairing takes about 15 minutes, most of which is a firmware update.
 - Settings → Connected Devices → "Ray-Ban Meta" should say **Active**
 - Media audio and phone calls play through the glasses speakers
 - Test by playing a song — you should hear it through the glasses, not the phone
-- Grant notification access to the Meta View app when prompted
+- Grant notification access to the Meta AI app when prompted
 
 </div>
 
@@ -174,7 +174,7 @@ These settings let the phone talk to the user through the glasses. Configure the
 **Announce Notifications** reads incoming messages aloud through the glasses.
 
 - Settings → Accessibility → Siri → Announce Notifications → **ON**
-- Enable for: WhatsApp, Phone, Messages, Calendar, Meta View
+- Enable for: WhatsApp, Phone, Messages, Calendar, Meta AI
 - Disable for: social media, marketing apps, games
 
 **Siri** lets you control the phone by voice.
@@ -203,7 +203,7 @@ These settings let the phone talk to the user through the glasses. Configure the
 **Notification reading** announces incoming messages through the glasses.
 
 - Settings → Accessibility → TalkBack → Settings → Read notifications aloud
-- Enable for: WhatsApp, Phone, Messages, Meta View
+- Enable for: WhatsApp, Phone, Messages, Meta AI
 - Disable for: social media, marketing apps
 
 **Google Assistant** lets you control the phone by voice.
@@ -227,7 +227,7 @@ These settings let the phone talk to the user through the glasses. Configure the
 
 Install these seven apps before you start training. Each one adds something the glasses alone can't do. See the [full apps page](/en/apps/) for details.
 
-1. **Meta View** — glasses management (required)
+1. **Meta AI** — glasses management (required)
 2. **Be My Eyes** — volunteer + AI vision help
 3. **WhatsApp** — messaging with Meta AI
 4. **Envision AI** — OCR, scene description and object finding

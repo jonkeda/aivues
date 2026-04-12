@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "Meta View",
+      "name": "Meta AI",
       "description": { "en": "Glasses management — required", "nl": "Brillenbeheer — vereist" },
       "platform": "both",
       "price": "free",

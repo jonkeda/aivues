@@ -10,7 +10,7 @@ description: De 7 essentiële apps voor Ray-Ban Meta smart glasses gebruikers
 
 Er zijn zeven apps die de bril nuttiger maken. Je helper kan ze installeren.
 
-Meta View is de begeleidende app voor de bril. Je hebt hem nodig voor koppelen en instellingen. Het is verplicht.
+Meta AI is de begeleidende app voor de bril. Je hebt hem nodig voor koppelen en instellingen. Het is verplicht.
 
 Be My Eyes verbindt je met een vrijwilliger die kan meekijken via je brillencamera. Gebruik het als de AI je vraag niet kan beantwoorden. Een echt persoon helpt je.
 

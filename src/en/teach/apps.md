@@ -10,7 +10,7 @@ description: The 7 essential apps for Ray-Ban Meta smart glasses users
 
 There are seven apps that make the glasses more useful. Your helper can install them.
 
-Meta View is the companion app for the glasses. You need it for pairing and settings. It is required.
+Meta AI is the companion app for the glasses. You need it for pairing and settings. It is required.
 
 Be My Eyes connects you with a volunteer who can see through your glasses camera. Use it when the AI can't answer your question. A real person helps you.
 

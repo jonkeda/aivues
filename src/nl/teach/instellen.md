@@ -12,7 +12,7 @@ Het instellen duurt ongeveer 30 minuten en moet samen met een helper gedaan word
 
 Eerst, laad de bril op. Doe de bril in de case, sluit de USB-C kabel aan en wacht tot de LED continu groen brandt. Ongeveer een uur voor de eerste keer opladen.
 
-Twee, koppel met je telefoon. Installeer de Meta View app vanuit de App Store op iPhone of Google Play op Android. Open de app, log in met een Meta account en volg de koppelinstructies. De app vindt de bril automatisch. Accepteer de firmware-update. Houd de bril in de case tijdens de update, dit duurt ongeveer 10 minuten.
+Twee, koppel met je telefoon. Installeer de Meta AI app vanuit de App Store op iPhone of Google Play op Android. Open de app, log in met een Meta account en volg de koppelinstructies. De app vindt de bril automatisch. Accepteer de firmware-update. Houd de bril in de case tijdens de update, dit duurt ongeveer 10 minuten.
 
 Drie, test de verbinding. Speel muziek af op je telefoon. Je zou het moeten horen via de bril, niet via de telefoonspeaker. Zo niet, controleer de Bluetooth-instellingen.
 

@@ -53,7 +53,7 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 
 *After this lesson: your glasses are connected to your phone and playing audio.*
 
-- Install the **Meta View** app from the App Store (iPhone) or Google Play (Android)
+- Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
 - Open the app, sign in with a Meta account, and follow the pairing wizard
 - When prompted, let the firmware update complete — this takes 5–10 minutes. Keep the glasses in the case
 - Test: play a song on your phone. You should hear it through the glasses, not the phone speaker

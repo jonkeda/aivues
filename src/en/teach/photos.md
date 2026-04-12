@@ -14,8 +14,8 @@ You can also use voice. Say Hey Meta, take a photo. Or Hey Meta, take a video.
 
 When the camera is active, a small white privacy LED on the outside of the frame turns on. This lets people around you know the camera is in use.
 
-Photos and videos are saved in the Meta View app on your phone. You can share them from there.
+Photos and videos are saved in the Meta AI app on your phone. You can share them from there.
 
 Tip: the camera faces wherever your head faces. Turn your head toward what you want to capture. The camera is in the front of the frame, centered between the lenses.
 
-Want to try? Say: Hey Meta, take a photo. Then check the Meta View app to see the result.
+Want to try? Say: Hey Meta, take a photo. Then check the Meta AI app to see the result.

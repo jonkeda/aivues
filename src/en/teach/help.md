@@ -16,7 +16,7 @@ If AI descriptions are poor, try better lighting. Get closer to what you want th
 
 If the glasses won't pair, put them in the case, close it, wait 10 seconds, take them out. Try again. If still stuck, reset the glasses by holding the button for 15 seconds until the LED flashes.
 
-If the firmware update fails, make sure your phone is connected to Wi-Fi. Keep the glasses in the case during the update. Try again from the Meta View app.
+If the firmware update fails, make sure your phone is connected to Wi-Fi. Keep the glasses in the case during the update. Try again from the Meta AI app.
 
 Battery draining fast? Heavy AI use and Bluetooth streaming drain the battery faster. Charge during lunch. The case gives about 8 extra full charges.
 

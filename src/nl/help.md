@@ -155,7 +155,7 @@ Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met sup
 1. Controleer of je telefoon internetverbinding heeft
 2. Controleer of Bluetooth is verbonden (LED aan de binnenkant van de bril)
 3. Herstart de bril: houd de aan/uit-knop 5 seconden ingedrukt
-4. Open de Meta View app en controleer op firmware-updates
+4. Open de Meta AI app en controleer op firmware-updates
 
 </div>
 </details>
@@ -166,7 +166,7 @@ Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met sup
 
 1. Zorg dat Bluetooth aan staat
 2. Leg de bril in de case, sluit hem, wacht 10 seconden, haal hem eruit
-3. Tik in de Meta View app op "Nieuwe bril instellen"
+3. Tik in de Meta AI app op "Nieuwe bril instellen"
 4. Lukt het nog steeds niet? Reset de bril: houd de knop 15 seconden ingedrukt tot de LED knippert
 
 </div>
@@ -190,7 +190,7 @@ Als iets niet werkt, probeer deze oplossingen voordat je contact opneemt met sup
 
 - Schakel "Hey Meta" wake word uit als je geen AI-functies gebruikt
 - Bewaar de bril in de case als je hem niet draagt
-- Controleer op een firmware-update in de Meta View app
+- Controleer op een firmware-update in de Meta AI app
 - Volledig opladen duurt circa 1 uur
 
 </div>

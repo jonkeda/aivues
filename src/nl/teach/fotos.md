@@ -14,8 +14,8 @@ Je kunt ook spraak gebruiken. Zeg Hey Meta, take a photo. Of Hey Meta, take a vi
 
 Wanneer de camera actief is, gaat er een klein wit privacy-lampje aan de buitenkant van het montuur aan. Dit laat mensen om je heen weten dat de camera in gebruik is.
 
-Foto's en video's worden opgeslagen in de Meta View app op je telefoon. Je kunt ze van daaruit delen.
+Foto's en video's worden opgeslagen in de Meta AI app op je telefoon. Je kunt ze van daaruit delen.
 
 Tip: de camera kijkt waar je hoofd naartoe kijkt. Draai je hoofd naar wat je wilt vastleggen. De camera zit vooraan in het montuur, gecentreerd tussen de glazen.
 
-Wil je proberen? Zeg: Hey Meta, take a photo. Controleer dan de Meta View app om het resultaat te zien.
+Wil je proberen? Zeg: Hey Meta, take a photo. Controleer dan de Meta AI app om het resultaat te zien.

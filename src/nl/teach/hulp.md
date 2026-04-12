@@ -16,7 +16,7 @@ Als AI-beschrijvingen slecht zijn, probeer beter licht. Kom dichter bij wat je d
 
 Als de bril niet koppelt, doe hem in de case, sluit de case, wacht 10 seconden, haal hem eruit. Probeer opnieuw. Als het nog steeds niet lukt, reset de bril door de knop 15 seconden ingedrukt te houden tot de LED knippert.
 
-Als de firmware-update mislukt, zorg dat je telefoon verbonden is met wifi. Houd de bril in de case tijdens de update. Probeer opnieuw vanuit de Meta View app.
+Als de firmware-update mislukt, zorg dat je telefoon verbonden is met wifi. Houd de bril in de case tijdens de update. Probeer opnieuw vanuit de Meta AI app.
 
 Batterij gaat snel leeg? Veel AI-gebruik en Bluetooth-streaming verbruiken de batterij sneller. Laad op tijdens de lunch. De case geeft ongeveer 8 extra volledige ladingen.
 

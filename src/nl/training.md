@@ -53,7 +53,7 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 
 *Na deze les: je bril is verbonden met je telefoon en speelt geluid af.*
 
-- Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android)
+- Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
 - Open de app, log in met een Meta-account en volg de koppelwizard
 - Laat de firmware-update voltooien wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. Houd de bril in de case
 - Test: speel een nummer af op je telefoon. Je zou het door de bril moeten horen, niet via de telefoonluidspreker

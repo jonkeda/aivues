@@ -155,7 +155,7 @@ If something isn't working, try these fixes before contacting support.
 1. Check that your phone has an internet connection
 2. Make sure Bluetooth is connected (LED on the inside of the glasses)
 3. Restart the glasses: hold the power button for 5 seconds
-4. Open the Meta View app and check for firmware updates
+4. Open the Meta AI app and check for firmware updates
 
 </div>
 </details>
@@ -166,7 +166,7 @@ If something isn't working, try these fixes before contacting support.
 
 1. Make sure Bluetooth is on
 2. Put glasses in the case, close it, wait 10 seconds, take them out
-3. In the Meta View app, tap "Set up new glasses"
+3. In the Meta AI app, tap "Set up new glasses"
 4. If still stuck, reset the glasses: hold button for 15 seconds until LED flashes
 
 </div>
@@ -190,7 +190,7 @@ If something isn't working, try these fixes before contacting support.
 
 - Turn off "Hey Meta" wake word when not using AI features
 - Keep glasses in the case when not wearing them
-- Check for a firmware update in the Meta View app
+- Check for a firmware update in the Meta AI app
 - A full charge takes about 1 hour
 
 </div>

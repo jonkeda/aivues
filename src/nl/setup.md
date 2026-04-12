@@ -64,7 +64,7 @@ Een klein wit lampje aan de buitenkant van het montuur gaat branden zodra de cam
 
 Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-update is.
 
-1. Installeer de **Meta View** app uit de App Store (iPhone) of Google Play (Android)
+1. Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
 2. Open de app en log in met een Meta-account
 3. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
 4. Accepteer de firmware-update wanneer gevraagd. **Houd de bril in de case** tijdens de update (5–10 minuten)
@@ -77,7 +77,7 @@ Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-updat
 - Instellingen → Bluetooth → "Ray-Ban Meta" moet **Verbonden** tonen
 - Muziek, VoiceOver en Siri spelen automatisch af via de brillenspeakers
 - Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
-- Als audio via de telefoon komt, verbreek en herverbind Bluetooth of controleer de Meta View app
+- Als audio via de telefoon komt, verbreek en herverbind Bluetooth of controleer de Meta AI app
 
 </div>
 
@@ -88,7 +88,7 @@ Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-updat
 - Instellingen → Verbonden apparaten → "Ray-Ban Meta" moet **Actief** tonen
 - Media-audio en telefoongesprekken spelen af via de brillenspeakers
 - Test door een nummer af te spelen — je moet het door de bril horen, niet via de telefoon
-- Geef meldingstoegang aan de Meta View app wanneer gevraagd
+- Geef meldingstoegang aan de Meta AI app wanneer gevraagd
 
 </div>
 
@@ -174,7 +174,7 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 **Meldingen aankondigen** leest inkomende berichten voor via de bril.
 
 - Instellingen → Toegankelijkheid → Siri → Meldingen aankondigen → **AAN**
-- Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta View
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Agenda, Meta AI
 - Uitschakelen voor: sociale media, marketing-apps, games
 
 **Siri** laat je de telefoon bedienen met je stem.
@@ -203,7 +203,7 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 **Meldingen voorlezen** kondigt inkomende berichten aan via de bril.
 
 - Instellingen → Toegankelijkheid → TalkBack → Instellingen → Meldingen hardop voorlezen
-- Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta View
+- Inschakelen voor: WhatsApp, Telefoon, Berichten, Meta AI
 - Uitschakelen voor: sociale media, marketing-apps
 
 **Google Assistent** laat je de telefoon bedienen met je stem.
@@ -227,7 +227,7 @@ Deze instellingen zorgen dat de telefoon via de bril met de gebruiker praat. Ste
 
 Installeer deze zeven apps voordat je begint met training. Elke app voegt iets toe wat de bril alleen niet kan. Zie de [apps-pagina](/nl/apps/) voor details.
 
-1. **Meta View** — brillenbeheer (vereist)
+1. **Meta AI** — brillenbeheer (vereist)
 2. **Be My Eyes** — vrijwilliger + AI visuele hulp
 3. **WhatsApp** — berichten met Meta AI
 4. **Envision AI** — OCR, scènebeschrijving en objecten vinden
