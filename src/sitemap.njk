@@ -1,0 +1,24 @@
+---
+layout: false
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {%- for page in collections.all %}
+  {%- if page.url and page.url != "/404.html" and page.data.robots != "noindex" and not page.url.endsWith("robots.txt") and not page.url.endsWith("sitemap.xml") %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    {%- if page.date %}
+    <lastmod>{{ page.date.toISOString().slice(0, 10) }}</lastmod>
+    {%- endif %}
+    {%- if page.data.lang %}
+    {%- set otherUrl = page.url | translationUrl(navigation, page.data.lang) %}
+    <xhtml:link rel="alternate" hreflang="{{ page.data.lang }}" href="{{ site.url }}{{ page.url }}" />
+    <xhtml:link rel="alternate" hreflang="{% if page.data.lang == 'en' %}nl{% else %}en{% endif %}" href="{{ site.url }}{{ otherUrl }}" />
+    {%- endif %}
+  </url>
+  {%- endif %}
+  {%- endfor %}
+</urlset>

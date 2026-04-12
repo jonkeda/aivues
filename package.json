@@ -4,7 +4,7 @@
   "description": "Smart glasses guide for visually impaired people",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve --port=3000",
-    "build": "npx @11ty/eleventy"
+    "build": "cross-env NODE_ENV=production npx @11ty/eleventy"
   },
   "keywords": [
     "accessibility",
@@ -16,6 +16,9 @@
   "type": "commonjs",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.5",
-    "markdown-it-attrs": "^4.3.1"
+    "clean-css": "^5.3.3",
+    "cross-env": "^10.1.0",
+    "markdown-it-attrs": "^4.3.1",
+    "terser": "^5.46.1"
   }
 }

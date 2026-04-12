@@ -12,7 +12,8 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:locale" content="{% if lang == 'nl' %}nl_NL{% else %}en_US{% endif %}">
   <meta property="og:site_name" content="AiVues">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{{ site.url }}/og-image.svg">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title }} — AiVues">
   <meta name="twitter:description" content="{{ description | default(site.tagline[lang]) }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -21,6 +22,39 @@
   <link rel="alternate" hreflang="{% if lang == 'en' %}nl{% else %}en{% endif %}" href="{{ site.url }}{{ otherUrl }}">
   <link rel="stylesheet" href="/css/style.css">
   <script defer src="/js/main.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "AiVues",
+        "url": "{{ site.url }}/",
+        "description": "{{ site.tagline[lang] }}",
+        "inLanguage": ["en", "nl"]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{ site.url }}/{{ lang }}/"
+          }
+          {%- if page.url != "/" + lang + "/" %},
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ title }}",
+            "item": "{{ site.url }}{{ page.url }}"
+          }
+          {%- endif %}
+        ]
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#main">
@@ -35,12 +69,14 @@
       </button>
       <ul class="nav-links" role="list">
         {%- for item in navigation.items %}
+        {%- if not item.footer %}
         <li>
           <a href="{{ item['url_' + lang] }}"
              {%- if page.url == item['url_' + lang] %} aria-current="page"{% endif %}>
             {{ item[lang] }}
           </a>
         </li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </nav>
@@ -86,9 +122,11 @@
     <p>
       <a href="/{{ lang }}/">AiVues</a> ·
       {% if lang == "nl" %}
+        <a href="/nl/toegankelijkheid/">Toegankelijkheid</a> ·
         Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·
         Inhoud: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
       {% else %}
+        <a href="/en/accessibility/">Accessibility</a> ·
         Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·
         Content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
       {% endif %}

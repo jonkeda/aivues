@@ -1,5 +1,10 @@
 // Dark mode toggle
 (function () {
+  // Register service worker for offline access
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/aivues/sw.js').catch(function () {});
+  }
+
   // Mobile nav toggle
   var navToggle = document.querySelector('.nav-toggle');
   var navLinks = document.querySelector('.nav-links');

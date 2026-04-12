@@ -11,17 +11,53 @@ eleventyExcludeFromCollections: true
   <title>Page Not Found — AiVues</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/css/style.css">
+  <script defer src="/js/main.js"></script>
 </head>
 <body>
-  <div class="page-layout" style="text-align: center; padding-top: 4rem;">
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <nav aria-label="Main navigation">
+      <span class="site-name"><a href="/en/">AiVues</a></span>
+      <button class="nav-toggle" aria-expanded="false" aria-label="Open menu" type="button">
+        <span aria-hidden="true">☰</span>
+      </button>
+      <ul class="nav-links" role="list">
+        {%- for item in navigation.items %}
+        {%- if not item.footer %}
+        <li><a href="{{ item.url_en }}">{{ item.en }}</a></li>
+        {%- endif %}
+        {%- endfor %}
+      </ul>
+    </nav>
+    <div class="controls">
+      <div class="selector lang-selector" role="group" aria-label="Language">
+        <a href="/en/" class="selector-btn is-active">English</a>
+        <a href="/nl/" class="selector-btn" lang="nl">Nederlands</a>
+      </div>
+      <button class="theme-toggle" aria-label="Toggle dark mode" type="button">
+        <span class="theme-icon" aria-hidden="true">☀️</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="page-layout">
     <main id="main">
       <h1>Page Not Found</h1>
       <p>The page you're looking for doesn't exist or has moved.</p>
-      <ul class="routing-links" style="margin: 2rem auto;">
+      <ul class="routing-links" style="margin: 2rem 0;">
         <li><a href="/en/">English — Home</a></li>
         <li><a href="/nl/">Nederlands — Home</a></li>
       </ul>
     </main>
   </div>
+
+  <footer class="site-footer">
+    <p>
+      <a href="/en/">AiVues</a> ·
+      Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·
+      Content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    </p>
+  </footer>
 </body>
 </html>

@@ -1,4 +1,6 @@
 module.exports = function (eleventyConfig) {
+  const isProduction = process.env.NODE_ENV === "production";
+
   // Change Nunjucks comment delimiters so {#id} in markdown isn't treated as a comment
   eleventyConfig.setNunjucksEnvironmentOptions({
     tags: {
@@ -36,6 +38,54 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/favicon.svg");
+  eleventyConfig.addPassthroughCopy("src/og-image.svg");
+  eleventyConfig.addPassthroughCopy({ "src/sw.js": "sw.js" });
+
+  // Minify CSS and JS in production
+  if (isProduction) {
+    const CleanCSS = require("clean-css");
+    const { minify: terserMinify } = require("terser");
+    const fs = require("fs");
+    const path = require("path");
+
+    eleventyConfig.on("eleventy.after", async function () {
+      const outDir = "_site";
+
+      // Minify CSS files
+      const cssDir = path.join(outDir, "css");
+      if (fs.existsSync(cssDir)) {
+        for (const file of fs.readdirSync(cssDir)) {
+          if (file.endsWith(".css")) {
+            const filePath = path.join(cssDir, file);
+            const input = fs.readFileSync(filePath, "utf8");
+            const output = new CleanCSS({}).minify(input);
+            if (output.styles) fs.writeFileSync(filePath, output.styles);
+          }
+        }
+      }
+
+      // Minify JS files
+      const jsDir = path.join(outDir, "js");
+      if (fs.existsSync(jsDir)) {
+        for (const file of fs.readdirSync(jsDir)) {
+          if (file.endsWith(".js")) {
+            const filePath = path.join(jsDir, file);
+            const input = fs.readFileSync(filePath, "utf8");
+            const output = await terserMinify(input);
+            if (output.code) fs.writeFileSync(filePath, output.code);
+          }
+        }
+      }
+
+      // Minify service worker
+      const swPath = path.join(outDir, "sw.js");
+      if (fs.existsSync(swPath)) {
+        const input = fs.readFileSync(swPath, "utf8");
+        const output = await terserMinify(input);
+        if (output.code) fs.writeFileSync(swPath, output.code);
+      }
+    });
+  }
 
   // Translation URL filter: look up the other language's URL from navigation.json
   eleventyConfig.addFilter("translationUrl", function (pageUrl, navigation, lang) {
