@@ -6,6 +6,8 @@ lang: en
 order: 1
 permalink: /en/setup/
 sidebar:
+  - id: requirements
+    label: What You Need
   - id: hardware
     label: Hardware Setup
   - id: pair
@@ -28,16 +30,37 @@ Not sure if smart glasses are right for you? Read [Is This For Me?](/en/glasses/
 
 ---
 
+## What You Need {#requirements}
+
+Before you start, make sure you have:
+
+- Ray-Ban Meta smart glasses (Gen 2)
+- Charging case (included in the box)
+- USB-C cable (**not included** — bring your own)
+- Smartphone: Android 10+ with location services, or iPhone with iOS 14.4+
+- Meta account (create one at [meta.com](https://www.meta.com) in advance to save time)
+- Wi-Fi network
+- About 30 minutes
+
+---
+
 ## Hardware Setup {#hardware}
 
-Open the box and you'll find the glasses, a charging case with USB-C cable, a quick start card, and a lens cloth. That's everything.
+Open the box and you'll find the glasses, a charging case, a quick start guide, lens instructions, and a cleaning cloth.
+
+**First-time setup:**
+
+- Remove the plastic tab from the charging case — it protects the battery during shipping
+- Turn the glasses on using the switch on the inside of the left temple, near the hinge
+- Place the glasses in the case and connect a USB-C cable — first charge takes about an hour
+- To take the glasses out of the case, grip them at the hinge (where the arm meets the frame) — avoids fingerprints on the lenses
 
 **Charging:**
 
-- Place the glasses in the case and connect USB-C — first charge takes about an hour
 - The LED turns solid green when full
-- Battery lasts 4–6 hours of active use; the case holds about 8 extra charges
+- Battery lasts up to 8 hours of active use; the case holds about 6 extra charges (48 hours total)
 - Check battery anytime: say **"Hey Meta, battery"**
+- Some features work without internet (photos, video, basic commands). AI vision and conversations need Wi-Fi or mobile data
 
 **Fit and comfort:**
 
@@ -53,21 +76,44 @@ Open the box and you'll find the glasses, a charging case with USB-C cable, a qu
 - Short press the top button = photo
 - Long press = video
 
-**About the privacy LED:**
+**About the LEDs:**
 
 A small white light on the outside of the frame turns on whenever the camera is active. It can't be disabled — this is intentional so people around the user know the camera is on. Make sure the user knows it's there so they can explain it to others.
+
+The notification LED on the right side of the frame changes color to show status:
+
+| LED | Meaning |
+|-----|---------|  
+| Solid green | Fully charged |
+| Blinking blue | Pairing mode |
+| Solid white | Camera / recording active |
+| Pulsing white | Processing a voice command |
+
+See the full LED guide in the Meta AI app: Devices → Learn and discover → Gestures and LEDs.
+
+**Power on / off:**
+
+- **Turn on:** flip the switch on the inside of the left temple toward the front of the frame
+- **Turn off:** flip the switch back, or place the glasses in the closed case — they sleep automatically
+- Glasses also sleep when folded and idle for about 15 seconds
 
 ---
 
 ## Pair with Phone {#pair}
 
-Pairing takes about 15 minutes, most of which is a firmware update.
+Pairing takes about 15 minutes, most of which is a firmware update. The glasses can only be linked to one Meta account at a time.
 
-1. Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
-2. Open it and sign in with a Meta account
-3. Follow the in-app pairing wizard — it finds the glasses automatically
-4. Accept the firmware update when prompted. **Keep the glasses in the case** during the update (5–10 minutes)
-5. After the update the glasses reconnect on their own
+1. Turn the glasses on and place them in the open case — when the LED blinks blue, they are ready to pair
+2. Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
+3. Open it and sign in with a Meta account
+4. Enable Bluetooth on your phone (Android: also enable Location in Settings → Location)
+5. Follow the in-app pairing wizard — it finds the glasses automatically
+6. Accept the firmware update when prompted. **Keep the glasses in the case** during the update (5–10 minutes)
+7. After the update the glasses reconnect on their own
+
+**Tip:** If the glasses don't appear in the app, hold the button on the back of the charging case for 5 seconds to force pairing mode.
+
+After pairing, explore the product tour in the Meta AI app: Devices → Learn and discover.
 
 <div class="iphone-only">
 
@@ -241,6 +287,8 @@ Install these seven apps before you start training. Each one adds something the 
 Put the glasses on and say: **"Hey Meta, what do you see?"**
 
 If Meta AI describes what's in front of you, setup is complete. Move on to [Training](/en/training/).
+
+**Tip:** Keep the glasses in their case near Wi-Fi regularly — firmware updates install automatically.
 
 <div class="next-steps" markdown="1">
 

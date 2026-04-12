@@ -29,18 +29,24 @@ Een stap-voor-stap programma om je AI bril te leren kennen. 28 korte lessen verd
 
 In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's. Aan het einde voer je gesprekken met Meta AI en bel je via de bril.
 
+**Instellen al gedaan?** [Ga naar Les 3](#) — je eerste AI-gesprek.
+
 <details>
 <summary>Les 1 — Uitpakken & opladen</summary>
 <div>
 
 *Na deze les: je bril is opgeladen, past goed en je weet waar de knoppen zitten.*
 
-- Open de doos. Erin vind je: bril, oplaadcase, USB-C kabel en een poetsdoekje
-- Leg de bril in de case en sluit de USB-C kabel aan. Wacht tot de LED groen brandt (circa 1 uur)
+- Open de doos. Erin vind je: bril, oplaadcase, snelstartgids, lensinstructies en een schoonmaakdoekje. **Let op:** er zit geen USB-C kabel bij — je hebt je eigen kabel nodig
+- Verwijder het plastic lipje uit de oplaadcase — dit beschermt de batterij tijdens verzending
+- Zet de bril aan met de schakelaar aan de binnenkant van de linker brillenpoot, bij het scharnier
+- Leg de bril in de case en sluit een USB-C kabel aan. Wacht tot de LED groen brandt (circa 1 uur)
+- Pak de bril uit de case door hem bij het scharnier vast te pakken (waar de poot aan het montuur zit) — zo voorkom je vingerafdrukken
 - Pas de bril. Stel de neuspads bij tot hij comfortabel zit
 - Zoek het touchpad op de rechterpoot — druk er nog niet op
 - Zoek de opnameknop bovenop de rechterpoot — die gebruiken we later
-- Let op het kleine witte lampje aan de binnenkant van het montuur bij het scharnier. Het gaat branden als de camera actief is
+- Let op het kleine witte lampje aan de buitenkant van het montuur — het gaat branden als de camera actief is
+- De meldings-LED aan de rechterkant verandert van kleur: groen = opgeladen, blauw knipperend = koppelmodus, wit = opname
 
 <label class="progress-check"><input type="checkbox" id="w1d1"> Klaar</label>
 
@@ -55,6 +61,8 @@ In deze gids pak je uit, laad je op, koppel je en spreek je je eerste commando's
 
 - Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
 - Open de app, log in met een Meta-account en volg de koppelwizard
+- Controleer dat de LED blauw knippert — dat betekent koppelmodus. Zo niet, houd de knop achterop de case 5 seconden ingedrukt
+- Android-gebruikers: zet Locatie aan via Instellingen → Locatie (vereist voor Bluetooth-koppeling)
 - Laat de firmware-update voltooien wanneer daarom gevraagd wordt — dit duurt 5–10 minuten. Houd de bril in de case
 - Test: speel een nummer af op je telefoon. Je zou het door de bril moeten horen, niet via de telefoonluidspreker
 - Geen geluid uit de bril? Controleer de Bluetooth-instellingen en verbind opnieuw

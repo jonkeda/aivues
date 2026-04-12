@@ -29,18 +29,24 @@ A step-by-step program to learn your smart glasses. 28 short lessons across 4 gu
 
 In this guide you unbox, charge, pair, and speak your first commands. By the end you'll be having conversations with Meta AI and making calls through the glasses.
 
+**Already completed setup?** [Skip to Lesson 3](#) — your first AI conversation.
+
 <details>
 <summary>Lesson 1 — Unbox & Charge</summary>
 <div>
 
 *After this lesson: your glasses are charged, fitted, and you know where the controls are.*
 
-- Open the box. Inside you'll find: glasses, charging case, USB-C cable, and a lens cloth
-- Place the glasses in the case and connect the USB-C cable. Wait for the LED to turn solid green (about 1 hour)
+- Open the box. Inside you'll find: glasses, charging case, quick start guide, lens instructions, and a cleaning cloth. **Note:** a USB-C cable is not included — you need your own
+- Remove the plastic tab from the charging case — it protects the battery during shipping
+- Turn the glasses on using the switch on the inside of the left temple, near the hinge
+- Place the glasses in the case and connect a USB-C cable. Wait for the LED to turn solid green (about 1 hour)
+- To take the glasses out, grip them at the hinge (where the arm meets the frame) — avoids fingerprints
 - Try the glasses on. Adjust the nose pads until they sit comfortably
 - Find the touchpad on the right temple — don't press it yet
 - Find the capture button on the top of the right temple — we'll use it later
-- Notice the small white LED on the inside of the frame near the hinge. It lights up when the camera is active
+- Notice the small white LED on the outside of the frame — it lights up when the camera is active
+- The notification LED on the right side changes color: green = charged, blue blinking = pairing mode, white = recording
 
 <label class="progress-check"><input type="checkbox" id="w1d1"> Done</label>
 
@@ -55,6 +61,8 @@ In this guide you unbox, charge, pair, and speak your first commands. By the end
 
 - Install the **Meta AI** app from the App Store (iPhone) or Google Play (Android)
 - Open the app, sign in with a Meta account, and follow the pairing wizard
+- Make sure the LED blinks blue — that means pairing mode. If not, hold the button on the back of the case for 5 seconds
+- Android users: enable Location in Settings → Location (required for Bluetooth pairing)
 - When prompted, let the firmware update complete — this takes 5–10 minutes. Keep the glasses in the case
 - Test: play a song on your phone. You should hear it through the glasses, not the phone speaker
 - If there's no sound from the glasses: check Bluetooth settings and reconnect

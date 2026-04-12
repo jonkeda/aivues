@@ -6,6 +6,8 @@ lang: nl
 order: 1
 permalink: /nl/instellen/
 sidebar:
+  - id: benodigdheden
+    label: Wat je nodig hebt
   - id: hardware
     label: Hardware instellen
   - id: koppelen
@@ -28,16 +30,37 @@ Niet zeker of een AI bril iets voor jou is? Lees [Is dit iets voor mij?](/nl/bri
 
 ---
 
+## Wat je nodig hebt {#benodigdheden}
+
+Zorg dat je het volgende bij de hand hebt:
+
+- Ray-Ban Meta smart glasses (Gen 2)
+- Oplaadcase (zit in de doos)
+- USB-C kabel (**niet meegeleverd** — neem je eigen kabel mee)
+- Smartphone: Android 10+ met locatievoorzieningen, of iPhone met iOS 14.4+
+- Meta-account (maak er vooraf een aan op [meta.com](https://www.meta.com) om tijd te besparen)
+- Wi-Fi netwerk
+- Ongeveer 30 minuten
+
+---
+
 ## Hardware instellen {#hardware}
 
-Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartkaart en een brilpoetsdoekje. Dat is alles.
+Open de doos en je vindt de bril, een oplaadcase, een snelstartgids, lensinstructies en een schoonmaakdoekje.
+
+**Eerste keer instellen:**
+
+- Verwijder het plastic lipje uit de oplaadcase — dit beschermt de batterij tijdens verzending
+- Zet de bril aan met de schakelaar aan de binnenkant van de linker brillenpoot, bij het scharnier
+- Leg de bril in de case en sluit een USB-C kabel aan — eerste keer opladen duurt ongeveer een uur
+- Pak de bril uit de case door hem bij het scharnier vast te pakken (waar de poot aan het montuur zit) — zo voorkom je vingerafdrukken op de glazen
 
 **Opladen:**
 
-- Leg de bril in de case en sluit USB-C aan — eerste keer opladen duurt ongeveer een uur
 - De LED wordt groen als de bril vol is
-- Batterij gaat 4–6 uur mee bij actief gebruik; de case biedt circa 8 extra ladingen
+- Batterij gaat tot 8 uur mee bij actief gebruik; de case biedt circa 6 extra ladingen (48 uur totaal)
 - Batterij controleren: zeg **<span lang="en">"Hey Meta, battery"</span>**
+- Sommige functies werken zonder internet (foto's, video, basale commando's). AI-zicht en gesprekken vereisen Wi-Fi of mobiele data
 
 **Pasvorm en comfort:**
 
@@ -53,21 +76,44 @@ Open de doos en je vindt de bril, een oplaadcase met USB-C kabel, een snelstartk
 - Kort indrukken bovenste knop = foto
 - Lang indrukken = video
 
-**Over de privacy-LED:**
+**Over de LEDs:**
 
 Een klein wit lampje aan de buitenkant van het montuur gaat branden zodra de camera actief is. Het kan niet uitgeschakeld worden — dit is opzettelijk zodat mensen in de buurt weten dat de camera aan staat. Zorg dat de gebruiker weet dat het lampje er is, zodat zij het aan anderen kunnen uitleggen.
+
+De meldings-LED aan de rechterkant van het montuur verandert van kleur om de status te tonen:
+
+| LED | Betekenis |
+|-----|---------|  
+| Groen (vast) | Volledig opgeladen |
+| Blauw (knipperend) | Koppelmodus |
+| Wit (vast) | Camera / opname actief |
+| Wit (pulserend) | Spraakcommando wordt verwerkt |
+
+Bekijk de volledige LED-gids in de Meta AI app: Apparaten → Leren en ontdekken → Gebaren en LEDs.
+
+**Aan- en uitzetten:**
+
+- **Aanzetten:** schuif de schakelaar aan de binnenkant van de linker brillenpoot naar de voorkant van het montuur
+- **Uitzetten:** schuif de schakelaar terug, of leg de bril in de gesloten case — ze gaan automatisch in slaapstand
+- De bril gaat ook in slaapstand als hij dichtgevouwen en circa 15 seconden niet gebruikt wordt
 
 ---
 
 ## Koppelen met telefoon {#koppelen}
 
-Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-update is.
+Koppelen duurt ongeveer 15 minuten, waarvan het grootste deel een firmware-update is. De bril kan slechts aan één Meta-account tegelijk gekoppeld zijn.
 
-1. Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
-2. Open de app en log in met een Meta-account
-3. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
-4. Accepteer de firmware-update wanneer gevraagd. **Houd de bril in de case** tijdens de update (5–10 minuten)
-5. Na de update verbindt de bril vanzelf opnieuw
+1. Zet de bril aan en leg hem in de open case — als de LED blauw knippert, is hij klaar om te koppelen
+2. Installeer de **Meta AI** app uit de App Store (iPhone) of Google Play (Android)
+3. Open de app en log in met een Meta-account
+4. Zet Bluetooth aan op je telefoon (Android: zet ook Locatie aan via Instellingen → Locatie)
+5. Volg de koppelwizard in de app — de bril wordt automatisch gevonden
+6. Accepteer de firmware-update wanneer gevraagd. **Houd de bril in de case** tijdens de update (5–10 minuten)
+7. Na de update verbindt de bril vanzelf opnieuw
+
+**Tip:** Verschijnt de bril niet in de app? Houd de knop achterop de oplaadcase 5 seconden ingedrukt om de koppelmodus te forceren.
+
+Verken na het koppelen de productrondleiding in de Meta AI app: Apparaten → Leren en ontdekken.
 
 <div class="iphone-only">
 
@@ -241,6 +287,8 @@ Installeer deze zeven apps voordat je begint met training. Elke app voegt iets t
 Zet de bril op en zeg: **<span lang="en">"Hey Meta, what do you see?"</span>**
 
 Als Meta AI beschrijft wat er voor je is, is de installatie compleet. Ga verder met [Training](/nl/training/).
+
+**Tip:** Leg de bril regelmatig in de case in de buurt van Wi-Fi — firmware-updates worden automatisch geïnstalleerd.
 
 <div class="next-steps" markdown="1">
 
