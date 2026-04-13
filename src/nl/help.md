@@ -273,9 +273,9 @@ Deze kanalen behandelen AI brillen vanuit het perspectief van visueel beperkten.
 
 ## Over deze site {#over}
 
-AiVues is gemaakt om visueel beperkte mensen een duidelijke, gerichte gids te geven voor het gebruik van AI brillen.
+AiViews is gemaakt om visueel beperkte mensen een duidelijke, gerichte gids te geven voor het gebruik van AI brillen.
 
-**Disclaimer:** Alle productnamen, handelsmerken en geregistreerde merken (waaronder Ray-Ban, Meta, Oakley, Apple, Google, Spotify en anderen) zijn eigendom van hun respectievelijke eigenaars. AiVues heeft geen enkele band met deze bedrijven. Deze site bevat geen commerciële links, sponsoring of reclame.
+**Disclaimer:** Alle productnamen, handelsmerken en geregistreerde merken (waaronder Ray-Ban, Meta, Oakley, Apple, Google, Spotify en anderen) zijn eigendom van hun respectievelijke eigenaars. AiViews heeft geen enkele band met deze bedrijven. Deze site bevat geen commerciële links, sponsoring of reclame.
 
 **Licentie:**
 - Code: [MIT](https://opensource.org/licenses/MIT)

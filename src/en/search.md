@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Search
-description: "Search the AiVues guide"
+description: "Search the AiViews guide"
 lang: en
 permalink: /en/search/
 ---

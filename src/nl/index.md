@@ -1,13 +1,13 @@
 ---
 layout: layouts/page.njk
 title: AI brillengids voor mensen met een visuele beperking
-description: "AiVues — een praktische gids voor Ray-Ban Meta AI brillen voor blinde en slechtziende mensen, met installatie, training en app-aanbevelingen"
+description: "AiViews — een praktische gids voor Ray-Ban Meta AI brillen voor blinde en slechtziende mensen, met installatie, training en app-aanbevelingen"
 lang: nl
 order: 0
 permalink: /nl/
 ---
 
-# AiVues — AI brillengids voor mensen met een visuele beperking
+# AiViews — AI brillengids voor mensen met een visuele beperking
 
 Slimme brillen met een ingebouwde AI-camera kunnen beschrijven wat er om je heen is, tekst voorlezen, objecten herkennen en meer — allemaal met je stem. Voorlopig richt deze site zich op Meta smart glasses (Ray-Ban en Oakley). De site helpt je om ze in te stellen en te leren gebruiken.
 

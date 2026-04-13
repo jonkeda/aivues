@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }} — AiVues</title>
+  <title>{{ title }} — AiViews</title>
   <meta name="description" content="{{ description | default(site.tagline[lang]) }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <meta property="og:title" content="{{ title }} — AiVues">
+  <meta property="og:title" content="{{ title }} — AiViews">
   <meta property="og:description" content="{{ description | default(site.tagline[lang]) }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:locale" content="{% if lang == 'nl' %}nl_NL{% else %}en_US{% endif %}">
-  <meta property="og:site_name" content="AiVues">
+  <meta property="og:site_name" content="AiViews">
   <meta property="og:image" content="{{ site.url }}/og-image.svg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ title }} — AiVues">
+  <meta name="twitter:title" content="{{ title }} — AiViews">
   <meta name="twitter:description" content="{{ description | default(site.tagline[lang]) }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   {%- set otherUrl = page.url | translationUrl(navigation, lang) %}
@@ -28,7 +28,7 @@
     "@graph": [
       {
         "@type": "WebSite",
-        "name": "AiVues",
+        "name": "AiViews",
         "url": "{{ site.url }}/",
         "description": "{{ site.tagline[lang] }}",
         "inLanguage": ["en", "nl"]
@@ -63,7 +63,7 @@
 
   <header class="site-header">
     <nav aria-label="{% if lang == 'nl' %}Hoofdnavigatie{% else %}Main navigation{% endif %}">
-      <span class="site-name"><a href="/{{ lang }}/">AiVues</a></span>
+      <span class="site-name"><a href="/{{ lang }}/">AiViews</a></span>
       <button class="nav-toggle" aria-expanded="false" aria-label="{% if lang == 'nl' %}Menu openen{% else %}Open menu{% endif %}" type="button">
         <span aria-hidden="true">☰</span>
       </button>
@@ -123,7 +123,7 @@
 
   <footer class="site-footer">
     <p>
-      <a href="/{{ lang }}/">AiVues</a> ·
+      <a href="/{{ lang }}/">AiViews</a> ·
       {% if lang == "nl" %}
         <a href="/nl/toegankelijkheid/">Toegankelijkheid</a> ·
         Code: <a href="https://opensource.org/licenses/MIT">MIT</a> ·

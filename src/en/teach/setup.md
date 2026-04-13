@@ -22,4 +22,4 @@ Fifth, install essential apps. Be My Eyes for volunteer help. WhatsApp for messa
 
 Sixth, test everything. Say Hey Meta, what do you see. If the AI describes what's in front of you, setup is complete.
 
-For the full step-by-step guide, ask your helper to visit jonkeda.github.io/aivues/en/setup.
+For the full step-by-step guide, ask your helper to visit aiviews.nl/en/setup.

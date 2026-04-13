@@ -20,4 +20,4 @@ If the firmware update fails, make sure your phone is connected to Wi-Fi. Keep t
 
 Battery draining fast? Heavy AI use and Bluetooth streaming drain the battery faster. Charge during lunch. The case gives about 8 extra full charges.
 
-For more help, ask your helper to visit jonkeda.github.io/aivues/en/help.
+For more help, ask your helper to visit aiviews.nl/en/help.

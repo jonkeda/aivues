@@ -20,4 +20,4 @@ Als de firmware-update mislukt, zorg dat je telefoon verbonden is met wifi. Houd
 
 Batterij gaat snel leeg? Veel AI-gebruik en Bluetooth-streaming verbruiken de batterij sneller. Laad op tijdens de lunch. De case geeft ongeveer 8 extra volledige ladingen.
 
-Voor meer hulp, vraag je helper om jonkeda.github.io/aivues/nl/hulp te bezoeken.
+Voor meer hulp, vraag je helper om aiviews.nl/nl/hulp te bezoeken.

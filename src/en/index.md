@@ -1,13 +1,13 @@
 ---
 layout: layouts/page.njk
 title: Smart Glasses Guide for Visually Impaired People
-description: "AiVues — a practical guide to Ray-Ban Meta smart glasses for blind and visually impaired people, with setup, training, and app recommendations"
+description: "AiViews — a practical guide to Ray-Ban Meta smart glasses for blind and visually impaired people, with setup, training, and app recommendations"
 lang: en
 order: 0
 permalink: /en/
 ---
 
-# AiVues — Smart Glasses Guide for Visually Impaired People
+# AiViews — Smart Glasses Guide for Visually Impaired People
 
 Smart glasses with a built-in AI camera can describe what's around you, read text aloud, identify objects, and more — all by voice. For now this site focuses on Meta smart glasses (Ray-Ban and Oakley). It helps you set them up and learn to use them.
 

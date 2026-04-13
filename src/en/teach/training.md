@@ -8,7 +8,7 @@ description: Overview of the 28-lesson training program for Ray-Ban Meta smart g
 
 # Training Overview
 
-AiVues has a 28-lesson training program split into 4 guides. You can go at your own pace.
+AiViews has a 28-lesson training program split into 4 guides. You can go at your own pace.
 
 Guide 1 is Setup and First Words. You unbox, charge, pair, and speak your first commands. By the end you'll be talking to Meta AI and making calls.
 

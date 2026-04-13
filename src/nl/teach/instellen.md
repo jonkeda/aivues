@@ -22,4 +22,4 @@ Vijf, installeer essentiële apps. Be My Eyes voor vrijwilligershulp. WhatsApp v
 
 Zes, test alles. Zeg <span lang="en">Hey Meta, what do you see</span>. Als de AI beschrijft wat er voor je is, is de installatie klaar.
 
-Voor de volledige stap-voor-stap handleiding, vraag je helper om jonkeda.github.io/aivues/nl/instellen te bezoeken.
+Voor de volledige stap-voor-stap handleiding, vraag je helper om aiviews.nl/nl/instellen te bezoeken.

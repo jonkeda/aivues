@@ -1,14 +1,14 @@
 ---
 layout: layouts/page.njk
 title: Accessibility Statement
-description: "AiVues accessibility statement — WCAG conformance, known issues, and contact information"
+description: "AiViews accessibility statement — WCAG conformance, known issues, and contact information"
 lang: en
 permalink: /en/accessibility/
 ---
 
 # Accessibility Statement
 
-AiVues is committed to making this site accessible to everyone, including people who use screen readers, magnifiers, keyboard navigation, and other assistive technologies.
+AiViews is committed to making this site accessible to everyone, including people who use screen readers, magnifiers, keyboard navigation, and other assistive technologies.
 
 ## Conformance
 

@@ -8,7 +8,7 @@ description: Overzicht van het 28-lessen trainingsprogramma voor Ray-Ban Meta sm
 
 # Training overzicht
 
-AiVues heeft een trainingsprogramma van 28 lessen verdeeld over 4 gidsen. Je bepaalt je eigen tempo.
+AiViews heeft een trainingsprogramma van 28 lessen verdeeld over 4 gidsen. Je bepaalt je eigen tempo.
 
 Gids 1 is Instellen en Eerste Woorden. Je pakt uit, laadt op, koppelt en spreekt je eerste commando's. Aan het eind praat je met Meta AI en bel je.
 

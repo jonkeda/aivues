@@ -1,14 +1,14 @@
 ---
 layout: layouts/page.njk
 title: Toegankelijkheidsverklaring
-description: "AiVues toegankelijkheidsverklaring — WCAG-conformiteit, bekende beperkingen en contactgegevens"
+description: "AiViews toegankelijkheidsverklaring — WCAG-conformiteit, bekende beperkingen en contactgegevens"
 lang: nl
 permalink: /nl/toegankelijkheid/
 ---
 
 # Toegankelijkheidsverklaring
 
-AiVues wil deze site toegankelijk maken voor iedereen, inclusief mensen die schermlezers, vergrotingssoftware, toetsenbordnavigatie en andere hulptechnologieën gebruiken.
+AiViews wil deze site toegankelijk maken voor iedereen, inclusief mensen die schermlezers, vergrotingssoftware, toetsenbordnavigatie en andere hulptechnologieën gebruiken.
 
 ## Conformiteit
 

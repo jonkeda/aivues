@@ -273,9 +273,9 @@ These channels cover smart glasses from a visually impaired perspective.
 
 ## About This Site {#about}
 
-AiVues was made to give visually impaired people a clear, focused guide for using smart glasses.
+AiViews was made to give visually impaired people a clear, focused guide for using smart glasses.
 
-**Disclaimer:** All product names, trademarks, and registered trademarks (including Ray-Ban, Meta, Oakley, Apple, Google, Spotify, and others) are the property of their respective owners. AiVues has no affiliation with any of these companies. This site contains no commercial links, sponsorships, or advertising.
+**Disclaimer:** All product names, trademarks, and registered trademarks (including Ray-Ban, Meta, Oakley, Apple, Google, Spotify, and others) are the property of their respective owners. AiViews has no affiliation with any of these companies. This site contains no commercial links, sponsorships, or advertising.
 
 **License:**
 - Code: [MIT](https://opensource.org/licenses/MIT)

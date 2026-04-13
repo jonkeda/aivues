@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Zoeken
-description: "Doorzoek de AiVues gids"
+description: "Doorzoek de AiViews gids"
 lang: nl
 permalink: /nl/zoeken/
 ---
