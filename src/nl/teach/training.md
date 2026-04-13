@@ -20,4 +20,4 @@ Gids 4 is Apps en Zelfstandigheid. Je probeert Be My Eyes, Envision AI, Ally en 
 
 Om met een specifiek onderwerp te beginnen, vertel me gewoon wat je wilt leren. Zeg: <span lang="en">Hey Meta, teach me about reading</span>. Of: <span lang="en">Hey Meta, teach me the controls</span>. Of: <span lang="en">Hey Meta, teach me about apps</span>.
 
-Voor het volledige stap-voor-stap programma met vinkjes, vraag je helper om jonkeda.github.io/aivues/nl/training te bezoeken.
+Voor het volledige stap-voor-stap programma met vinkjes, vraag je helper om aiviews.nl/nl/training te bezoeken.

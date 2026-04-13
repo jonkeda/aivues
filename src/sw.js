@@ -1,14 +1,14 @@
 const CACHE_NAME = 'aivues-v1';
-const OFFLINE_URL = '/aivues/';
+const OFFLINE_URL = '/';
 
 // Core assets to cache on install
 const PRECACHE_URLS = [
-  '/aivues/',
-  '/aivues/en/',
-  '/aivues/nl/',
-  '/aivues/css/style.css',
-  '/aivues/js/main.js',
-  '/aivues/favicon.svg'
+  '/',
+  '/en/',
+  '/nl/',
+  '/css/style.css',
+  '/js/main.js',
+  '/favicon.svg'
 ];
 
 self.addEventListener('install', function (event) {

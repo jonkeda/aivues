@@ -20,4 +20,4 @@ Guide 4 is Apps and Independence. You try Be My Eyes, Envision AI, Ally, and Scr
 
 To start with a specific topic, just tell me what you want to learn. Say: Hey Meta, teach me about reading. Or: Hey Meta, teach me the controls. Or: Hey Meta, teach me about apps.
 
-For the full step-by-step program with checkboxes, ask your helper to visit jonkeda.github.io/aivues/en/training.
+For the full step-by-step program with checkboxes, ask your helper to visit aiviews.nl/en/training.

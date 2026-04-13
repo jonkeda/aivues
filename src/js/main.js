@@ -2,7 +2,7 @@
 (function () {
   // Register service worker for offline access
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/aivues/sw.js').catch(function () {});
+    navigator.serviceWorker.register('/sw.js').catch(function () {});
   }
 
   // Mobile nav toggle
@@ -170,9 +170,9 @@
         nextStep: 'Recommended next step:',
         tryAgain: 'When you\'re ready, come back and try the assessment again.',
         restart: 'Start over',
-        setupUrl: '/aivues/en/setup/',
-        trainingUrl: '/aivues/en/training/',
-        opticiansUrl: '/aivues/en/opticians/'
+        setupUrl: '/en/setup/',
+        trainingUrl: '/en/training/',
+        opticiansUrl: '/en/opticians/'
       },
       nl: {
         great: 'Een AI bril lijkt heel geschikt voor jou!',
@@ -199,9 +199,9 @@
         nextStep: 'Aanbevolen volgende stap:',
         tryAgain: 'Als je er klaar voor bent, probeer de test dan opnieuw.',
         restart: 'Opnieuw beginnen',
-        setupUrl: '/aivues/nl/instellen/',
-        trainingUrl: '/aivues/nl/training/',
-        opticiansUrl: '/aivues/nl/opticiens/'
+        setupUrl: '/nl/instellen/',
+        trainingUrl: '/nl/training/',
+        opticiansUrl: '/nl/opticiens/'
       }
     };
     var m = msg[lang] || msg.en;

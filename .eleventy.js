@@ -16,22 +16,9 @@ module.exports = function (eleventyConfig) {
   md.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", md);
 
-  // URL filter that respects pathPrefix
-  const pathPrefix = "/aivues";
+  // URL filter (no pathPrefix needed with custom domain)
   eleventyConfig.addFilter("url", function (url) {
-    if (url && url.startsWith("/")) {
-      return pathPrefix + url;
-    }
     return url;
-  });
-
-  // Transform: rewrite absolute internal links in output HTML
-  eleventyConfig.addTransform("pathPrefix", function (content) {
-    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
-      // Rewrite href="/en/...", href="/nl/...", href="/css/...", href="/js/..."
-      return content.replace(/(href|src)="\/(?!\/)/g, '$1="' + pathPrefix + '/');
-    }
-    return content;
   });
 
   // Pass through static assets
@@ -40,6 +27,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/favicon.svg");
   eleventyConfig.addPassthroughCopy("src/og-image.svg");
   eleventyConfig.addPassthroughCopy({ "src/sw.js": "sw.js" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
 
   // Minify CSS and JS in production
   if (isProduction) {
@@ -126,6 +114,6 @@ module.exports = function (eleventyConfig) {
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
-    pathPrefix: "/aivues/",
+    pathPrefix: "/",
   };
 };
